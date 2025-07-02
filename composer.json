@@ -1,0 +1,6 @@
+{
+    "require": {
+        "hkvstore/didom": "^2.0",
+        "mibe/feedwriter": "^1.1"
+    }
+}

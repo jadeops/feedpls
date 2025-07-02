@@ -1,0 +1,44 @@
+name: Generate Feeds
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'    # Runs every 3 hours
+  workflow_dispatch:         # Also allows manual runs
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull
+
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.4'
+
+      - name: Install Composer dependencies
+        run: composer install
+
+      - name: Generate feeds
+        run: php generateFeeds.php
+
+      - name: Commit and push if changes exist
+        run: |
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update feeds"
+            git push origin main
+          fi

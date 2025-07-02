@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>GST News &amp; Updates</title>
+<description><![CDATA[News and updates from the GST Portal]]></description>
+<link>https://www.gst.gov.in/</link>
+<item>
+<pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+<title>[Others] Gross and Net GST revenue collections for the month of June, 2025</title>
+<description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of June, 2025.</p></ul>
+<ul><p><a href="https://tutorial.gst.gov.in/downloads/news/approved_monthly_gst_data_for_publishing_june_2025.pdf" target="blank">      https://tutorial.gst.gov.in/downloads/news/approved_monthly_gst_data_for_publishing_june_2025.pdf</a></p></ul>
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/614</link>
+</item>
+<item>
+<pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+<title>[Returns] Handling of Inadvertently Rejected records on IMS</title>
+<description><![CDATA[
+ 
+<p><b>Question 1: How can a recipient avail ITC of wrongly rejected Invoices/ Debit notes/ECO-Documents in IMS as corresponding GSTR-3B of same tax period was also filed by recipient?</b></p>
+<p><b>Answer:</b> In such cases recipient can request to the corresponding supplier to report the same record (without any change) in same return period’s GSTR-1A or respective amendment table of subsequent GSTR-1/IFF. Thus, recipient can avail the ITC basis on amended record by accepting such record on IMS and recomputing GSTR-2B on IMS. Here the recipient will get ITC of complete amended value as original record was rejected by the recipient.</p>
+<p>However, recipient will be able to take ITC for the again furnished document by the supplier, as stated above, only in the GSTR-2B of the concerned tax-period.</p>
+<br>
+
+<p><b>Question 2: If any original record is rejected by the recipient and supplier furnishes the same record in GSTR-1A of same tax period or in the amendment table of GSTR-1/IFF of subsequent period, till the specified time limit, then what impact it will have on supplier’s liability? </b></p>
+<p><b>Answer:</b> In case supplier had furnished an original record in GSTR-1/IFF but the same record was rejected wrongly by the recipient in IMS. In such cases supplier on noticing the same in the supplier’s view of IMS dashboard or on request of recipient, may furnish the same record again (without any change) in GSTR-1A of same tax period or in the amendment table of GSTR-1/IFF in any subsequent period, till the specified time limit, then the liability of supplier will not increase.  As amendment table take delta value only. Thus, in present case of same values, differential liability increase will be zero.</p>
+<br>
+
+<p><b>Question 3: As a recipient taxpayer, how to reverse ITC of wrongly rejected Credit note in IMS as the corresponding GSTR-3B has already been filed? </b></p>
+<p><b>Answer:</b> In such cases recipient can request the concerned supplier to furnish the same Credit note (CN) without any change in the same return period’s GSTR-1A or in amendment table of subsequent period’s GSTR-1/IFF. Now recipient can reverse the availed ITC based on the amended CN by accepting the CN on IMS. Hence, the recipient’s ITC will get reduced with complete amended value, as soon as the recipient recomputes GSTR-2B on IMS. The reduced value is same as that of the value of original CN as in this case the complete original CN was rejected by the recipient.</p>
+<br>
+
+
+<p><b>Question 4: If any original Credit note was rejected by the recipient and supplier furnishes the same credit note in GSTR-1A of same tax period or in the amendment table of GSTR-1/IFF of any future tax-period, till the specified time limit, then what impact it will have on supplier’s liability? </b></p>
+<p><b>Answer:</b> At first instant the supplier’s liability will be added back in the open GSTR-3B return, because of original credit note rejection by the recipient. However, as the supplier furnishes the same credit note in GSTR-1A of same tax period or in amendment table of GSTR-1/IFF in any subsequent period, supplier’s liability for this amendment will get reduced again corresponding to the value of amended CN (which in this case is same as original). Thus, net effect on liability of supplier will be only once.</p>
+<br>
+
+
+
+Thanking You, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/613</link>
+</item>
+<item>
+<pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+<title>[Returns] Advisory to file pending returns before expiry of three years</title>
+<description><![CDATA[
+ 
+<p> As per the Finance Act,2023 (8 of 2023), dt. 31-03-2023, implemented w.e.f 01-10-2023 vide Notification No. 28/2023 – Central Tax dated 31th July, 2023, the taxpayers shall not be allowed file their GST returns after the expiry of a period of three years from the due date of furnishing the said return under Section 37 ( Outward Supply), Section 39 (payment of liability), Section 44 ( Annual Return) and Section 52 (Tax Collected at Source). These Sections cover GSTR-1, GSR-1A, GSTR 3B, GSTR-4, GSTR-5, GSTR-5A, GSTR-6, GSTR 7, GSTR 8 and GSTR 9 or 9C. </p>
+
+<p> Hence, above mentioned returns will be barred for filing after expiry of three years. The said restriction will be implemented on the GST portal from July 2025 Tax period. Which means any return for which due date was three years back or more and hasn’t been filed till July Tax period will be barred from Filling. In this regard an advisory was already issued by GSTN on<a href="https://services.gst.gov.in/services/advisoryandreleases/read/540" target="blank"> October 29th, 2024 </a></p>
+
+
+
+<p>Illustration : For ease of reference and better clarity, the latest GST returns that will be barred from filing w.e.f 1st August 2025 are detailed in the table below: </a></p>
+
+
+
+<table border="1">
+  <tr>
+    <th>GST Forms</th>
+	<td colspan="5"><center><b>Barred Period (w.e.f. 1st August 2025)</b></center></td>
+  </tr>
+  <tr>
+    <td>GSTR-1/IFF</td>
+    <td align=right>June-2022</td>
+  </tr>
+  <tr>
+    <td>GSTR-1Q</td>
+    <td align=right>April-June 2022</td>
+  </tr>
+  <tr>
+    <td>GSTR-3B/M</td>
+    <td align=right>June-2022</td>
+  </tr>
+  <tr>
+    <td>GSTR-3BQ</td>
+    <td align=right>April-June 2022</td>
+  </tr>
+  <tr>
+    <td>GSTR-4</td>
+    <td align=right>FY 2021-22</td>
+  </tr>
+  <tr>
+    <td>GSTR-5</td>
+    <td align=right>June-2022</td>
+  </tr>
+  <tr>
+    <td>GSTR-6</td>
+    <td align=right>June-2022</td>
+  </tr>
+  <tr>
+    <td>GSTR-7</td>
+    <td align=right>June-2022</td>
+  </tr>
+  <tr>
+    <td>GSTR-8</td>
+    <td align=right>June-2022</td>
+  </tr>
+  <tr>
+    <td>GSTR-9/9C</td>
+    <td align=right>FY 2020-21</td>
+  </tr>
+  </table>
+
+ 
+
+ 
+
+
+
+<p>Hence, the taxpayers are once again advised to reconcile their records and file their GST Returns as soon as possible if not filed till now.</p>
+
+
+
+
+
+Thanking You, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/612</link>
+</item>
+<item>
+<pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+<title>[E-way bill ] Subject: Introduction of Enhanced Inter-operable Services Between E-Way Bill Portals</title>
+<description><![CDATA[
+ 
+<p> GSTN is pleased to inform that NIC shall be launching the new E-Way Bill 2.0 portal <a href="https://ewaybill2.gst.gov.in" target="blank">(https://ewaybill2.gst.gov.in)</a>  on <b>1st July 2025</b>, featuring enhanced inter-operable E-Way Bill functionalities. The portal is being introduced to provide <b>enhanced inter-operability</b> between the existing <b>E-Way Bill 1.0 Portal</b> <a href="https://ewaybillgst.gov.in" target="blank">(https://ewaybillgst.gov.in)</a> and the new portal. </p>
+
+<p><b> 1. Objective</b> <br>
+The new E-Way Bill 2.0 portal has been developed in response to taxpayers’ demands for continuity in services during exigencies. It enables cross-portal access to critical E-Way Bill functionalities, ensuring seamless operations for taxpayers and transporters.</p>
+
+<p><b>2. New Inter-Operable Services</b> <br>
+<p>The following additional services will be available on the E-Way Bill 2.0 portal for E-Way Bills generated on either portal (E-Way Bill 1.0 or E-Way Bill 2.0):</p>
+<ul> a)	Generation of E-Way Bill based on Part-A details entered by the supplier </ul>
+<ul> b)	Generation of Consolidated E-Way Bills </ul>
+<ul> c)	Extension of validity of E-Way Bills </ul>
+<ul> d)	Update of transporter details </ul>
+<ul> e)	Retrieval of consolidated E-Way Bills </ul> </p>
+
+<p><p>These services are <b>in addition to</b> the currently available cross-functional services:</p>
+<ul> a)	Generation of E-Way Bills </ul>
+<ul> b)	Updating of vehicle details </ul>
+<ul> c)	Printing of E-Way Bills </ul> </p></p></p>
+
+<p><b>3. System Integration and Synchronisation</b> <br>
+<ul>a)	Both portals will operate on a <b>real-time synchronised architecture </b> wherein E-Way Bill data will be mirrored across both systems within seconds </ul>
+<ul> b)	In the event of a technical issue or downtime on the E-Way Bill 1.0 portal, taxpayers may perform all necessary operations (e.g., updating Part-B) on the E-Way Bill 2.0 portal and carry the E-Way Bill slip generated therefrom. </ul>
+<ul> c)	This dual-system approach is designed to <b>eliminate dependency on a single portal</b> and ensure business continuity. </ul></p>
+
+<p><b>4. Availability via API</b> <br><br>
+All the above services will also be made available to taxpayers and logistics operators through <b>APIs</b>, in addition to the web portal interface. These APIs are currently hosted on the <b>sandbox environment</b> for testing and integration purposes.</p>
+
+<p><b>5. Key Benefits </b> <br>
+<p>Eventually, the data from both E-Way Bill1 and E-Way Bill2 portals shall be seamlessly merged and integrated, thereby eliminating dependency on the E-Way Bill1 system during exigencies. The E-Way Bill2 portal is designed to synchronise E-Way Bill details with the main portal within a few seconds.</p>
+<p>Criss-cross operations between the two portals are fully enabled — updates made to E-Way Bills generated on the E-Way Bill1 portal can be carried out on the E-Way Bill2 portal, and vice versa. In the event of non-availability of the main portal due to technical reasons, Part-B details of E-Way Bills generated on the E-Way Bill1 portal can be updated through the E-Way Bill2 portal, and both versions of the E-Way Bill slip may be carried accordingly.</p>
+<p>Taxpayers and logistics operators are encouraged to familiarise themselves with the new functionalities and integrate API services where applicable.</p>
+<p>For any assistance or further clarifications, users may contact the GST Helpdesk or refer to the user manuals provided on the respective portals.</p>
+</p>
+
+
+
+Issued by: <br>
+Team GSTN & NIC]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/611</link>
+</item>
+<item>
+<pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+<title>[Others] Subject: Filing of SPL-01/ SPL-02 where payment made through GSTR 3B and other cases</title>
+<description><![CDATA[
+ 
+<p>1. While filing amnesty applications in Form SPL-01 or SPL-02 under Section 128A of the CGST Act, 2017, some taxpayers are facing technical issues related to auto population of payment details in Table 4 of the forms.</p>
+
+<p>2. In particular, it has been observed that in certain instances, the payments details may not be accurately auto-populated in the applications filed by the taxpayers:</p>
+<ul>(a) &nbsp;&nbsp; Amount paid through "payment towards demand order" functionality</ul>
+<ul>(b) &nbsp;&nbsp; Pre-deposit amount details</ul>
+<ul>(c) &nbsp;&nbsp; Payment made through GSTR 3B</ul>
+
+<p>3. In the above cases, taxpayers are advised to proceed with filing of waiver application as GST portal doesn't stop the taxpayers from filing the application in case wherever the payment details and demand amount are not matching.</p>
+
+<p>4. In all such cases, it is advised to upload the relevant payment information as attachments along with the online application for the verification by the jurisdictional officer</p>
+
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/610</link>
+</item>
+<item>
+<pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+<title>[Others] Subject : Advisory on filing of Amnesty applications under Section 128A of the CGST Act</title>
+<description><![CDATA[
+<p>1. As on 08.06.2025, a total of <b>3,02,658 waiver applications</b> have been filed through <b>SPL-01/02</b>. However, it has come to notice that certain taxpayers are facing difficulties in filing amnesty applications under Section 128A on the GST portal. In view of the approaching last date for submission, various trade bodies have submitted representations requesting an alternate mechanism to facilitate filing. </p>
+ 
+<p>2. In view of the above, taxpayers who are facing technical issue which is restricting them to file waiver application are advised to adopt the steps outlined in the below link:</p>
+ 
+<a href="https://tutorial.gst.gov.in/downloads/news/link_data.pdf" target="blank">https://tutorial.gst.gov.in/downloads/news/link_data.pdf</a>
+ 
+<p>3. Difficult if any, faced by the taxpayers in filing applications through this route may immediately be brought into the notice of GSTN by raising a complaint on GST Self-service portal : (<a href="https://selfservice.gstsystem.in" target="blank">https://selfservice.gstsystem.in</a>)</p>
+ 
+Thanks, <br>
+
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/609</link>
+</item>
+<item>
+<pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+<title>[Refund] System Validation for Filing of Refund Applications on GST Portal for QRMP Taxpayers</title>
+<description><![CDATA[
+ 
+<p>1.In the month of May 2025, a system-level validation was deployed on the GST Portal to ensure adherence to the provisions outlined in Para 6 of Circular No. 125/44/2019-GST dated 18.11.2019. As per the said circular: </p>
+
+
+<p><i>“Any refund claim for a tax period may be filed only after furnishing all the returns in FORM GSTR-1 and FORM GSTR-3B which were due to be furnished on or before the date on which the refund application is being filed. However, in case of a claim for refund filed by a composition taxpayer, a non-resident taxable person, or an Input Service Distributor (ISD), furnishing of returns in FORM GSTR-1 and FORM GSTR-3B is not required. Instead, the applicant should have furnished returns in FORM GSTR-4 (along with FORM GST CMP-08), FORM GSTR-5 or FORM GSTR-6, as the case may be, which were due to be furnished on or before the date on which the refund application is being filed.”</i></p>
+
+
+<p>2.Accordingly, the GST system was updated to allow refund applications only if the taxpayer had filed all relevant returns that were due up to the date of filing the refund application. </p>
+
+<p>3.Post implementation of the above validation, it was observed that taxpayers registered under the Quarterly Return Monthly Payment (QRMP) scheme encountered issues while attempting to file refund applications. Specifically, the system was not recognizing invoices furnished using the Invoice Furnishing Facility (IFF) for the first two months of the quarter (M1 and M2), resulting in the inability to proceed with refund filing. Additionally, in cases where GSTR-1 for the previous quarter had already been filed, the system was erroneously prompting taxpayers to file returns for M1 and M2 of the current quarter too. Taxpayers were facing this issue when the refund application was being submitted during the period between the two quarters. </p>
+
+<p>4.This is to inform the taxpayers that the aforementioned technical issue has now been resolved. Taxpayers under the QRMP scheme can now file refund applications for the invoices for which GSTR-3B has been already filed. Please note invoices furnished through IFF for which GSTR-3B is yet to be filed in coming return period should not be included in the refund application.</p>
+
+<p>5.All taxpayers are advised to ensure that relevant returns are filed prior to filing a refund application, as per the legal provisions and existing system validations. </p>
+
+<p>6.In case of any discrepancies or system-related queries, taxpayers may reach out to the GST Helpdesk (<a href=" https://selfservice.gstsystem.in" target="blank">https://selfservice.gstsystem.in</a>)</p> 
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/608</link>
+</item>
+<item>
+<pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+<title>[Returns] Barring of GST Return on expiry of three years</title>
+<description><![CDATA[
+ 
+<p>As per the Finance Act,2023 (8 of 2023), dt. 31-03-2023, implemented w.e.f 01-10-2023 vide Notification No. 28/2023 – Central Tax dated 31th July, 2023, the taxpayers shall not be allowed file their GST returns after the expiry of a period of three years from the due date of furnishing the said return under Section 37 ( Outward Supply), Section 39 (payment of liability), Section 44 ( Annual Return) and Section 52 (Tax Collected at Source). These Sections cover GSTR-1, GSTR 3B, GSTR-4, GSTR-5, GSTR-5A, GSTR-6, GSTR 7, GSTR 8 and GSTR 9. </p>
+
+
+<p>Hence, above mentioned returns will be barred for filing after expiry of three years. The said restriction will be implemented on the GST portal from July 2025 Tax period. Hence, the taxpayers are once again advised to reconcile their records and file their GST Returns as soon as possible if not filed till now.</p>
+
+<p>Earlier also an <a href="https://services.gst.gov.in/services/advisoryandreleases/read/540" target="blank"> advisory dated October 29th, 2024 </a> , was issued by GSTN on this issue. </b></p>
+
+Thanking You, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/607</link>
+</item>
+<item>
+<pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+<title>[Returns] Advisory regarding non-editable of auto-populated liability in GSTR-3B</title>
+<description><![CDATA[
+ 
+
+<ul><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.GST Portal provides a pre-filled GSTR-3B, where the tax liability gets auto-populated based on the outward supplies declared in GSTR-1/ GSTR-1A/ IFF. As of now taxpayers can edit  such auto populated values in form GSTR 3B itself. </p></ul>
+
+<ul><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.With introduction of form GSTR 1A, taxpayer now has a facility to amend their incorrectly declared outward supplies in GSTR-1/IFF through GSTR-1A, allowing them an opportunity to correct their liabilities before filing their GSTR-3B in the same return period.</p></ul>
+
+<ul><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.In view of the same, from <b>July,2025 tax period</b> for which form GSTR 3B will be furnished in August,2025 such auto populated liability will become non editable. Thus, taxpayers will be allowed to amend their auto populated liability by making amendments through form GSTR 1A which can be filed for the same tax period before filing of GSTR 3B.</p></ul>
+
+<ul><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.For more details,kindly refer to the  <a href=" https://services.gst.gov.in/services/advisoryandreleases/read/578 " target="blank"> advisory dated January 27, 2025 </a> and <a href=" https://services.gst.gov.in/services/advisoryandreleases/read/535 " target="blank"> advisory dated October 17, 2024 </a> , issued by GSTN on this issue. </b></p></ul>
+
+Thanking You, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/606</link>
+</item>
+<item>
+<pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+<title>[Others] Gross and Net GST revenue collections for the month of May, 2025</title>
+<description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of May, 2025.</p></ul>
+<ul><p><a href="https://tutorial.gst.gov.in/downloads/news/approved_monthly_gst_data_for_publishing_may_2025.pdf" target="blank">https://tutorial.gst.gov.in/downloads/news/approved_monthly_gst_data_for_publishing_may_2025.pdf</a></p></ul>
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/605</link>
+</item>
+<item>
+<pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+<title>[Returns] Attention - Advisory on reporting values in Table 3.2 of GSTR-3B</title>
+<description><![CDATA[
+<p> This is to inform taxpayers of the following developments concerning Table 3.2 of Form GSTR-3B:</p>
+
+<p>1.As per the earlier advisory dated <b>April 11, 2025</b>, it was communicated that the <b>auto-populated values in Table 3.2 of Form GSTR-3B</b> would be made <b>non-editable</b> starting from the <b>April 2025 tax period</b> (i.e., for the return to be filed in <b>May 2025</b>).</p>
+
+<p>2.However, <b>GSTN has received several representations and grievances from taxpayers</b> regarding this change. These concerns are currently being examined and will be suitably addressed in due course.</p>
+
+<p>3.In the interest of taxpayer convenience and to facilitate smooth filing, it has been decided that <b>Table 3.2 shall remain editable</b> for the time being. Taxpayers are <b>advised to report or amend the auto populated entries, if required and furnish their returns accurately</b>, ensuring the correctness of the disclosed information.
+</p>
+
+<p>4.Taxpayers will be <b>duly informed through a separate communication</b> once the proposed changes are implemented on the GST Portal.</p>
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/604</link>
+</item>
+<item>
+<pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+<title>[Others] Advisory on Appeal withdrawal with respect to Waiver scheme</title>
+<description><![CDATA[
+<p> In the GST system, when Withdrawal application (APL 01W) for appeal is filed before issuance of final acknowledgment (APL 02) by the Appellate authority, then the system automatically withdraws the Appeal application (APL 01). In such cases, the status of the appeal application will automatically change from “Appeal submitted” to “Appeal withdrawn”.</p>
+
+<p>However, if withdrawal application is filed after issuance of final acknowledgment, then the withdrawal of such appeal is subjected to the approval of the Appellate authority. Once the Appellate authority approves the withdrawal application, the status of the Appeal application changes from “Appeal submitted” to “Appeal withdrawn”.</p>
+
+<p>Waiver scheme under Section 128A mandates that any appeal against the requisite demand order should not remain pending with Appellate authority. In both the above-mentioned cases, the status of the Appeal application is changed to “Appeal Withdrawn” which essentially fulfilled the requirement.</p>
+
+
+<p>While filing waiver application or in the already filed waiver application, taxpayers need to upload the screenshot of the appeal case folder showing status as “Appeal withdrawn”.</p>
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/602</link>
+</item>
+<item>
+<pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+<title>[Refunds] Updates in Refund Filing Process for Recipients of Deemed Export</title>
+<description><![CDATA[
+<p> GSTN has made the following changes in the refund filing process under the category <b>"On account of Refund by Recipient of deemed export":</b></p>
+
+<p>1.&nbsp;&nbsp;Refund applications under this category is <b>no longer need to be filed in chronological order</b> of Tax Period which means Taxpayers are not required to select <b>"From Period" and "To Period" </b>while filing refund application.</p>
+
+<p>2.&nbsp;&nbsp;Taxpayers must ensure that all the returns (GSTR-1, GSTR-3B etc) due till the date of refund application, are filed. </p>
+
+
+<p>3.&nbsp;&nbsp;Under the afore said category, the table <b><a href="https://tutorial.gst.gov.in/downloads/news/GST_RFD_01.pdf" target="blank">“Amount Eligible for Refund”</a></b> has been modified. The columns of the revised table are explained hereunder: </p>
+
+<ul>a. &nbsp;&nbsp; Col. 1 <b><i>‘Balance in ECL at the time of filing of refund application’</b></i>. This column will reflect the balance available under various Head in Electronic Credit Ledger at the time of filing of application. It will be auto populated.</ul>
+<ul>b. &nbsp;&nbsp; Col. 2 <b>‘Net Input Tax Credit (ITC) of Deemed Exports (as per uploaded invoices)’,</b> in this column the amount of claimed ITC, under respective major Heads will be auto populated based on invoices furnished in Statement 5B.</ul>
+<ul>c. &nbsp;&nbsp; Col. 3 <b>‘Refund amount as per the uploaded invoices’</b> reflects the sum of the amount of ITC claimed under all major Heads (IGST/CGST/SGST/UT) as per the invoices uploaded by the taxpayer in Statement 5B and shall be <b>downward editable</b>.</ul>
+<ul>d. &nbsp;&nbsp; Col. 4 <b>‘Eligible Refund Amount’</b>. In this column, maximum amount of ITC which is available for refund claim will be auto populated. It will be auto-calculated based on the order of debit specified in Circular No. 125/44/2019-GST dated 18.11.2019.</ul>
+<ul>e. &nbsp;&nbsp; Col. 5 <b>“Refund amount not eligible as insufficient balance in the ECL (5)”</b>. This column reflects the difference between the total amount of claimed ITC and the total amount of ITC available in Electronic credit Ledger under various major Heads. </ul>
+
+<p>4. &nbsp;&nbsp; Functionality has been improved to maximize the amount of refund a taxpayer can claim in terms of uploaded invoices, irrespective of the fact that sufficient balance is available in the respective Head of electronic credit ledger or not. Here, the total amount of claim under various Heads (IGST, CGST,SGST) will be compared with total amount of ITC available under various Heads in electronic credit ledger.
+
+<p>5. &nbsp;&nbsp; The taxpayers are advised to note these changes and if any problem is faced while filing of refund application, grievance may be raised in GST portal. <a href="https://selfservice.gstsystem.in/ReportIssue.aspx" target="blank">https://selfservice.gstsystem.in/ReportIssue.aspx</a></p><br><br>
+
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/601</link>
+</item>
+<item>
+<pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+<title>[Refund] Updates in Refund Filing Process for various refund categories-Reg</title>
+<description><![CDATA[
+
+<p>1. &nbsp;&nbsp; GSTN has been made important changes in the refund filing process under the following categories:
+
+<ul>(a) &nbsp;&nbsp; Export of Services with payment of tax</ul>
+<ul>(b) &nbsp;&nbsp; Supplies made to SEZ Unit/SEZ Developer with payment of tax</ul>
+<ul>(c) &nbsp;&nbsp; On account of Refund by Supplier of Deemed export</ul></p>
+
+<p>2. &nbsp;&nbsp; 	For the above refund categories, the requirement to select a specific tax period (‘From’ and ‘To’) while filing refund applications has been <b>removed</b>. The taxpayers can now directly proceed with selecting the refund category as above and clicking on <b>“Create Refund Application.</b>”</p>
+
+
+<p>3.&nbsp;&nbsp;	Taxpayers must ensure that all the returns (<b>GSTR-1, GSTR-3B etc</b>) due till the date of refund application, are filed. </p>
+
+<p>4. &nbsp;&nbsp; The said refund categories are changed from ‘<b>Tax Period based filing</b>’ to ‘<b>Invoice based filing</b>’. The taxpayers can upload eligible invoices and claim refund in the following statements:
+
+<ul>(a) &nbsp;&nbsp; Export of Services with payment of Tax (Statement 2)</ul>
+<ul>(b) &nbsp;&nbsp; SEZ Supplies with payment of Tax (Statement 4)</ul>
+<ul>(c) &nbsp;&nbsp; In case of Deemed Exports, the application by Supplier (Statement 5B)</ul></p>
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp; The invoices once uploaded with a refund application will be locked for any further amendment and will not be available for any subsequent refund claims. The said invoices will be unlocked only if the <b>refund application is withdrawn or a deficiency memo is issued</b>.</p>
+
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/600</link>
+</item>
+<item>
+<pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+<title>[Returns] Invoice-wise Reporting Functionality in Form GSTR-7 on portal-reg</title>
+<description><![CDATA[<p>Vide Notification No. 09/2025 – Central Tax dated 11.02.2025, Form GSTR-7 has been amended to capture invoice-wise reporting with effect from 01.04.2025 i.e. the return period for April 2025 onwards.</p>
+
+<p>In this regard it is to inform that development and testing of the same is underway, the implementation of invoice-wise reporting in Form GSTR-7 in GST portal will be deployed on portal soon. Thus, the enhanced functionality shall be deployed shortly, and users will be duly informed once the changes are made live on the portal.</p>
+
+
+Regards, <br>
+GSTN Team]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/599</link>
+</item>
+<item>
+<pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+<title>[Registration] Advisory for Biometric-Based Aadhaar Authentication and Document Verification for GST Registration Applicants of Sikkim</title>
+<description><![CDATA[<p>Dear Taxpayers,</p>
+
+<p>This is to inform taxpayers about recent developments concerning the application process for GST registration. It is advised to keep the following key points in mind during the registration process.</p>
+
+<p>1. &nbsp;&nbsp; Rule 8 of the CGST Rules, 2017 has been amended to provide that an applicant can be identified on the common portal, based on data analysis and risk parameters for Biometric-based Aadhaar Authentication and taking a photograph of the applicant along with the verification of the original copy of the documents uploaded with the application.</p>
+
+<p>2. &nbsp;&nbsp; The above-said functionality has been developed by GSTN. It has been rolled out in Sikkim on <b>1st May, 2025. </b></p>
+
+<p><p>3. &nbsp;&nbsp; The said functionality also provides for the document verification and appointment booking process. After the submission of the application in Form GST REG-01, the applicant will receive either of the following links in the e-mail,</p>
+<ul>(a) &nbsp;&nbsp; A Link for OTP-based Aadhaar Authentication OR</ul>
+<ul>(b) &nbsp;&nbsp; A link for booking an appointment with a message to visit a GST Suvidha Kendra (GSK) along with the details of the GSK and jurisdiction, for Biometric-based Aadhaar Authentication and document verification (the intimation e-mail)</ul></p>
+
+<p>4. &nbsp;&nbsp; If the applicant receives the link for OTP-based Aadhaar Authentication as mentioned in point 3(a), she/he can proceed with the application as per the existing process.</p>
+
+<p>5. &nbsp;&nbsp; However, if the applicant receives the link as mentioned in point 3(b), she/he will be required to book the appointment to visit the designated GSK, using the link provided in the e-mail.</p>
+
+<p>6. &nbsp;&nbsp; The feature of booking an appointment to visit a designated GSK is being enabled for the applicants of Sikkim and the applicants can book slots from <b>1st May, 2025.</b>.</p>
+
+<p>7. &nbsp;&nbsp; 	After booking the appointment, the applicant gets the confirmation of appointment through e-mail (the appointment confirmation e-mail), she/he will be able to visit the designated GSK as per the chosen schedule.</p>
+
+<p><p>8. &nbsp;&nbsp; At the time of the visit of GSK, the applicant is required to carry the following details/documents</p>
+<ul>(a) &nbsp;&nbsp; a copy (hard/soft) of the appointment confirmation e-mail </ul>
+<ul>(b) &nbsp;&nbsp; the details of jurisdiction as mentioned in the intimation e-mail </ul>
+<ul>(c) &nbsp;&nbsp; Aadhaar Card and PAN Card (Original Copies) </ul>
+<ul>(d) &nbsp;&nbsp; the original documents that were uploaded with the application, as communicated by the intimation e-mail.</ul></p>
+
+<p>9. &nbsp;&nbsp; The biometric authentication and document verification will be done at the GSK, for all the required individuals as per the GST application Form REG-01.</p>
+
+<p>10. &nbsp;&nbsp; The applicant is required to choose an appointment for the biometric verification during the maximum permissible period for the application as indicated in the intimation e-mail. In such cases, ARNs will be generated once the Biometric-based Aadhaar Authentication process and document verification are completed.</p>
+
+<p>11. &nbsp;&nbsp; The operation days and hours of GSKs will be as per the guidelines provided by the administration in your state.</p>
+
+
+
+Thanking You, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/598</link>
+</item>
+<item>
+<pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+<title>[Returns] Reporting of HSN codes in Table 12 and list of documents in table 13 of GSTR-1/1A</title>
+<description><![CDATA[<p> 
+Vide Notification No. 78/2020 – Central Tax dated 15th October 2020, it is mandatory for the taxpayers to report minimum 4 digits or 6 digits of HSN Code in table-12 of GSTR-1 on the basis of Aggregate Annual Turnover (AATO) in the preceding Financial Year. To facilitate the taxpayers,
+these changes are being implemented in a phase-wise manner on GST Portal wherein Phase 2 was implemented on GST Portal effective from 01st November 2022.</p>
+<p>In continuation of the phase wise implementation, Phase-3 of reporting of HSN codes in Table 12 of GSTR-1 & 1A shall be implemented from <b>May 2025</b> return period. Further , table 13 of GSTR-1/1A is also being made mandatory for the taxpayers from the said tax period. For detailed advisory <a href="https://tutorial.gst.gov.in/downloads/news/updated_advisory_hsn_table12_25042025.pdf" target="blank">please click here</a>.</p>
+
+
+
+Thanking You, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/597</link>
+</item>
+<item>
+<pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+<title>[Others] Gross and Net GST revenue collections for the month of Apr, 2025</title>
+<description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of April, 2025.</p></ul>
+<ul><p><a href="https://tutorial.gst.gov.in/downloads/news/approved_monthly_gst_data_for_publishing_apr_2025.pdf" target="blank">https://tutorial.gst.gov.in/downloads/news/approved_monthly_gst_data_for_publishing_apr_2025.pdf</a></p></ul>
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/596</link>
+</item>
+<item>
+<pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+<title>[Returns] Advisory on reporting values in Table 3.2 of GSTR-3B</title>
+<description><![CDATA[<p>1.	Table 3.2 of Form GSTR-3B captures the inter-state supplies made to unregistered persons, composition taxpayers, and UIN holders out of the supplies declared in Table 3.1 & 3.1.1 of GSTR-3B. The values in Table 3.2 of GSTR-3B auto-populates from corresponding inter-state supplies declared in GSTR-1, GSTR-1A, and IFF in requisite tables.</p>
+
+<p>2.	It is to inform you that from <b>April-2025 tax period,</b> inter-state supplies auto-populated in Table 3.2 of GSTR-3B will be made <b>non-editable</b>. The GSTR-3B shall be filed with the auto-populated values as generated by the system only.</p>
+
+<p>3.	Therefore, in case any modification/amendment is required in auto-populated values of Table 3.2 of GSTR-3B, same can be done only by amending the corresponding values in respective tables of GSTR-1A or through Form GSTR-1/IFF filed for subsequent tax periods.</p>
+
+<p>4.	To ensure that GSTR-3B is filed accurately with the correct values of inter-state supplies, it is advised to report the correct values in GSTR-1, GSTR-1A, or IFF. This will ensure the auto-populated values in Table 3.2 of GSTR-3B are accurate and compliant with GST regulations.</p>
+
+
+<p><b>FAQ’s</b></p>
+
+<p><b>1.	What are the changes related to reporting supplies in Table 3.2?</b></p>
+<p>Starting from the April 2025 tax period, the auto-populated values in Table 3.2 of GSTR-3B for inter-state supplies made to unregistered persons, composition taxpayers, and UIN holders will be non-editable, and taxpayers will need to file GSTR-3B with the auto-populated values generated by the system only.</p>
+
+<p><b>2.	How can I rectify values in Table 3.2 of GSTR-3B if incorrect values have been auto-populated after April 2025 period onwards due to incorrect reporting of the same through GSTR-1?</b></p>
+<p>If incorrect values are auto-populated in Table 3.2 after April 2025, taxpayers need to correct the values by making amendments through Form GSTR-1A or through Form GSTR-1/IFF filed for subsequent tax periods. </p>
+
+
+<p><b>3.	What should I do to ensure accurate reporting in Table 3.2 of GSTR-3B?</b></p>
+<p>Taxpayers should ensure that the inter-state supplies are reported correctly in their GSTR-1, GSTR-1A, or IFF. This will ensure that the accurate values are auto-populated in Table 3.2 of GSTR-3B.</p>
+
+
+<p><b>4.	Till what time/date I can amend values furnished in GSTR-1 through Form GSTR-1A?</b> </p>
+<p>As there is no cut-off date for filing Form GSTR-1A before GSTR-3B which means Form GSTR-1A can be filed after filing Form GSTR-1and till the time of filing Form GSTR-3B. Hence, any amendment required in auto-populated values of table 3.2, same can be carried out through Form GSTR-1A till the moment of filing GSTR-3B.</p>
+
+Thanking You, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/594</link>
+</item>
+<item>
+<pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+<title>[E-Invoice] Advisory on Case Insensitivity in IRN Generation</title>
+<description><![CDATA[<p>Dear Taxpayer,</p>
+
+<p>1. &nbsp;&nbsp; This is to inform you that, effective 1st June 2025, the IRP (Invoice Reporting Portal) would treat invoice/document numbers as case-insensitive for the purpose of IRN generation.</p>
+
+<p>2. &nbsp;&nbsp; To ensure consistency and avoid duplication, invoice numbers reported in any format (e.g., "abc", "ABC", or "Abc") would be automatically converted to uppercase before IRN generation. This change aligns with the treatment of invoice numbers in GSTR-1, which already treats them as case-insensitive.</p>
+
+<p>3. &nbsp;&nbsp; The same is shared for your kind information please. For any further clarification, please reach out to the GST helpdesk.</p>
+
+Warm regards, <br>
+GSTN Team]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/592</link>
+</item>
+</channel>
+</rss>

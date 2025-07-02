@@ -1,0 +1,5 @@
+vendor/
+
+# Needed for github actions cron?
+#feeds/*.rss
+#feeds/*.atom
