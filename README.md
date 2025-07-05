@@ -14,7 +14,8 @@ Below are automatically updated via Github Actions (every few hours).
 composer install
 php generateFeeds.php
 
-# Check feeds/*
+# Check feeds/* for rss feeds
+# Check logs/* for failures
 ```
 
 ## Fix code format

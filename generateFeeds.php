@@ -7,6 +7,16 @@ use FeedWriter\RSS2;
 
 date_default_timezone_set('UTC');
 
+define('PATH_LOG_FILE', __DIR__ . '/logs/cron.log');
+
+// Truncate old logs on start
+file_put_contents(PATH_LOG_FILE, '');
+
+function msg(string $message): void
+{
+    error_log($message . PHP_EOL, 3, PATH_LOG_FILE);
+}
+
 /**
  * Format $posts[]
  *     'date',
@@ -20,7 +30,7 @@ function createRssFeed(
     string $link,
     array $posts,
     string $fileName
-): void {
+): bool {
     $rssFeed = new RSS2();
     $rssFeed->setTitle($title);
     $rssFeed->setDescription($desc);
@@ -35,7 +45,11 @@ function createRssFeed(
             $rssFeed->addItem($item);
         }
         file_put_contents(__DIR__ . "/feeds/$fileName.rss", $rssFeed->generateFeed());
+        msg("[INFO] Success $fileName.rss");
+        return true;
     }
+    msg("[ERROR] Failure $fileName.rss - no posts found.");
+    return false;
 }
 
 function updateIncomeTaxNews(): void
@@ -57,15 +71,13 @@ function updateIncomeTaxNews(): void
 
     // var_dump($transformedPosts);exit;
 
-    if (!empty($transformedPosts)) {
-        createRssFeed(
-            title: 'Income Tax Department - News',
-            desc: 'Income Tax Department - News',
-            link: 'https://www.incometax.gov.in/iec/foportal/latest-news',
-            posts: $transformedPosts,
-            fileName: 'itd-news'
-        );
-    }
+    createRssFeed(
+        title: 'Income Tax Department - News',
+        desc: 'Income Tax Department - News',
+        link: 'https://www.incometax.gov.in/iec/foportal/latest-news',
+        posts: $transformedPosts,
+        fileName: 'itd-news'
+    );
 }
 
 // inspiration: https://github.com/kskarthik/gstfeed/blob/master/main.ts
@@ -76,10 +88,6 @@ function updateGstNews(): void
     $data = json_decode($json, true);
     // var_dump($data);exit;
     if (!empty($data['data'])) {
-        $rssFeed = new RSS2();
-        $rssFeed->setTitle('GST News & Updates');
-        $rssFeed->setDescription('News and updates from the GST Portal');
-        $rssFeed->setLink('https://www.gst.gov.in/');
         foreach ($data['data'] as $post) {
             $post['id'] = $post['id'] ?? 0;
             if (!empty($post['module'])) {
@@ -88,15 +96,22 @@ function updateGstNews(): void
             // Change format "11/04/2025" -> "2025-04-11"
             $date = DateTime::createFromFormat('d/m/Y', $post['date']);
             $post['date'] =  $date->format('Y-m-d');
-            $item = $rssFeed->createNewItem();
-            $item->setDate($post['date']);
-            $item->setTitle($post['title']);
-            $item->setDescription($post['content']);
-            $item->setLink("https://services.gst.gov.in/services/advisoryandreleases/read/{$post['id']}");
-            $rssFeed->addItem($item);
+            $transformedPosts[] = [
+                'date' => $post['date'],
+                'title' => $post['title'],
+                'desc' => $post['content'],
+                'link' => "https://services.gst.gov.in/services/advisoryandreleases/read/{$post['id']}",
+            ];
         }
-        file_put_contents(__DIR__ . '/feeds/gst-news.rss', $rssFeed->generateFeed());
     }
+
+    createRssFeed(
+        title: 'GST News & Updates',
+        desc: 'News and updates from the GST Portal',
+        link: 'https://www.gst.gov.in/',
+        posts: $transformedPosts,
+        fileName: 'gst-news'
+    );
 }
 
 // BIOS
@@ -121,16 +136,13 @@ function updateSelfLaptopDriverUpdates(): void
         }
     }
 
-
-    if (!empty($transformedPosts)) {
-        createRssFeed(
-            title: 'IdeaPad Pro 5 14IMH9 - Updates',
-            desc: 'IdeaPad Pro 5 14IMH9 - Updates',
-            link: 'https://pcsupport.lenovo.com/in/en/products/laptops-and-netbooks/5-series/ideapad-pro-5-14imh9/83d2/83d2001gin/downloads/driver-list',
-            posts: $transformedPosts,
-            fileName: 'lenovo-laptop-driver-updates'
-        );
-    }
+    createRssFeed(
+        title: 'IdeaPad Pro 5 14IMH9 - Updates',
+        desc: 'IdeaPad Pro 5 14IMH9 - Updates',
+        link: 'https://pcsupport.lenovo.com/in/en/products/laptops-and-netbooks/5-series/ideapad-pro-5-14imh9/83d2/83d2001gin/downloads/driver-list',
+        posts: $transformedPosts,
+        fileName: 'lenovo-laptop-driver-updates'
+    );
 }
 
 updateIncomeTaxNews();

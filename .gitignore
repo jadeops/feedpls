@@ -1,5 +1,6 @@
 vendor/
 
 # Needed for github actions cron?
-#feeds/*.rss
-#feeds/*.atom
+# feeds/*.rss
+# feeds/*.atom
+# logs/*.log
