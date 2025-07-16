@@ -5,6 +5,42 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+<title>[others] GST Portal is now enabled to file appeal against waiver order (SPL 07).</title>
+<description><![CDATA[
+ 
+<p>1.Taxpayers who have filed waiver applications in Forms SPL 01/SPL 02 are receiving orders from the jurisdictional authorities: 
+</p>
+
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Acceptance Order in SPL 05 </b> or</p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Rejection Order in SPL-07.</b></p>
+            
+
+<p>2.The GST Portal has now been enabled to allow taxpayers to file <b>Appeal applications(APL 01)</b> against <b>SPL 07 (Rejection) Order</b>.</p>
+
+
+<p>3.Please use the Navigation below to file Appeal Application against SPL-07 orders: </p>
+<ul>
+                <li>Go to: <b><i>Services &rarr; User Services &rarr; My Application</i></b></li>
+                <li>Select <b><i>Application Type</i></b> as: <b><i>“Appeal to Appellate Authority”</i></b></li>
+                <li>Click on <b><i>New Application</i></b></li>
+            </ul>
+
+
+
+<p>4.In the application form, under <b><i>Order Type</i></b>, select:<b><i> “Waiver Application Rejection Order”</i></b> and enter all the relevant details. After entering the details,  Please proceed with filing of appeal. </p>
+
+<p>5.It may be noted that the option to withdraw appeal applications filed under the waiver scheme is not available on the GST portal. Taxpayers are therefore advised to exercise due caution while filing such appeals.</p>
+
+<p>6.Also, if any taxpayer does not want to file appeal against “waiver application rejection order” but want to restore the appeal application (filed against original demand order) which was withdrawn for filing waiver application can do so by filing undertaking. The option for filing of undertaking is available under “Orders” section in “Waiver Application” case folder. </p>
+
+<p>7.In case of any difficulty or technical issue, taxpayers shall raise a ticket on the GST Helpdesk at: <a href="https://selfservice.gstsystem.in" target="blank">https://selfservice.gstsystem.in</a></p> 
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/615</link>
+</item>
+<item>
 <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
 <title>[Others] Gross and Net GST revenue collections for the month of June, 2025</title>
 <description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of June, 2025.</p></ul>
@@ -473,21 +509,6 @@ Team GSTN]]></description>
 Thanking You, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/594</link>
-</item>
-<item>
-<pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
-<title>[E-Invoice] Advisory on Case Insensitivity in IRN Generation</title>
-<description><![CDATA[<p>Dear Taxpayer,</p>
-
-<p>1. &nbsp;&nbsp; This is to inform you that, effective 1st June 2025, the IRP (Invoice Reporting Portal) would treat invoice/document numbers as case-insensitive for the purpose of IRN generation.</p>
-
-<p>2. &nbsp;&nbsp; To ensure consistency and avoid duplication, invoice numbers reported in any format (e.g., "abc", "ABC", or "Abc") would be automatically converted to uppercase before IRN generation. This change aligns with the treatment of invoice numbers in GSTR-1, which already treats them as case-insensitive.</p>
-
-<p>3. &nbsp;&nbsp; The same is shared for your kind information please. For any further clarification, please reach out to the GST helpdesk.</p>
-
-Warm regards, <br>
-GSTN Team]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/592</link>
 </item>
 </channel>
 </rss>
