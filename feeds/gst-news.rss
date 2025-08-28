@@ -5,6 +5,30 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+<title>[Refunds] Advisory –System Enhancement for Order-Based Refunds</title>
+<description><![CDATA[<p>1. As per the available functionality, taxpayers could claim refunds under the category "On account of Assessment/Enforcement/Appeal/Revision/Any Other Order" (ASSORD) only if:</p>
+
+<ul>• &nbsp;&nbsp; The cumulative amount of the Demand ID showed a negative balance (i.e., refund eligible).</ul>
+<ul>• &nbsp;&nbsp; The status of the Demand ID was "Refund Due".</ul>
+
+<p>This restriction prevented taxpayers from claiming refunds when individual components (minor heads) of a demand showed negative balances and the overall cumulative balance was zero or positive.</p>
+
+<p>2. For the above scenario, several references have been made by the tax payers and tax officers stating that the taxpayers are not able to claim the refund. Accordingly the following changes have been implemented in the system:</p>
+
+<ul>• &nbsp;&nbsp; Refunds can now be claimed irrespective of the Demand ID status.</ul>
+<ul>• &nbsp;&nbsp; Refunds are allowed even when the cumulative balance is positive or zero, provided any minor head has a negative balance.</ul>
+<ul>• &nbsp;&nbsp; Only negative balances will be auto-populated in the refund application (Form RFD-01); taxpayers cannot claim any refund for the positive amounts within the demand.</ul>
+<ul>• &nbsp;&nbsp; <b>Order Number Suggestions:</b> The system automatically suggests the most recent demand order associated with a negative balance such as <i>order-in-original, rectification order or appellate order</i> etc.</ul>
+<ul>• &nbsp;&nbsp; <b>Tooltips:</b> Clear guidance is provided near the <b>Order No.</b> and <b>Demand ID</b> fields to help taxpayers enter the correct details.</ul>
+
+<p>3. A comprehensive user manual and FAQs will be shared shortly. In case of any discrepancies or system-related queries, a ticket may be raised with the GST helpdesk.</p>
+
+Regards, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/621</link>
+</item>
+<item>
 <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
 <title>[Returns] Advisory on extension of GSTR-3B due date  in few districts of Maharashtra State</title>
 <description><![CDATA[<ul><p>In view of the natural calamity caused by heavy rains, the due date of GSTR-3B for the July-2025 tax period has been extended from 20th August, 2025 to 27th August, 2025 for the following districts of Maharashtra state:</p></ul>
@@ -450,47 +474,6 @@ Team GSTN]]></description>
 Regards, <br>
 GSTN Team]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/599</link>
-</item>
-<item>
-<pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-<title>[Registration] Advisory for Biometric-Based Aadhaar Authentication and Document Verification for GST Registration Applicants of Sikkim</title>
-<description><![CDATA[<p>Dear Taxpayers,</p>
-
-<p>This is to inform taxpayers about recent developments concerning the application process for GST registration. It is advised to keep the following key points in mind during the registration process.</p>
-
-<p>1. &nbsp;&nbsp; Rule 8 of the CGST Rules, 2017 has been amended to provide that an applicant can be identified on the common portal, based on data analysis and risk parameters for Biometric-based Aadhaar Authentication and taking a photograph of the applicant along with the verification of the original copy of the documents uploaded with the application.</p>
-
-<p>2. &nbsp;&nbsp; The above-said functionality has been developed by GSTN. It has been rolled out in Sikkim on <b>1st May, 2025. </b></p>
-
-<p><p>3. &nbsp;&nbsp; The said functionality also provides for the document verification and appointment booking process. After the submission of the application in Form GST REG-01, the applicant will receive either of the following links in the e-mail,</p>
-<ul>(a) &nbsp;&nbsp; A Link for OTP-based Aadhaar Authentication OR</ul>
-<ul>(b) &nbsp;&nbsp; A link for booking an appointment with a message to visit a GST Suvidha Kendra (GSK) along with the details of the GSK and jurisdiction, for Biometric-based Aadhaar Authentication and document verification (the intimation e-mail)</ul></p>
-
-<p>4. &nbsp;&nbsp; If the applicant receives the link for OTP-based Aadhaar Authentication as mentioned in point 3(a), she/he can proceed with the application as per the existing process.</p>
-
-<p>5. &nbsp;&nbsp; However, if the applicant receives the link as mentioned in point 3(b), she/he will be required to book the appointment to visit the designated GSK, using the link provided in the e-mail.</p>
-
-<p>6. &nbsp;&nbsp; The feature of booking an appointment to visit a designated GSK is being enabled for the applicants of Sikkim and the applicants can book slots from <b>1st May, 2025.</b>.</p>
-
-<p>7. &nbsp;&nbsp; 	After booking the appointment, the applicant gets the confirmation of appointment through e-mail (the appointment confirmation e-mail), she/he will be able to visit the designated GSK as per the chosen schedule.</p>
-
-<p><p>8. &nbsp;&nbsp; At the time of the visit of GSK, the applicant is required to carry the following details/documents</p>
-<ul>(a) &nbsp;&nbsp; a copy (hard/soft) of the appointment confirmation e-mail </ul>
-<ul>(b) &nbsp;&nbsp; the details of jurisdiction as mentioned in the intimation e-mail </ul>
-<ul>(c) &nbsp;&nbsp; Aadhaar Card and PAN Card (Original Copies) </ul>
-<ul>(d) &nbsp;&nbsp; the original documents that were uploaded with the application, as communicated by the intimation e-mail.</ul></p>
-
-<p>9. &nbsp;&nbsp; The biometric authentication and document verification will be done at the GSK, for all the required individuals as per the GST application Form REG-01.</p>
-
-<p>10. &nbsp;&nbsp; The applicant is required to choose an appointment for the biometric verification during the maximum permissible period for the application as indicated in the intimation e-mail. In such cases, ARNs will be generated once the Biometric-based Aadhaar Authentication process and document verification are completed.</p>
-
-<p>11. &nbsp;&nbsp; The operation days and hours of GSKs will be as per the guidelines provided by the administration in your state.</p>
-
-
-
-Thanking You, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/598</link>
 </item>
 </channel>
 </rss>
