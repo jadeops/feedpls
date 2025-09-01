@@ -5,6 +5,16 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+<title>[Others] Gross and Net GST revenue collections for the month of Aug, 2025</title>
+<description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of August, 2025.</p></ul>
+<ul><p><a href="https://tutorial.gst.gov.in/downloads/news/approved_monthly_gst_data_for_publishing_aug_2025.pdf" target="blank">     https://tutorial.gst.gov.in/downloads/news/approved_monthly_gst_data_for_publishing_aug_2025.pdf</a></p></ul>
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/622</link>
+</item>
+<item>
 <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
 <title>[Refunds] Advisory –System Enhancement for Order-Based Refunds</title>
 <description><![CDATA[<p>1. As per the available functionality, taxpayers could claim refunds under the category "On account of Assessment/Enforcement/Appeal/Revision/Any Other Order" (ASSORD) only if:</p>
@@ -462,18 +472,6 @@ Team GSTN]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/600</link>
-</item>
-<item>
-<pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-<title>[Returns] Invoice-wise Reporting Functionality in Form GSTR-7 on portal-reg</title>
-<description><![CDATA[<p>Vide Notification No. 09/2025 – Central Tax dated 11.02.2025, Form GSTR-7 has been amended to capture invoice-wise reporting with effect from 01.04.2025 i.e. the return period for April 2025 onwards.</p>
-
-<p>In this regard it is to inform that development and testing of the same is underway, the implementation of invoice-wise reporting in Form GSTR-7 in GST portal will be deployed on portal soon. Thus, the enhanced functionality shall be deployed shortly, and users will be duly informed once the changes are made live on the portal.</p>
-
-
-Regards, <br>
-GSTN Team]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/599</link>
 </item>
 </channel>
 </rss>
