@@ -4,6 +4,7 @@ require __DIR__ . '/vendor/autoload.php';
 
 use DiDom\Document;
 use FeedWriter\RSS2;
+use Symfony\Component\HttpClient\HttpClient;
 
 date_default_timezone_set('UTC');
 
@@ -56,17 +57,26 @@ function updateIncomeTaxNews(): void
 {
     $transformedPosts = [];
     $link = "https://www.incometax.gov.in/iec/foportal/latest-news";
-    $document = new Document($link, true);
-    $posts = $document->find('div.latestnewssection div.views-row');
-    foreach ($posts as $post) {
-        $date = trim($post->find('div.up-date')[0]->text());
-        $content = trim($post->find('div.gry-ft')[0]->text());
-        $transformedPosts[] = [
-            'date' => $date,
-            'title' => substr($content, 0, 500),
-            'desc' => $content,
-            'link' => $link,
-        ];
+    $html = '';
+    $client = HttpClient::create();
+    try {
+        $response = $client->request('GET', $link);
+        if ($response->getStatusCode() === 200) {
+            $html = $response->getContent();
+            $document = new Document($html);
+            $posts = $document->find('div.latestnewssection div.views-row');
+            foreach ($posts as $post) {
+                $date = trim($post->find('div.up-date')[0]->text());
+                $content = trim($post->find('div.gry-ft')[0]->text());
+                $transformedPosts[] = [
+                    'date' => $date,
+                    'title' => substr($content, 0, 500),
+                    'desc' => $content,
+                    'link' => $link,
+                ];
+            }
+        }
+    } catch (\Exception $e) {
     }
 
     // var_dump($transformedPosts);exit;
