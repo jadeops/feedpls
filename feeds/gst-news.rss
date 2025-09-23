@@ -5,6 +5,48 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+<title>[Returns] Advisory: New Changes in Invoice Management System (IMS)</title>
+<description><![CDATA[
+ 
+<p>This is to bring to your notice that several new changes have been introduced in the Invoice Management System (IMS) to simplify the taxation system and reduce the compliance burden on the taxpayers. The following are the key updates </p>
+
+<p><b>Pending action for specified records:</b> Taxpayers can keep specified records pending for a limited time period. For monthly taxpayers, this period is one tax period (months), for quarterly taxpayers also it is one tax period (quarter) only. The specified records which can be kept pending in the system are mentioned below</p>
+
+
+<p>&nbsp;&nbsp;&nbsp;a.	Credit notes, or upward amendment of Credit note </p>
+
+<p>&nbsp;&nbsp;&nbsp;b.	 Downward amendment of CN where original CN rejected</p>
+
+<p>&nbsp;&nbsp;&nbsp;c.	Downward amendment of Invoice / DN only where original Invoice already accepted and 3B has been filed  </p>
+
+<p>&nbsp;&nbsp;&nbsp;d.	ECO-Document downward amendment only where original accepted, and 3B has been filed</p>
+
+<p><b>Declaring ITC reduction amount: </b></p>
+
+<p>It is clarified that, in cases where the recipient has not availed Input Tax Credit (ITC) in respect of the relevant invoice or document, no reversal of ITC shall be warranted. Further, in cases where ITC has been availed only partially, the obligation to reverse ITC shall be limited to the extent of such availment.</p>
+
+
+<p>Therefore, In IMS a facility has been made available to taxpayers to declare the amount of ITC actually availed and, to the extent applicable, required to be reversed in respect of the selected record. The said facility permits reversal of ITC, either in full or in part, by entering the amount availed to be reversed. This facility may also be utilized in cases where the taxpayer has already effected such reversal, either wholly or partially, at an earlier point of time, or where the ITC pertaining to the relevant invoice or document was never availed.  Such facility is provided for the afore-mentioned specified records. </p>
+
+
+<p><b>Option to save remarks:</b> Taxpayers can now save remarks while taking reject or pending action on records. This optional facility allows taxpayers to add remarks (will be rolled out shortly). Such remarks will be visible in GSTR-2B for future reference and to suppliers in the Outward Supplies view dashboard, to take corrective measures.</p>
+
+<p><b>Important Dates:</b></p>
+
+<p>The changes of keeping credit notes pending and declaring the ITC amount, as mentioned above shall be made effective on the portal from October tax period.  </p>
+
+<p>Due date for keeping records pending: The due date for keeping records pending is calculated based on the date/ tax period in which such documents has been communicated by the supplier.</p>
+
+<p><b>Prospective Application:</b></p>
+
+<p>The new changes will be available only for records filed by suppliers after the production rollout of these changes. Taxpayers are advised to carefully review these changes before taking action and filing their returns.</p>
+
+Thanking You, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/624</link>
+</item>
+<item>
 <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
 <title>[Returns] Advisory to file pending returns before expiry of three years</title>
 <description><![CDATA[
@@ -449,35 +491,6 @@ Team GSTN]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/601</link>
-</item>
-<item>
-<pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
-<title>[Refund] Updates in Refund Filing Process for various refund categories-Reg</title>
-<description><![CDATA[
-
-<p>1. &nbsp;&nbsp; GSTN has been made important changes in the refund filing process under the following categories:
-
-<ul>(a) &nbsp;&nbsp; Export of Services with payment of tax</ul>
-<ul>(b) &nbsp;&nbsp; Supplies made to SEZ Unit/SEZ Developer with payment of tax</ul>
-<ul>(c) &nbsp;&nbsp; On account of Refund by Supplier of Deemed export</ul></p>
-
-<p>2. &nbsp;&nbsp; 	For the above refund categories, the requirement to select a specific tax period (‘From’ and ‘To’) while filing refund applications has been <b>removed</b>. The taxpayers can now directly proceed with selecting the refund category as above and clicking on <b>“Create Refund Application.</b>”</p>
-
-
-<p>3.&nbsp;&nbsp;	Taxpayers must ensure that all the returns (<b>GSTR-1, GSTR-3B etc</b>) due till the date of refund application, are filed. </p>
-
-<p>4. &nbsp;&nbsp; The said refund categories are changed from ‘<b>Tax Period based filing</b>’ to ‘<b>Invoice based filing</b>’. The taxpayers can upload eligible invoices and claim refund in the following statements:
-
-<ul>(a) &nbsp;&nbsp; Export of Services with payment of Tax (Statement 2)</ul>
-<ul>(b) &nbsp;&nbsp; SEZ Supplies with payment of Tax (Statement 4)</ul>
-<ul>(c) &nbsp;&nbsp; In case of Deemed Exports, the application by Supplier (Statement 5B)</ul></p>
-
-<p> &nbsp;&nbsp;&nbsp;&nbsp; The invoices once uploaded with a refund application will be locked for any further amendment and will not be available for any subsequent refund claims. The said invoices will be unlocked only if the <b>refund application is withdrawn or a deficiency memo is issued</b>.</p>
-
-
-Thanks, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/600</link>
 </item>
 </channel>
 </rss>
