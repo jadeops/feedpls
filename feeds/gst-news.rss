@@ -5,22 +5,36 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+<title>[Returns] Invoice-wise Reporting Functionality in Form GSTR-7 on portal-reg</title>
+<description><![CDATA[<ul><p><i>Vide Notification No. 09/2025 – Central Tax dated 11.02.2025, Form GSTR-7 was amended to enable capture of invoice-wise reporting of tax deducted at source (TDS).</i></p></ul>
+
+<ul><p><i>In this regard, it is informed that the functionality for invoice-wise reporting in GSTR-7 has now been made operational on the GSTN portal. Hence from September 2025 tax period in Form GSTR-7 invoice level reporting is required.</i></p></ul>
+
+<ul><p><i>Accordingly, all TDS Deductors are requested to prepare the data accordingly so that they could furnish invoice-level details on which TDS has been deducted while filing FORM GSTR-7 for the September return period onwards. Due date for September tax period return filing is  10th October 2025. </i></p></ul>
+
+<ul><p>For any difficulty or concerns, it  is advised to raise a grievance through the Self-Service Portal available on the GST Portal, along with all relevant details, to facilitate prompt and effective resolution.</p></ul>
+
+
+Regards, <br>
+GSTN Team]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/626</link>
+</item>
+<item>
 <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
 <title>[Returns] Advisory to file pending returns before expiry of three years</title>
-<description><![CDATA[
- 
-<p> As per the Finance Act,2023 (8 of 2023), dt. 31-03-2023, implemented w.e.f 01-10-2023 vide Notification No. 28/2023 – Central Tax dated 31th July, 2023, the taxpayers shall not be allowed file their GST returns after the expiry of a period of three years from the due date of furnishing the said return under Section 37 ( Outward Supply), Section 39 (payment of liability), Section 44 ( Annual Return) and Section 52 (Tax Collected at Source). These Sections cover GSTR-1, GSR-1A, GSTR 3B, GSTR-4, GSTR-5, GSTR-5A, GSTR-6, GSTR 7, GSTR 8 and GSTR 9 or 9C. </p>
+<description><![CDATA[<p> As per the Finance Act,2023 (8 of 2023), dt. 31-03-2023, implemented w.e.f 01-10-2023 vide Notification No. 28/2023 – Central Tax dated 31th July, 2023, the taxpayers shall not be allowed file their GST returns after the expiry of a period of three years from the due date of furnishing the said return under Section 37 ( Outward Supply), Section 39 (payment of liability), Section 44 ( Annual Return) and Section 52 (Tax Collected at Source). These Sections cover GSTR-1, GSR-1A, GSTR 3B, GSTR-4, GSTR-5, GSTR-5A, GSTR-6, GSTR 7, GSTR 8 and GSTR 9 or 9C. </p>
 
 <p> Hence, above mentioned returns will be barred for filing after expiry of three years. The said restriction will be implemented on the GST portal from October 2025 Tax period. Which means any return for which due date was three years back or more and hasn’t been filed till October Tax period will be barred from Filling. In this regard an advisory was already issued by GSTN on <a href="https://services.gst.gov.in/services/advisoryandreleases/read/540" target="blank"> 29th October, 2024 </a></p>
 
 
-<p>Illustration : For ease of reference and better clarity, the latest GST returns that will be barred from filing w.e.f 1st October 2025 are detailed in the table below: </a></p>
+<p>Illustration : For ease of reference and better clarity, the latest GST returns that will be barred from filing w.e.f 1st November 2025 are detailed in the table below: </a></p>
 
 
 <table border="1">
   <tr>
     <th>GST Forms</th>
-<td colspan="5"><center><b>Barred Period (w.e.f. 1st November,2025)</b></center></td>
+	<td colspan="5"><center><b>Barred Period (w.e.f. 1st November,2025)</b></center></td>
   </tr>
   <tr>
     <td>GSTR-1/IFF</td>
@@ -463,34 +477,6 @@ Team GSTN]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/602</link>
-</item>
-<item>
-<pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
-<title>[Refunds] Updates in Refund Filing Process for Recipients of Deemed Export</title>
-<description><![CDATA[
-<p> GSTN has made the following changes in the refund filing process under the category <b>"On account of Refund by Recipient of deemed export":</b></p>
-
-<p>1.&nbsp;&nbsp;Refund applications under this category is <b>no longer need to be filed in chronological order</b> of Tax Period which means Taxpayers are not required to select <b>"From Period" and "To Period" </b>while filing refund application.</p>
-
-<p>2.&nbsp;&nbsp;Taxpayers must ensure that all the returns (GSTR-1, GSTR-3B etc) due till the date of refund application, are filed. </p>
-
-
-<p>3.&nbsp;&nbsp;Under the afore said category, the table <b><a href="https://tutorial.gst.gov.in/downloads/news/GST_RFD_01.pdf" target="blank">“Amount Eligible for Refund”</a></b> has been modified. The columns of the revised table are explained hereunder: </p>
-
-<ul>a. &nbsp;&nbsp; Col. 1 <b><i>‘Balance in ECL at the time of filing of refund application’</b></i>. This column will reflect the balance available under various Head in Electronic Credit Ledger at the time of filing of application. It will be auto populated.</ul>
-<ul>b. &nbsp;&nbsp; Col. 2 <b>‘Net Input Tax Credit (ITC) of Deemed Exports (as per uploaded invoices)’,</b> in this column the amount of claimed ITC, under respective major Heads will be auto populated based on invoices furnished in Statement 5B.</ul>
-<ul>c. &nbsp;&nbsp; Col. 3 <b>‘Refund amount as per the uploaded invoices’</b> reflects the sum of the amount of ITC claimed under all major Heads (IGST/CGST/SGST/UT) as per the invoices uploaded by the taxpayer in Statement 5B and shall be <b>downward editable</b>.</ul>
-<ul>d. &nbsp;&nbsp; Col. 4 <b>‘Eligible Refund Amount’</b>. In this column, maximum amount of ITC which is available for refund claim will be auto populated. It will be auto-calculated based on the order of debit specified in Circular No. 125/44/2019-GST dated 18.11.2019.</ul>
-<ul>e. &nbsp;&nbsp; Col. 5 <b>“Refund amount not eligible as insufficient balance in the ECL (5)”</b>. This column reflects the difference between the total amount of claimed ITC and the total amount of ITC available in Electronic credit Ledger under various major Heads. </ul>
-
-<p>4. &nbsp;&nbsp; Functionality has been improved to maximize the amount of refund a taxpayer can claim in terms of uploaded invoices, irrespective of the fact that sufficient balance is available in the respective Head of electronic credit ledger or not. Here, the total amount of claim under various Heads (IGST, CGST,SGST) will be compared with total amount of ITC available under various Heads in electronic credit ledger.
-
-<p>5. &nbsp;&nbsp; The taxpayers are advised to note these changes and if any problem is faced while filing of refund application, grievance may be raised in GST portal. <a href="https://selfservice.gstsystem.in/ReportIssue.aspx" target="blank">https://selfservice.gstsystem.in/ReportIssue.aspx</a></p><br><br>
-
-
-Thanks, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/601</link>
 </item>
 </channel>
 </rss>
