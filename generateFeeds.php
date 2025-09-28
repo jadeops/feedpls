@@ -155,6 +155,31 @@ function updateSelfLaptopDriverUpdates(): void
     );
 }
 
+function updateVpsBenchmarks(): void
+{
+    $transformedPosts = [];
+    $html = file_get_contents('https://www.vpsbenchmarks.com/announcements');
+    $doc = new Document($html);
+    $news = $doc->find('div.announcement-container');
+    foreach ($news as $article) {
+        $transformedPosts[] = [
+            'date' => $article->find('em')[0]->text(),
+            'title' => $article->find('span.announcement-title')[0]->text(),
+            'desc' => $article->find('.announcement-body')[0]->text(),
+            'link' => 'https://www.vpsbenchmarks.com' . $article->find('span.announcement-title a')[0]->attr('href'),
+        ];
+    }
+
+    createRssFeed(
+        title: 'vpsbenchmarks.com Announcements',
+        desc: 'vpsbenchmarks.com Announcements',
+        link: 'https://www.vpsbenchmarks.com/announcements',
+        posts: $transformedPosts,
+        fileName: 'vpsbenchmarks-com-announcements'
+    );
+}
+
 updateIncomeTaxNews();
 updateGstNews();
 updateSelfLaptopDriverUpdates();
+updateVpsBenchmarks();

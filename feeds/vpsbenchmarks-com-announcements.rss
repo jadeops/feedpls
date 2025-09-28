@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>vpsbenchmarks.com Announcements</title>
+<description><![CDATA[vpsbenchmarks.com Announcements]]></description>
+<link>https://www.vpsbenchmarks.com/announcements</link>
+<item>
+<pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+<title>TakeHost first Ryzen 9 VPS trial in Germany</title>
+<description><![CDATA[
+        TakeHost.Biz just had its first VPS plan tested at VPSBenchmarks: DE 8GB RAM. All TakeHost.Biz plans run on AMD Ryzen 9 9950X and those plans currently go for 10€ for 4 cores and 8GB RAM (regular price 20€). Backups are included by default. TakeHost.Biz data center is in Germany and it is headquartered in Norway.
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/takehost-first-ryzen-9-vps-trial-in-germany-01</link>
+</item>
+<item>
+<pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+<title>Next-Gen VPS Hosting at 0ping.eu</title>
+<description><![CDATA[
+        0ping.eu is a European VPS provider that focuses on low-latency connectivity and modern infrastructure. The company aims to combine the latest-generation hardware with a strong, well-peered network to provide a balanced platform for a wide range of applications. Based in Frankfurt, one of Europe’s best-connected hubs, 0ping.eu benefits from direct peering with many networks, which helps reduce round-trip times. Regular hardware refresh cycles are part of its operations, ensuring customers always run on up-to-date systems without unexpected service changes.
+0ping.eu... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/0ping_eu-next-gen-vps-hosting-at-0pingeu-01</link>
+</item>
+<item>
+<pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+<title>New VPS 2026</title>
+<description><![CDATA[
+        OVHcloud US has just released its second‑generation Virtual Private Servers, VPS 2026, and has made it available on its Local Zone edge‑computing network.
+VPS 2026 builds on KVM virtualization to provide isolated compute, RAM and NVMe storage resources with full root access. You can select from six configurations ranging from 4 vCores/8 GB RAM/75 GB disk to 24 vCores/96 GB RAM/400 GB NVMe. All plans include unlimited traffic with guaranteed bandwidth (from 400 Mbps to 3 Gbps) and daily backups.
+OVHcloud offers a choice of Linux, Windows and FreeBSD distributions and supports popular control panels like... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/ovhcloud_us-new-vps-2026-01</link>
+</item>
+<item>
+<pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+<title>Netcup releases new EPYC 9645 based VPS line</title>
+<description><![CDATA[
+        The Root Server G12 run on AMD EPYC™ 9645 with 2GB RAM and 64GB storage per core. The price per core is around 3€.
+If you're a new customer, you can get 2 months free with promo codes on the VPS Coupons page
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/netcup-releases-new-epyc-9645-based-vps-line-01</link>
+</item>
+<item>
+<pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+<title>Cherry Servers launches new line of ARM based cloud servers</title>
+<description><![CDATA[
+        Cherry Servers released a new line of VDS based on dedicated AmpereONE A192-32X hardware ARM cores. The pricing is around 8€ per core and amount of RAM with each plan is very generous (6GB per core or more). The new VDS are available in Lithuania. Cloud ARM VDS.
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/cherry_servers-cherry-servers-launches-new-line-of-arm-based-cloud-servers-01</link>
+</item>
+<item>
+<pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+<title>New line of OVHcloud VPS</title>
+<description><![CDATA[
+        OVHcloud  unveils a new line of VPS starting at 4.49€/mo with 4 cores and 8GB RAM. All VPS come with unlimited bandwidth and free standard daily backups. The new VPS line replaces both the old Intel VPS and AMD VLE lines of servers. Prices are listed at https://www.ovhcloud.com/en-ie/vps/.
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/ovhcloud-new-line-of-ovhcloud-vps-01</link>
+</item>
+<item>
+<pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+<title>BlastVPS: VPS with RDP and dedicated servers</title>
+<description><![CDATA[
+        BlastVPS, a young provider based in Belgium with locations in France, Germany and the US, was added to VPSBenchmarks a few days ago. Its first performance trial is now running on a 4 vCPUs 8GB server. BlastVPS offers Linux VPS and Windows VPS with RDP as well as dedicated servers and web hosting plans.
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/blastvps-vps-with-rdp-and-dedicated-servers-01</link>
+</item>
+<item>
+<pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+<title>Hexabyte first performance trial</title>
+<description><![CDATA[
+        Hexabyte is a VPS, web hosting and dedicated servers provider operating out of Sweden and it was just added to VPSBenchmarks last week. Hexabyte first performance trial: 4 EPYC 7713 cores for 6.96€.
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/vpsb-hexabyte-first-performance-trial-01</link>
+</item>
+<item>
+<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+<title>July 2025 Best VPS rankings are out</title>
+<description><![CDATA[
+        Evolution Host (Professional plan $60/mo) and Hostup (VPS XS $7.50/mo) took the lead last month: Best VPS July 2025.
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/vpsb-july-2025-best-vps-rankings-are-out-01</link>
+</item>
+<item>
+<pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+<title>UpCloud GPU servers available in Finland</title>
+<description><![CDATA[
+        UpCloud started offering GPU servers running on NVIDIA L40S GPUs in July. Configurations start at 1.111€/h with 1 GPU and 8 AMD EPYC 9575F vCPUs.
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/upcloud-gpu-servers-available-in-finland-01</link>
+</item>
+<item>
+<pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+<title>Kamatera Marketplace Expansion and New Hebrew Website Launch</title>
+<description><![CDATA[
+        Kamatera has 2 new offerings in its Marketplace, designed to give you more flexibility and control over your cloud infrastructure:
+New Marketplace applications
+KASM Workspaces: A containerized desktop solution that delivers full computing environments through your web browser. Users can access complete desktop experiences, development environments, and specialized applications without installing anything locally. Features include secure, isolated workspaces, browser-based access from any device, zero client-side software requirements, and perfect scalability for remote teams. Ideal for secure development environments, remote... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/kamatera-marketplace-expansion-and-new-hebrew-website-launch-01</link>
+</item>
+<item>
+<pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+<title>Contabo Launches New VPS Lineup Based on User Feedback</title>
+<description><![CDATA[
+        Contabo, global cloud computing provider headquartered in Germany, has launched a new VPS lineup designed to deliver improved performance, stability, and value for money. The update follows extensive customer feedback and reflects the Contabo ongoing commitment to offering high-performance infrastructure solutions for competitive prices.
+The refreshed lineup introduces upgraded specifications across all plans, with prices starting from as little as $ 4.95/month (for VPS 10 with 3 vCPU cores and 8 GB RAM). A standout addition is the **VPS 20... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/contabo-launches-new-vps-lineup-based-on-user-feedback-01</link>
+</item>
+<item>
+<pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+<title>New Enterprise and Global Best VPS rankings</title>
+<description><![CDATA[
+        VPSBenchmarks is launching two new Best VPS rankings: Best Enterprise VPS and Best Global VPS.
+Best Enterprise VPS – This ranking will feature the fastest VPS over the past 12 months from providers that qualify as "Enterprise" providers. To be included, a provider must offer at least three of the following services: Block storage, Object storage, Load balancers, GPUs or Kubernetes. Additionally, hourly billing must be available for all products, and only cloud servers with hourly billing are included in... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/vpsb-new-enterprise-and-global-best-vps-rankings-01</link>
+</item>
+<item>
+<pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+<title>Kamatera Adds 2 New Apps to Marketplace</title>
+<description><![CDATA[
+        Kamatera is expanding its offerings again, with two new apps in our Marketplace, to give our customers instant access to tools that save time and boost security.  OPNsense delivers a powerful firewall and routing platform with advanced security features. CloudPanel provides an intuitive, lightweight control panel for managing web hosting environments.
+Take control of your network with OPNsense
+OPNsense, now available with a single click on Kamatera, lets you secure your cloud with a robust firewall, set up powerful... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/kamatera-adds-2-new-apps-to-marketplace-01</link>
+</item>
+<item>
+<pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+<title>ScalaHosting Joins Forces with OpenCart as a Recommended Hosting Partner</title>
+<description><![CDATA[
+        We’re excited to announce a new partnership between OpenCart and ScalaHosting! 🎉
+As part of this collaboration, ScalaHosting is now officially listed as a recommended hosting provider on the OpenCart Download page. This recognition marks an important milestone as we join forces to deliver a seamless and reliable hosting experience for OpenCart users around the world.
+OpenCart is one of the most popular eCommerce platforms, trusted by thousands of businesses to power their online stores. It’s a free, open-source solution... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/scalahosting-joins-forces-with-opencart-as-a-recommended-hosting-partner-01</link>
+</item>
+<item>
+<pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+<title>Linkdata.com Permanently Lowers VPS Plans Prices by up to 50% in 2025</title>
+<description><![CDATA[
+        Linkdata.com, a cloud provider with operations in London and Erbil, has announced a permanent price reduction of 30-50% across all Virtual Private Server (VPS) plans in 2025. This strategic move ensures businesses can access affordable, high-performance VPS solutions while maintaining the same level of reliability, performance, and expert support that clients have come to expect.
+New Permanent VPS Pricing:
+
+LS 1x2 Plan (1 vCPU, 2 GB RAM, 20 GB SSD) – Now $9/mo (previously $18)
+**LS 2x4... (continued)
+
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/linkdatacom-permanently-lowers-vps-plans-prices-by-up-to-50-in-2025-01</link>
+</item>
+<item>
+<pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+<title>Introducing Nobull Networks to VPSBenchmarks.com</title>
+<description><![CDATA[
+        We're pleased to introduce Nobull Networks LLC to VPSBenchmarks. We're a performance-driven hosting provider based in the Pacific Northwest (Seattle Metro, West Coast USA), offering services that prioritize reliability, transparency, and real-world performance.
+Our Infrastructure
+We build and maintain our platform on enterprise-grade hardware that we fully own and operate in colocation data centers. This ensures consistent performance under a variety of workloads. All our customer-facing infrastructure uses:
+
+CPU: AMD EPYC 4564P 16-Core Processor (with powerful multi-core and single-core... (continued)
+
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/nobullnetworks-introducing-nobull-networks-to-vpsbenchmarkscom-01</link>
+</item>
+<item>
+<pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+<title>Leaseweb Public Cloud and VPS are now available in Japan</title>
+<description><![CDATA[
+        Leaseweb Global, a leading cloud services and Infrastructure as a Service (IaaS) provider, today announced the availability of its Public Cloud and Virtual Private Server (VPS) solutions in Japan. Delivered via local, in-country infrastructure, Leaseweb Public Cloud offers a highly competitive blend of cost-effective flexibility and global availability and is designed to be around 30% more cost effective than traditional hyperscalers while delivering the performance, reliability and service levels customers demand. The solution is ideally suited for any global organization... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/leaseweb-public-cloud-and-vps-are-now-available-in-japan-02</link>
+</item>
+<item>
+<pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+<title>Kamatera Adds Three New Apps to Marketplace</title>
+<description><![CDATA[
+        Kamatera is excited to announce the addition of three new applications to its marketplace: Chatwoot, TeamSpeak, and Harbor.
+Chatwoot brings advanced customer engagement capabilities to your business with its open-source customer communication platform. This tool enables teams to manage customer conversations across multiple channels like live chat, email, and more, all from a single dashboard, streamlining customer support operations.
+TeamSpeak joins the offerings as a popular voice and text communication platform, offering crystal-clear audio quality and robust security features. Perfect... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/kamatera-adds-three-new-apps-to-marketplace-01</link>
+</item>
+<item>
+<pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+<title>Introducing VPSB Intelligence</title>
+<description><![CDATA[
+        We're excited to announce VPSB Intelligence, a powerful new way to interact with VPSBenchmark's extensive database of Cloud providers, VPS plans specifications, pricing and performance data. This interface leverages LLMs and function calls to let you query our dataset using natural language, making it easier than ever to find precisely what you're looking for.
+Why VPSBenchmarks Intelligence?
+Finding the perfect VPS solution often requires analyzing multiple data points spread across different pages and sections of the website. While we've... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/vpsb-introducing-vpsb-intelligence-01</link>
+</item>
+</channel>
+</rss>

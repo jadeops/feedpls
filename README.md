@@ -7,6 +7,7 @@ Below are automatically updated via Github Actions (every few hours).
 * https://www.incometax.gov.in/iec/foportal/latest-news Latest news from Income Tax Department, India
 * https://www.gst.gov.in/ Latest news from GST Department, India
 * IdeaPad Pro 5 14IMH9 BIOS updates
+* https://www.vpsbenchmarks.com/announcements
 
 ## Usage
 
