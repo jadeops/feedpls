@@ -5,6 +5,16 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+<title>[Others] Gross and Net GST revenue collections for the month of Sep, 2025</title>
+<description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of September, 2025.</p></ul>
+<ul><p><a href="https://tutorial.gst.gov.in/downloads/news/approved_monthly_gst_data_for_publishing_sep_2025.pdf" target="blank">     https://tutorial.gst.gov.in/downloads/news/approved_monthly_gst_data_for_publishing_sep_2025.pdf</a></p></ul>
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/627</link>
+</item>
+<item>
 <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
 <title>[Returns] Invoice-wise Reporting Functionality in Form GSTR-7 on portal-reg</title>
 <description><![CDATA[<ul><p><i>Vide Notification No. 09/2025 – Central Tax dated 11.02.2025, Form GSTR-7 was amended to enable capture of invoice-wise reporting of tax deducted at source (TDS).</i></p></ul>
@@ -460,23 +470,6 @@ Team GSTN]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/605</link>
-</item>
-<item>
-<pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-<title>[Others] Advisory on Appeal withdrawal with respect to Waiver scheme</title>
-<description><![CDATA[
-<p> In the GST system, when Withdrawal application (APL 01W) for appeal is filed before issuance of final acknowledgment (APL 02) by the Appellate authority, then the system automatically withdraws the Appeal application (APL 01). In such cases, the status of the appeal application will automatically change from “Appeal submitted” to “Appeal withdrawn”.</p>
-
-<p>However, if withdrawal application is filed after issuance of final acknowledgment, then the withdrawal of such appeal is subjected to the approval of the Appellate authority. Once the Appellate authority approves the withdrawal application, the status of the Appeal application changes from “Appeal submitted” to “Appeal withdrawn”.</p>
-
-<p>Waiver scheme under Section 128A mandates that any appeal against the requisite demand order should not remain pending with Appellate authority. In both the above-mentioned cases, the status of the Appeal application is changed to “Appeal Withdrawn” which essentially fulfilled the requirement.</p>
-
-
-<p>While filing waiver application or in the already filed waiver application, taxpayers need to upload the screenshot of the appeal case folder showing status as “Appeal withdrawn”.</p>
-
-Thanks, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/602</link>
 </item>
 </channel>
 </rss>
