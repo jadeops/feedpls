@@ -5,6 +5,19 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+<title>Melbicom deploys a new PoP in Tokyo, Japan</title>
+<description><![CDATA[
+        Melbicom, an EU-headquartered Infrastructure-as-a-Service provider, has launched a new Virtual Private Server (VPS) location in Tokyo, Japan.
+This location delivers lower latency, higher resilience, and local data residency options for users across the Asia-Pacific region.
+Low-Latency Infrastructure
+The Tokyo facility connects directly to Japan’s primary Internet Exchanges — BBIX, JPIX, and JPNA — enabling short, redundant routes between major Asian carriers and international networks.
+These connections reduce latency by an average of 71% compared to routes served from other APAC... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/melbicom-deploys-a-new-pop-in-tokyo-japan-01</link>
+</item>
+<item>
 <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
 <title>TakeHost first Ryzen 9 VPS trial in Germany</title>
 <description><![CDATA[
@@ -198,17 +211,6 @@ TeamSpeak joins the offerings as a popular voice and text communication platform
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/kamatera-adds-three-new-apps-to-marketplace-01</link>
-</item>
-<item>
-<pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-<title>Introducing VPSB Intelligence</title>
-<description><![CDATA[
-        We're excited to announce VPSB Intelligence, a powerful new way to interact with VPSBenchmark's extensive database of Cloud providers, VPS plans specifications, pricing and performance data. This interface leverages LLMs and function calls to let you query our dataset using natural language, making it easier than ever to find precisely what you're looking for.
-Why VPSBenchmarks Intelligence?
-Finding the perfect VPS solution often requires analyzing multiple data points spread across different pages and sections of the website. While we've... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/vpsb-introducing-vpsb-intelligence-01</link>
 </item>
 </channel>
 </rss>
