@@ -5,6 +5,19 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+<title>[Returns] Advisory for GSTR 9/9C for FY 2024-25</title>
+<description><![CDATA[
+ 
+<p>Dear Taxpayer</p>
+
+<p>GSTR-9/9C for FY 2024-25 has been enabled on the GST portal from 12th October 2025. Please ensure that all returns (GSTR 1 and GSTR 3B) for FY 2024-25 are filed to enable Tile of GSTR-9/9C. Further,  detailed FAQ will be published shortly for assisting the taxpayer in filing GSTR-9/9C.</p>
+
+Thanking You, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/629</link>
+</item>
+<item>
 <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
 <title>[Returns] Attention : Important Advisory on IMS</title>
 <description><![CDATA[
@@ -471,24 +484,6 @@ Team GSTN]]></description>
 Thanking You, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/607</link>
-</item>
-<item>
-<pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-<title>[Returns] Advisory regarding non-editable of auto-populated liability in GSTR-3B</title>
-<description><![CDATA[
- 
-
-<ul><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.GST Portal provides a pre-filled GSTR-3B, where the tax liability gets auto-populated based on the outward supplies declared in GSTR-1/ GSTR-1A/ IFF. As of now taxpayers can edit  such auto populated values in form GSTR 3B itself. </p></ul>
-
-<ul><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.With introduction of form GSTR 1A, taxpayer now has a facility to amend their incorrectly declared outward supplies in GSTR-1/IFF through GSTR-1A, allowing them an opportunity to correct their liabilities before filing their GSTR-3B in the same return period.</p></ul>
-
-<ul><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.In view of the same, from <b>July,2025 tax period</b> for which form GSTR 3B will be furnished in August,2025 such auto populated liability will become non editable. Thus, taxpayers will be allowed to amend their auto populated liability by making amendments through form GSTR 1A which can be filed for the same tax period before filing of GSTR 3B.</p></ul>
-
-<ul><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.For more details,kindly refer to the  <a href=" https://services.gst.gov.in/services/advisoryandreleases/read/578 " target="blank"> advisory dated January 27, 2025 </a> and <a href=" https://services.gst.gov.in/services/advisoryandreleases/read/535 " target="blank"> advisory dated October 17, 2024 </a> , issued by GSTN on this issue. </b></p></ul>
-
-Thanking You, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/606</link>
 </item>
 </channel>
 </rss>
