@@ -5,6 +5,18 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+<title>[Returns] Introduction of &quot;Pending&quot; Option for Credit Notes and declaration of Reversal amount in IMS</title>
+<description><![CDATA[
+
+
+<p>A new facility in the Invoice Management System (IMS) has been recently introduced on the GST portal wherein the taxpayers are allowed to keep credit notes as "Pending" for one tax period. Further, the IMS functionality have also been enhanced providing a flexibility to the taxpayers to modify their ITC reversal on acceptance of such credit notes thereby resolving many business disputes. In this regard please <a href="https://tutorial.gst.gov.in/downloads/news/creative_faq_on_gstr9_for_24_25_dt_15_oct_25_v6_final.pdf" target="blank">click here </a> to go through some FAQs for a better understanding on the new facility. </p> 
+
+Thanking You, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/631</link>
+</item>
+<item>
 <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
 <title>[Returns] FAQs on GSTR -9/9C for FY 2024-25</title>
 <description><![CDATA[ 
@@ -455,31 +467,6 @@ Thanks, <br>
 
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/609</link>
-</item>
-<item>
-<pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-<title>[Refund] System Validation for Filing of Refund Applications on GST Portal for QRMP Taxpayers</title>
-<description><![CDATA[
- 
-<p>1.In the month of May 2025, a system-level validation was deployed on the GST Portal to ensure adherence to the provisions outlined in Para 6 of Circular No. 125/44/2019-GST dated 18.11.2019. As per the said circular: </p>
-
-
-<p><i>“Any refund claim for a tax period may be filed only after furnishing all the returns in FORM GSTR-1 and FORM GSTR-3B which were due to be furnished on or before the date on which the refund application is being filed. However, in case of a claim for refund filed by a composition taxpayer, a non-resident taxable person, or an Input Service Distributor (ISD), furnishing of returns in FORM GSTR-1 and FORM GSTR-3B is not required. Instead, the applicant should have furnished returns in FORM GSTR-4 (along with FORM GST CMP-08), FORM GSTR-5 or FORM GSTR-6, as the case may be, which were due to be furnished on or before the date on which the refund application is being filed.”</i></p>
-
-
-<p>2.Accordingly, the GST system was updated to allow refund applications only if the taxpayer had filed all relevant returns that were due up to the date of filing the refund application. </p>
-
-<p>3.Post implementation of the above validation, it was observed that taxpayers registered under the Quarterly Return Monthly Payment (QRMP) scheme encountered issues while attempting to file refund applications. Specifically, the system was not recognizing invoices furnished using the Invoice Furnishing Facility (IFF) for the first two months of the quarter (M1 and M2), resulting in the inability to proceed with refund filing. Additionally, in cases where GSTR-1 for the previous quarter had already been filed, the system was erroneously prompting taxpayers to file returns for M1 and M2 of the current quarter too. Taxpayers were facing this issue when the refund application was being submitted during the period between the two quarters. </p>
-
-<p>4.This is to inform the taxpayers that the aforementioned technical issue has now been resolved. Taxpayers under the QRMP scheme can now file refund applications for the invoices for which GSTR-3B has been already filed. Please note invoices furnished through IFF for which GSTR-3B is yet to be filed in coming return period should not be included in the refund application.</p>
-
-<p>5.All taxpayers are advised to ensure that relevant returns are filed prior to filing a refund application, as per the legal provisions and existing system validations. </p>
-
-<p>6.In case of any discrepancies or system-related queries, taxpayers may reach out to the GST Helpdesk (<a href=" https://selfservice.gstsystem.in" target="blank">https://selfservice.gstsystem.in</a>)</p> 
-
-Thanks, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/608</link>
 </item>
 </channel>
 </rss>
