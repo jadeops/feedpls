@@ -5,6 +5,22 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+<title>Contabo Launches Limited Edition Cloud VPS SP Plans</title>
+<description><![CDATA[
+        Contabo has released a limited set of Cloud VPS SP Plans, designed for higher performance and resource efficiency while keeping price accessible. These plans are available for a short period and are not listed on the main VPS page. 
+ 
+Built on AMD EPYC processors, each plan provides more RAM and storage than Contabo’s standard VPS range at similar prices. NVMe storage and optimized host allocation, ensure fast disk I/O and low latency operation. 
+ 
+Available Configurations: 
+
+**Cloud VPS... (continued)
+
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/contabo-launches-limited-edition-cloud-vps-sp-plans-01</link>
+</item>
+<item>
 <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
 <title>Melbicom deploys a new PoP in Tokyo, Japan</title>
 <description><![CDATA[
@@ -200,17 +216,6 @@ CPU: AMD EPYC 4564P 16-Core Processor (with powerful multi-core and single-core
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/leaseweb-public-cloud-and-vps-are-now-available-in-japan-02</link>
-</item>
-<item>
-<pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-<title>Kamatera Adds Three New Apps to Marketplace</title>
-<description><![CDATA[
-        Kamatera is excited to announce the addition of three new applications to its marketplace: Chatwoot, TeamSpeak, and Harbor.
-Chatwoot brings advanced customer engagement capabilities to your business with its open-source customer communication platform. This tool enables teams to manage customer conversations across multiple channels like live chat, email, and more, all from a single dashboard, streamlining customer support operations.
-TeamSpeak joins the offerings as a popular voice and text communication platform, offering crystal-clear audio quality and robust security features. Perfect... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/kamatera-adds-three-new-apps-to-marketplace-01</link>
 </item>
 </channel>
 </rss>
