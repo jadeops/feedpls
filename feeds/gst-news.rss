@@ -5,6 +5,19 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+<title>[Returns] Advisory : Introduction of Import of Goods details in IMS</title>
+<description><![CDATA[
+ 
+<ul><p>The Invoice Management System (IMS) was introduced on the GST portal from the October 2024 tax period. It enables recipient taxpayers to accept, reject, or keep pending their individual records uploaded by their suppliers through GSTR-1/1A/IFF.  To further enhance the taxpayer convenience, a new section for "Import of Goods" has been introduced in IMS wherein the Bill of Entry (BoE) filed by the taxpayer for import of goods including import from SEZ, will be made available in the IMS for taking allowed action on individual BoE. This functionality will be available from Oct-2025 period onwards. </p></ul>
+
+<ul><p>It may be noted that, If no action is taken on an individual BoE, it will be treated as deemed accepted and based on the action taken, the GST Portal will generate the draft GSTR 2B for the recipient on 14th of subsequent month. Please <a href="https://tutorial.gst.gov.in/downloads/news/creative_advisory_on_boe_in_ims_final_30th_october_2025.pdf" target="blank"> click here </a>to read the detailed advisory on the new changes.</p></ul>
+
+Thanking You, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/634</link>
+</item>
+<item>
 <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
 <title>[Returns] Advisory to file pending returns before expiry of three years</title>
 <description><![CDATA[
@@ -447,23 +460,6 @@ Team GSTN & NIC]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/610</link>
-</item>
-<item>
-<pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-<title>[Others] Subject : Advisory on filing of Amnesty applications under Section 128A of the CGST Act</title>
-<description><![CDATA[
-<p>1. As on 08.06.2025, a total of <b>3,02,658 waiver applications</b> have been filed through <b>SPL-01/02</b>. However, it has come to notice that certain taxpayers are facing difficulties in filing amnesty applications under Section 128A on the GST portal. In view of the approaching last date for submission, various trade bodies have submitted representations requesting an alternate mechanism to facilitate filing. </p>
- 
-<p>2. In view of the above, taxpayers who are facing technical issue which is restricting them to file waiver application are advised to adopt the steps outlined in the below link:</p>
- 
-<a href="https://tutorial.gst.gov.in/downloads/news/link_data.pdf" target="blank">https://tutorial.gst.gov.in/downloads/news/link_data.pdf</a>
- 
-<p>3. Difficult if any, faced by the taxpayers in filing applications through this route may immediately be brought into the notice of GSTN by raising a complaint on GST Self-service portal : (<a href="https://selfservice.gstsystem.in" target="blank">https://selfservice.gstsystem.in</a>)</p>
- 
-Thanks, <br>
-
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/609</link>
 </item>
 </channel>
 </rss>
