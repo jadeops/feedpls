@@ -5,6 +5,55 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<title>[Others] Gross and Net GST revenue collections for the month of Oct, 2025</title>
+<description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of Oct, 2025.</p></ul>
+<ul><p><a href="https://tutorial.gst.gov.in/downloads/news/net_revvenue_gst_oct_2025.pdf" target="blank">     https://tutorial.gst.gov.in/downloads/news/net_revvenue_gst_oct_2025.pdf</a></p></ul>
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/636</link>
+</item>
+<item>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<title>[Registration] Advisory for Simplified GST Registration Scheme</title>
+<description><![CDATA[
+
+<p><b>Dear Taxpayers,</b></p>
+
+<p>In pursuance of Rule 14A of the Central Goods and Services Tax (CGST) Rules, 2017, a <i>Simplified GST Registration Scheme</i> has been introduced to reduce the compliance burden and enhance the ease of doing business for small taxpayers.</p>
+
+<p>As per Rule 14A (Option for taxpayers having a monthly output tax liability below the prescribed threshold limit), any person who, on his own assessment, feels that his total output tax liability on the supply of goods or services, or both, to registered persons will not exceed Rs.2.5 lakh per month (including CGST, SGST/UTGST, IGST, and Compensation Cess) shall be eligible to register under this scheme. However, a person registered under this rule in a State or Union Territory shall not be eligible to obtain another registration in the same State or Union Territory under this rule against the same PAN.</p>
+
+<p><b>Key Features Implemented on the GST Portal:</b></p>
+
+<p>&nbsp;&nbsp;&nbsp;• While applying for registration in FORM GST REG-01, applicants should select "Yes" under the <i>"Option for Registration under Rule 14A."</i></p>
+
+<p>&nbsp;&nbsp;&nbsp;• Aadhaar authentication is mandatory for the Primary Authorized Signatory and at least one Promoter/Partner.</p>
+
+<p>&nbsp;&nbsp;&nbsp;• Registration shall be granted electronically within three working days from the date of generation of the Application Reference Number (ARN), subject to successful Aadhaar authentication.</p>
+
+<p>Taxpayers opting for registration under Rule 14A are advised to take note of the following conditions, in case they intend to withdraw from the Scheme at a later stage:</p>
+
+<p>&nbsp;&nbsp;&nbsp;• All returns due from the effective date of registration up to the date of filing the withdrawal application must be filed.</p>
+
+<p>&nbsp;&nbsp;&nbsp;• The taxpayer must have filed:</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a) Returns for a period of minimum three months, if applying for withdrawal before 1st April 2026, or</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) Returns for a period of minimum one tax period, if applying for withdrawal on or after 1st April 2026.</p>
+
+<p>&nbsp;&nbsp;&nbsp;• No amendment or cancellation application for registration availed under rule 14A should be pending.</p>
+
+<p>&nbsp;&nbsp;&nbsp;• No proceedings under Section 29 (cancellation of registration) for registration availed under rule 14A should be initiated or pending.</p>
+
+
+
+Thanking You, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/635</link>
+</item>
+<item>
 <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
 <title>[Returns] Advisory : Introduction of Import of Goods details in IMS</title>
 <description><![CDATA[
@@ -395,71 +444,6 @@ Team GSTN]]></description>
 Thanking You, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/613</link>
-</item>
-<item>
-<pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-<title>[E-way bill ] Subject: Introduction of Enhanced Inter-operable Services Between E-Way Bill Portals</title>
-<description><![CDATA[
- 
-<p> GSTN is pleased to inform that NIC shall be launching the new E-Way Bill 2.0 portal <a href="https://ewaybill2.gst.gov.in" target="blank">(https://ewaybill2.gst.gov.in)</a>  on <b>1st July 2025</b>, featuring enhanced inter-operable E-Way Bill functionalities. The portal is being introduced to provide <b>enhanced inter-operability</b> between the existing <b>E-Way Bill 1.0 Portal</b> <a href="https://ewaybillgst.gov.in" target="blank">(https://ewaybillgst.gov.in)</a> and the new portal. </p>
-
-<p><b> 1. Objective</b> <br>
-The new E-Way Bill 2.0 portal has been developed in response to taxpayers’ demands for continuity in services during exigencies. It enables cross-portal access to critical E-Way Bill functionalities, ensuring seamless operations for taxpayers and transporters.</p>
-
-<p><b>2. New Inter-Operable Services</b> <br>
-<p>The following additional services will be available on the E-Way Bill 2.0 portal for E-Way Bills generated on either portal (E-Way Bill 1.0 or E-Way Bill 2.0):</p>
-<ul> a)	Generation of E-Way Bill based on Part-A details entered by the supplier </ul>
-<ul> b)	Generation of Consolidated E-Way Bills </ul>
-<ul> c)	Extension of validity of E-Way Bills </ul>
-<ul> d)	Update of transporter details </ul>
-<ul> e)	Retrieval of consolidated E-Way Bills </ul> </p>
-
-<p><p>These services are <b>in addition to</b> the currently available cross-functional services:</p>
-<ul> a)	Generation of E-Way Bills </ul>
-<ul> b)	Updating of vehicle details </ul>
-<ul> c)	Printing of E-Way Bills </ul> </p></p></p>
-
-<p><b>3. System Integration and Synchronisation</b> <br>
-<ul>a)	Both portals will operate on a <b>real-time synchronised architecture </b> wherein E-Way Bill data will be mirrored across both systems within seconds </ul>
-<ul> b)	In the event of a technical issue or downtime on the E-Way Bill 1.0 portal, taxpayers may perform all necessary operations (e.g., updating Part-B) on the E-Way Bill 2.0 portal and carry the E-Way Bill slip generated therefrom. </ul>
-<ul> c)	This dual-system approach is designed to <b>eliminate dependency on a single portal</b> and ensure business continuity. </ul></p>
-
-<p><b>4. Availability via API</b> <br><br>
-All the above services will also be made available to taxpayers and logistics operators through <b>APIs</b>, in addition to the web portal interface. These APIs are currently hosted on the <b>sandbox environment</b> for testing and integration purposes.</p>
-
-<p><b>5. Key Benefits </b> <br>
-<p>Eventually, the data from both E-Way Bill1 and E-Way Bill2 portals shall be seamlessly merged and integrated, thereby eliminating dependency on the E-Way Bill1 system during exigencies. The E-Way Bill2 portal is designed to synchronise E-Way Bill details with the main portal within a few seconds.</p>
-<p>Criss-cross operations between the two portals are fully enabled — updates made to E-Way Bills generated on the E-Way Bill1 portal can be carried out on the E-Way Bill2 portal, and vice versa. In the event of non-availability of the main portal due to technical reasons, Part-B details of E-Way Bills generated on the E-Way Bill1 portal can be updated through the E-Way Bill2 portal, and both versions of the E-Way Bill slip may be carried accordingly.</p>
-<p>Taxpayers and logistics operators are encouraged to familiarise themselves with the new functionalities and integrate API services where applicable.</p>
-<p>For any assistance or further clarifications, users may contact the GST Helpdesk or refer to the user manuals provided on the respective portals.</p>
-</p>
-
-
-
-Issued by: <br>
-Team GSTN & NIC]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/611</link>
-</item>
-<item>
-<pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-<title>[Others] Subject: Filing of SPL-01/ SPL-02 where payment made through GSTR 3B and other cases</title>
-<description><![CDATA[
- 
-<p>1. While filing amnesty applications in Form SPL-01 or SPL-02 under Section 128A of the CGST Act, 2017, some taxpayers are facing technical issues related to auto population of payment details in Table 4 of the forms.</p>
-
-<p>2. In particular, it has been observed that in certain instances, the payments details may not be accurately auto-populated in the applications filed by the taxpayers:</p>
-<ul>(a) &nbsp;&nbsp; Amount paid through "payment towards demand order" functionality</ul>
-<ul>(b) &nbsp;&nbsp; Pre-deposit amount details</ul>
-<ul>(c) &nbsp;&nbsp; Payment made through GSTR 3B</ul>
-
-<p>3. In the above cases, taxpayers are advised to proceed with filing of waiver application as GST portal doesn't stop the taxpayers from filing the application in case wherever the payment details and demand amount are not matching.</p>
-
-<p>4. In all such cases, it is advised to upload the relevant payment information as attachments along with the online application for the verification by the jurisdictional officer</p>
-
-
-Thanks, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/610</link>
 </item>
 </channel>
 </rss>
