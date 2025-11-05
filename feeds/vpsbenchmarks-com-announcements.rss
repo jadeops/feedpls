@@ -5,6 +5,21 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+<title>OnetSolutions introduces new High Performance VPS line with AMD EPYC 9554</title>
+<description><![CDATA[
+        OnetSolutions has released a new generation of High Performance VPS based on AMD EPYC 9554 processors, DDR5 ECC memory, and enterprise-grade NVMe storage. The new line replaces the previous High Performance series and provides improved compute efficiency and memory bandwidth.
+The servers use KVM virtualization and are designed for compute-intensive workloads.
+Available Configurations:
+
+HP-4: 2 vCores | 4 GB DDR5 | 40 GB NVMe | €7.99 / month
+HP-8: 4 vCores | 8 GB DDR5 | 80 GB... (continued)
+
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/onetsolutions-introduces-new-high-performance-vps-line-with-amd-epyc-9554-02</link>
+</item>
+<item>
 <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
 <title>Contabo Launches Limited Edition Cloud VPS SP Plans</title>
 <description><![CDATA[
@@ -207,15 +222,6 @@ CPU: AMD EPYC 4564P 16-Core Processor (with powerful multi-core and single-core
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/nobullnetworks-introducing-nobull-networks-to-vpsbenchmarkscom-01</link>
-</item>
-<item>
-<pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-<title>Leaseweb Public Cloud and VPS are now available in Japan</title>
-<description><![CDATA[
-        Leaseweb Global, a leading cloud services and Infrastructure as a Service (IaaS) provider, today announced the availability of its Public Cloud and Virtual Private Server (VPS) solutions in Japan. Delivered via local, in-country infrastructure, Leaseweb Public Cloud offers a highly competitive blend of cost-effective flexibility and global availability and is designed to be around 30% more cost effective than traditional hyperscalers while delivering the performance, reliability and service levels customers demand. The solution is ideally suited for any global organization... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/leaseweb-public-cloud-and-vps-are-now-available-in-japan-02</link>
 </item>
 </channel>
 </rss>
