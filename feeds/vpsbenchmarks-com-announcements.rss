@@ -5,6 +5,22 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+<title>Leaseweb Public Cloud &amp; VPS: Now Available in Australia</title>
+<description><![CDATA[
+        Leaseweb has expanded its cloud portfolio in Australia with the launch of Public Cloud and VPS services from its Sydney data center.
+Previously focused on dedicated servers, colocation, and network services, Leaseweb’s Australian operations now support a broader range of virtualized infrastructure options for businesses seeking scalable, locally hosted solutions.
+Leaseweb Virtual Private Servers
+Leaseweb VPS provides a straightforward way for small businesses and development teams to deploy applications on reliable infrastructure with predictable costs.
+Available configurations:
+
+**4–24... (continued)
+
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/leaseweb-public-cloud--vps-now-available-in-australia-01</link>
+</item>
+<item>
 <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
 <title>OnetSolutions introduces new High Performance VPS line with AMD EPYC 9554</title>
 <description><![CDATA[
@@ -208,20 +224,6 @@ LS 1x2 Plan (1 vCPU, 2 GB RAM, 20 GB SSD) – Now $9/mo (previously $18)
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/linkdatacom-permanently-lowers-vps-plans-prices-by-up-to-50-in-2025-01</link>
-</item>
-<item>
-<pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-<title>Introducing Nobull Networks to VPSBenchmarks.com</title>
-<description><![CDATA[
-        We're pleased to introduce Nobull Networks LLC to VPSBenchmarks. We're a performance-driven hosting provider based in the Pacific Northwest (Seattle Metro, West Coast USA), offering services that prioritize reliability, transparency, and real-world performance.
-Our Infrastructure
-We build and maintain our platform on enterprise-grade hardware that we fully own and operate in colocation data centers. This ensures consistent performance under a variety of workloads. All our customer-facing infrastructure uses:
-
-CPU: AMD EPYC 4564P 16-Core Processor (with powerful multi-core and single-core... (continued)
-
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/nobullnetworks-introducing-nobull-networks-to-vpsbenchmarkscom-01</link>
 </item>
 </channel>
 </rss>
