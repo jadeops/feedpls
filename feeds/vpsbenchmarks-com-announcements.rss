@@ -5,6 +5,20 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+<title>TakeHost.Biz Deploys New VPS Nodes Featuring AMD EPYC 7763</title>
+<description><![CDATA[
+        TakeHost.Biz today announced a significant upgrade to its Virtual Private Server (VPS) infrastructure with the deployment of new high-performance nodes powered by AMD EPYC 7763 processors. This hardware refresh aims to provide customers with substantial improvements in compute efficiency, network throughput, and workload stability.
+The new VPS offering utilizes the AMD EPYC 7763 (Milan) CPU architecture, delivering enhanced performance consistency and superior resource utilization for demanding applications, data processing, and development environments.
+Key specifications and performance details include:
+
+Processor:... (continued)
+
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/takehostbiz-deploys-new-vps-nodes-featuring-amd-epyc-7763-01</link>
+</item>
+<item>
 <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
 <title>VPSBenchmarks publishes 2025 Best Enterprise VPS Ranking</title>
 <description><![CDATA[
@@ -210,17 +224,6 @@ OPNsense, now available with a single click on Kamatera, lets you secure your cl
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/kamatera-adds-2-new-apps-to-marketplace-01</link>
-</item>
-<item>
-<pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-<title>ScalaHosting Joins Forces with OpenCart as a Recommended Hosting Partner</title>
-<description><![CDATA[
-        We’re excited to announce a new partnership between OpenCart and ScalaHosting! 🎉
-As part of this collaboration, ScalaHosting is now officially listed as a recommended hosting provider on the OpenCart Download page. This recognition marks an important milestone as we join forces to deliver a seamless and reliable hosting experience for OpenCart users around the world.
-OpenCart is one of the most popular eCommerce platforms, trusted by thousands of businesses to power their online stores. It’s a free, open-source solution... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/scalahosting-joins-forces-with-opencart-as-a-recommended-hosting-partner-01</link>
 </item>
 </channel>
 </rss>
