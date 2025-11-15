@@ -5,6 +5,16 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+<title>0ping.eu Launches New High-RAM VPS Line with Octa-Channel Performance</title>
+<description><![CDATA[
+        0ping.eu has announced the launch of its new High RAM VPS lineup, engineered for users who require extremely large memory capacity and uncompromising performance. Plans start at 16 GB RAM and extend up to 128 GB, all powered by octa-channel memory, delivering over 200 GB/s of memory bandwidth.
+The lineup is built on AMD Threadripper Pro CPUs, which offer an excellent balance between high single-core performance and massive RAM capacity/bandwidth, making them ideal for both compute-heavy and memory-intensive workloads. All... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/0ping_eu-0pingeu-launches-new-high-ram-vps-line-with-octa-channel-performance-01</link>
+</item>
+<item>
 <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
 <title>TakeHost.Biz Deploys New VPS Nodes Featuring AMD EPYC 7763</title>
 <description><![CDATA[
@@ -213,17 +223,6 @@ Best Enterprise VPS – This ranking will feature the fastest VPS over the past 
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/vpsb-new-enterprise-and-global-best-vps-rankings-01</link>
-</item>
-<item>
-<pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-<title>Kamatera Adds 2 New Apps to Marketplace</title>
-<description><![CDATA[
-        Kamatera is expanding its offerings again, with two new apps in our Marketplace, to give our customers instant access to tools that save time and boost security.  OPNsense delivers a powerful firewall and routing platform with advanced security features. CloudPanel provides an intuitive, lightweight control panel for managing web hosting environments.
-Take control of your network with OPNsense
-OPNsense, now available with a single click on Kamatera, lets you secure your cloud with a robust firewall, set up powerful... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/kamatera-adds-2-new-apps-to-marketplace-01</link>
 </item>
 </channel>
 </rss>
