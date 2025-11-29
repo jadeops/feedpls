@@ -5,6 +5,20 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+<title>Contabo free 1-click Apps for n8n, Nextcloud, GitLab &amp; WireGuard available on all VPS and VDS plans</title>
+<description><![CDATA[
+        Contabo expanded its lineup of free 1-click applications, making self-hosting significantly faster and more accessible. Users can now deploy n8n, Nextcloud, WireGuard, and GitLab on any VPS or VDS in just a single click, without manual configuration or additional fees. 
+These additions simplify the setup of development tools, automation systems, private clouds, and secure networks - allowing users to get production-ready environments running within minutes. 
+1-Click Apps Available Now 
+ 
+n8n: Powerful Workflow Automation 
+n8n makes it easy to automate... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/contabo-free-1-click-apps-for-n8n-nextcloud-gitlab--wireguard-available-on-all-vps-and-vds-plans-01</link>
+</item>
+<item>
 <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
 <title>0ping.eu Launches New High-RAM VPS Line with Octa-Channel Performance</title>
 <description><![CDATA[
@@ -213,16 +227,6 @@ The refreshed lineup introduces upgraded specifications across all plans, with p
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/contabo-launches-new-vps-lineup-based-on-user-feedback-01</link>
-</item>
-<item>
-<pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-<title>New Enterprise and Global Best VPS rankings</title>
-<description><![CDATA[
-        VPSBenchmarks is launching two new Best VPS rankings: Best Enterprise VPS and Best Global VPS.
-Best Enterprise VPS – This ranking will feature the fastest VPS over the past 12 months from providers that qualify as "Enterprise" providers. To be included, a provider must offer at least three of the following services: Block storage, Object storage, Load balancers, GPUs or Kubernetes. Additionally, hourly billing must be available for all products, and only cloud servers with hourly billing are included in... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/vpsb-new-enterprise-and-global-best-vps-rankings-01</link>
 </item>
 </channel>
 </rss>
