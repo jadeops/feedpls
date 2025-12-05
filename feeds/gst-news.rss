@@ -5,6 +5,50 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+<title>[Returns] Advisory on reporting values in Table 3.2 of GSTR-3B</title>
+<description><![CDATA[
+ 
+<ol>
+<li>
+<p>Table 3.2 of Form GSTR-3B captures the inter-state supplies made to unregistered persons, composition taxpayers, and UIN holders out of the total supplies declared in Table 3.1 & 3.1.1 of GSTR-3B and is auto-populated from corresponding supplies declared in GSTR-1, GSTR-1A, and IFF in the requisite tables.</p>
+</li>
+
+<li>
+<p>It is to inform you that from <b>November-2025 tax period onwards</b>, value of supplies auto-populated in Table 3.2 of GSTR-3B from the returns/forms mentioned above, shall be made <b>non-editable</b>. The GSTR-3B shall be filed henceforth with the system generated auto-populated values only in table 3.2.</p>
+</li>
+
+<li>
+<p>Further, in case any modification/amendment is required in the auto-populated values of Table 3.2 of GSTR-3B, then the same can be done through GSTR-1A for the same tax period. The values thus reported in GSTR-1A shall change the auto-populated values of table 3.2 in GSTR-3B instantly and the taxpayers can file their GSTR-3B with the updated values. Moreover, the amendment of such supplies can always be reported in Form GSTR-1/IFF filed for subsequent tax periods.</p>
+</li>
+
+<li>
+<p>To ensure that GSTR-3B is filed accurately with the correct values with no hassle of frequent amendments, it is advised to report the correct values in GSTR-1, GSTR-1A, or IFF. This will ensure the auto-populated values in Table 3.2 of GSTR-3B are accurate and compliant with GST regulations.</p>
+</li>
+
+</ol>
+
+<p><u><b>FAQ’s</b></u></p>
+<ul> 
+<li><p><b>What are the recent changes related to reporting supplies in Table 3.2?</b></p>
+<p>Starting from the November 2025 tax period, the auto-populated values in Table 3.2 of GSTR-3B for inter-state supplies made to unregistered persons, composition taxpayers, and UIN holders will be non-editable, and taxpayers will need to file their GSTR-3B with the system-generated auto-populated values only.</p></li>
+
+<li> <p><b>How can I rectify values in Table 3.2 of GSTR-3B if incorrect values have been auto-populated after November 2025 period onwards due to incorrect reporting of the same through GSTR-1?</b></p>
+<p>If incorrect values are auto-populated in Table 3.2 after November 2025, then the taxpayers need to correct the values by making amendments through Form GSTR-1A for the same tax period. The values thus reported in GSTR-1A shall change the auto-populated values of table 3.2 in GSTR-3B instantly and the taxpayers can file their GSTR-3B with the updated values.</br>
+Moreover, the amendment of such supplies can always be reported in Form GSTR-1/IFF filed for subsequent tax periods.</p></li>
+
+<li><p><b>What should I do to ensure accurate reporting in Table 3.2 of GSTR-3B?</b></p>
+<p>Taxpayers should ensure that their supplies are reported correctly in their GSTR-1, GSTR-1A, or IFF. It is advised to review the draft GSTR-1 or GSTR-1A before filing so that any mistakes in the statement can be corrected therein. This will ensure that the accurate values are auto-populated in Table 3.2 of GSTR-3B.</p></li>
+
+<li><p><b>Till what time/date I can amend values furnished in GSTR-1 through Form GSTR-1A?</b></p>
+<p>As there is no cut-off date for filing Form GSTR-1A before GSTR-3B which means Form GSTR-1A can be filed after filing Form GSTR-1 and till the time of filing Form GSTR-3B. Hence, any amendment required in auto-populated values of table 3.2, same can be carried out through Form GSTR-1A till the moment of filing GSTR-3B. For more details on filing of GSTR-1A please click <a href="https://services.gst.gov.in/services/advisoryandreleases/read/506">https://services.gst.gov.in/services/advisoryandreleases/read/506</a></p></li>
+</ul>
+
+Thanking You, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/640</link>
+</item>
+<item>
 <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
 <title>[Returns] FAQs on GSTR -9/9C for FY 2024-25</title>
 <description><![CDATA[<p>
@@ -380,34 +424,6 @@ Team GSTN]]></description>
 Regards, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/618</link>
-</item>
-<item>
-<pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
-<title>[Generic] Taxpayer Advisory on upcoming security enhancements</title>
-<description><![CDATA[
-
-<p>The GST System is being continuously enhanced to strengthen data security and improve transparency to the taxpayers.</p>
-
-<p>In this effort, the below mentioned enhancement shall be shortly introduced to provide transparency and control to the taxpayers who interact with the GST System using Application Suvidha Providers (ASP).  The ASP use GST System authorised API channel partners that are called GST Suvidha Providers (GSP). The role of a GSP is to provide API access between GST System and ASP.</p>
- 
-<p>1.	Email and SMS notification service to inform taxpayer upon every successful OTP consent access provided by taxpayer to the ASP. The taxpayers authorized signatory shall receive notification via email and/or SMS whenever ASP successfully obtains their consent, by providing OTP from the GST System, to access their data over APIs. The notification would have following details:  </p>
-			
-			
-			<ul>
-                <li><p>&nbsp;&nbsp;&nbsp;&nbsp;Name of the ASP and the underlying GSP</p></li>
-                <li><p>&nbsp;&nbsp;&nbsp;&nbsp;Date and Time of the OTP Consent</p></li>
-		<li><p>&nbsp;&nbsp;&nbsp;&nbsp;Validity Period of the consent</p></li>
-			</ul>
-            
-
-<p>2.	The GST Common Portal is being further enhanced to provide view of current & historic access gained by ASP / GSP and enable taxpayer with an option to revoke any active consent. The taxpayer shall be able to access this after logging to their GST Common Portal dashboard.</p>
-
-<p>The exact dates, when the above functionalities will become available, shall be published vide respective advisories. </p>
-
-
-Thanks, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/616</link>
 </item>
 </channel>
 </rss>
