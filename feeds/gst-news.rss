@@ -6,6 +6,40 @@
 <link>https://www.gst.gov.in/</link>
 <item>
 <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+<title>[Registration] Auto Suspension of GST Registration due to Non-Furnishing of Bank Account Details as per Rule 10A</title>
+<description><![CDATA[
+
+<p><b>Dear Taxpayers,</b></p>
+
+<p>As per Rule 10A, taxpayers (except those registered under TCS, TDS, or Suo-moto registrations) must furnish their bank account details within 30 days of grant of registration or before filing details of outward supplies in GSTR-1 or IFF, whichever is earlier.</p>
+
+<p>The following updates have been implemented on the GST Portal with respect to Rule 10A:</p>
+
+<ul>
+<li>Automatic Suspension:</br>
+If a taxpayer fails to furnish bank account details within 30 days of registration, the system will automatically suspend the registration. The suspension order can be viewed at: Services > User Services > View Notices and Orders.</li>
+</br>
+<li>Adding Bank Account Details:</br>
+Taxpayers can add bank account details through a non-core amendment by navigating to: Services > Registration > Amendment of Registration (Non-Core Fields).</li>
+</br>
+<li>Automatic Dropping of Cancellation Proceedings:</br>
+Once bank account details are furnished, cancellation proceedings will be automatically dropped by the system.
+</li>
+</br>
+<li>Manual Option to Drop Proceedings:</br>
+If the cancellation proceedings are not dropped automatically on the same day after adding bank details, the taxpayer can manually initiate the process using the “Initiate Drop Proceedings” button available at: Services > User Services > View Notices and Orders > Initiate Drop Proceedings.</li>
+</br>
+<li>Exemptions:</br>
+Furnishing bank account details is not mandatory for OIDAR and NRTP taxpayers. However, for OIDAR taxpayers who select “Representative Appointed in India” as ‘Yes’, furnishing bank account details is mandatory.
+</li>
+</ul></br>
+
+Thanking You, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/641</link>
+</item>
+<item>
+<pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
 <title>[Returns] Advisory on reporting values in Table 3.2 of GSTR-3B</title>
 <description><![CDATA[
  
@@ -408,22 +442,6 @@ Team GSTN]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/619</link>
-</item>
-<item>
-<pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-<title>[Returns] Advisory: Regarding GSTR-3A Notices issued for non-filing of form GSTR 4 to cancelled Composition Taxpayers </title>
-<description><![CDATA[
-
-
-<p>As per the provisions of Section 39(2) of the Central Goods and Services Tax (CGST) Act, 2017, read with Rule 68 of the CGST Rules, 2017, notices in Form GSTR-3A are required to be issued in cases of non-filing of Form GSTR-4. However, it has come to notice that, due to a system-related glitch, such notices have been inadvertently issued in certain cases where they were not applicable — including instances involving taxpayers whose registrations had been cancelled prior to the Financial Year 2024–25.</p>
-
-<p>2.	The issue is currently under active examination, and the technical team is implementing appropriate corrective measures to ensure that such instances do not recur. In the meantime, taxpayers who have either duly filed the relevant return or whose registrations were cancelled prior to the Financial Year 2024–25 are advised to ignore these notices, as no further action is required on their part in such cases.</p>
-
-<p>3.	For any other issues or concerns, taxpayers are advised to raise a grievance through the Self-Service Portal available on the GST Portal, along with all relevant details, to facilitate prompt and effective resolution.</p>
-
-Regards, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/618</link>
 </item>
 </channel>
 </rss>
