@@ -5,6 +5,19 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+<title>Performance-Focused VPS Hosting with Transparent Pricing and Human Support</title>
+<description><![CDATA[
+        RackNerd is a US-based infrastructure provider offering VPS, dedicated servers, and web hosting services across multiple global data center locations.
+VPS Platforms: Intel Xeon and AMD Ryzen
+RackNerd operates two distinct KVM VPS product lines, allowing customers to choose the platform that best fits their workload requirements:
+Standard KVM VPS (Intel Xeon)
+Powered by Intel Xeon processors and backed by enterprise SSD storage in RAID-10, this lineup focuses on reliability, balanced performance, and predictable I/O behavior. It is well... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/racknerd-performance-focused-vps-hosting-with-transparent-pricing-and-human-support-01</link>
+</item>
+<item>
 <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
 <title>Best VPS 2025 just updated</title>
 <description><![CDATA[
@@ -215,17 +228,6 @@ If you're a new customer, you can get 2 months free with promo codes on the VPS 
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/upcloud-gpu-servers-available-in-finland-01</link>
-</item>
-<item>
-<pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-<title>Kamatera Marketplace Expansion and New Hebrew Website Launch</title>
-<description><![CDATA[
-        Kamatera has 2 new offerings in its Marketplace, designed to give you more flexibility and control over your cloud infrastructure:
-New Marketplace applications
-KASM Workspaces: A containerized desktop solution that delivers full computing environments through your web browser. Users can access complete desktop experiences, development environments, and specialized applications without installing anything locally. Features include secure, isolated workspaces, browser-based access from any device, zero client-side software requirements, and perfect scalability for remote teams. Ideal for secure development environments, remote... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/kamatera-marketplace-expansion-and-new-hebrew-website-launch-01</link>
 </item>
 </channel>
 </rss>
