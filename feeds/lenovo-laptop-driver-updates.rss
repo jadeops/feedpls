@@ -5,7 +5,7 @@
 <description><![CDATA[IdeaPad Pro 5 14IMH9 - Updates]]></description>
 <link>https://pcsupport.lenovo.com/in/en/products/laptops-and-netbooks/5-series/ideapad-pro-5-14imh9/83d2/83d2001gin/downloads/driver-list</link>
 <item>
-<pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+<pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
 <title>BIOS Update for Windows 11 (64-bit) - IdeaPad Pro 5 14IMH9</title>
 <description><![CDATA[{
     "OperatingSystemKeys": [
@@ -13,22 +13,22 @@
     ],
     "Title": "BIOS Update for Windows 11 (64-bit) - IdeaPad Pro 5 14IMH9",
     "Date": {
-        "Unix": 1761030120000
+        "Unix": 1766459160000
     },
     "Updated": {
-        "Unix": 1764209184000
+        "Unix": 1766459289000
     },
     "DocId": "DS566499",
     "Files": [
         {
             "Name": "BIOS Update",
             "TypeString": "EXE",
-            "Version": "N8CN36WW",
-            "URL": "https:\/\/download.lenovo.com\/consumer\/mobiles\/n8cn36ww.exe",
+            "Version": "N8CN37WW",
+            "URL": "https:\/\/download.lenovo.com\/consumer\/mobiles\/n8cn37ww.exe",
             "Size": "10.83 MB",
-            "SHA1": "a2ef65537ad329bb893165ce7af29e1d1d7426e3",
-            "SHA256": "762226614e29f4568adda1162fe3efbe77c08c28e4e15db72017db7329c3df3f",
-            "MD5": "a04cf018181a0503dedda302618f1066",
+            "SHA1": "42b4561b6c88ac1770edd8a0f5912a5cddf1abab",
+            "SHA256": "ca18bff7af36f6fb4e9f7a0e952a4c3ab462a8e48b344d42bf983ae0d89decc5",
+            "MD5": "80755ca26ef5cd19ea1e7d84471e02c6",
             "Priority": "Recommended",
             "PriorityWeight": 2,
             "ReadmeUrl": "",
@@ -38,19 +38,19 @@
             "FileName": "",
             "DataIndicator": "",
             "Date": {
-                "Unix": 1764208860000
+                "Unix": 1766459220000
             },
             "Released": null
         },
         {
             "Name": "BIOS Update README",
             "TypeString": "TXT README",
-            "Version": "N8CN36WW",
-            "URL": "https:\/\/download.lenovo.com\/consumer\/mobiles\/n8cn36ww.txt",
-            "Size": "76.99 KB",
-            "SHA1": "17776cc8c1d5777302ffac9df9fa7cce2eea0d0a",
-            "SHA256": "d22f5daddaea3b2ace2222d52cde5a04bae647768a235b4658d93f76bf3be900",
-            "MD5": "49f7b2084570408d232a9a03a0716e08",
+            "Version": "N8CN37WW",
+            "URL": "https:\/\/download.lenovo.com\/consumer\/mobiles\/n8cn37ww.txt",
+            "Size": "79.31 KB",
+            "SHA1": "5e6938cc524bc001644d7655ded91ef1782f10aa",
+            "SHA256": "b73e83825e6e46f1a5a7acbe312ab7dcf6f53f5a029450d0202dbd80b2a36f2a",
+            "MD5": "85141de8b1ef5c772668a3aa8886a9df",
             "Priority": "Recommended",
             "PriorityWeight": 2,
             "ReadmeUrl": "",
@@ -60,7 +60,7 @@
             "FileName": "",
             "DataIndicator": "",
             "Date": {
-                "Unix": 1764208920000
+                "Unix": 1766459280000
             },
             "Released": null
         }
@@ -97,7 +97,7 @@
     "MetaData": "BIOS,BIOS Update,,,IdeaPad Pro 5 14IMH9,DS566499",
     "SummaryInfo": {
         "Priority": "Recommended",
-        "Version": "N8CN36WW"
+        "Version": "N8CN37WW"
     },
     "rolePass": true,
     "Category": {
