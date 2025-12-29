@@ -5,6 +5,46 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+<title>[Returns] Advisory &amp; FAQ on Electronic Credit Reversal and Re-claimed Statement &amp; RCM Liability/ITC Statement</title>
+<description><![CDATA[
+
+<p>1.&nbsp;	To ensure correct and accurate reporting of reversed and reclaimed ITC and to avoid clerical mistakes, <b><i>Electronic Credit Reversal and Re-claimed Statement (Reclaim Ledger)</i></b> was introduced on the GST portal from <i>August 2023 return period onwards for monthly taxpayers and from July-September 2023 quarter for quarterly taxpayers.</i> This Reclaim Ledger captures the ITC temporarily reversed in Table 4(B)2 and its subsequent reclaim in Table 4(A)5) and 4(D)1. </p>
+
+<p>2.&nbsp;	As of now taxpayer get a <b>warning message</b> if a taxpayer attempts to re-claim excess ITC in table 4D(1) than the available ITC reversal balance but the taxpayer is allowed to file its Form GSTR-3B.</p>
+
+<p>3.&nbsp;	To the taxpayers multiple opportunities have been given to report their opening balance which was earlier reversed ITC but was not reclaimed till that time, for the newly introduced Reclaim Ledger. </p>
+
+<p>4.&nbsp;	This statement can be viewed by the taxpayer by navigating to the <b>Dashboard › Services › Ledger › Electronic Credit Reversal and Re-claimed</b>.<p>
+
+<p>5.&nbsp;	To assist taxpayers in correctly reporting Reverse Charge Mechanism (RCM) transactions, another statement called <b>"RCM Liability/ITC Statement" (RCM Ledger)</b> was introduced on the GST Portal from August 2024 onwards for monthly filers and from July-September-2024 period for quarterly filers. The ledger captures and track the RCM liability shown in Table 3.1(d) of GSTR-3B and its corresponding ITC claimed in Table 4A(2) and 4A(3) of GSTR-3B for each return period. 
+</p>
+
+<p>6.&nbsp;	A <b>warning message</b> comes to the taxpayer in case the ITC claimed in Table 4(A)2 and 4(A)3 exceed the closing balance of RCM ledger plus the liabilities being reported in Table 3.1(d).</p>
+
+<p>7.&nbsp;	To the taxpayers multiple opportunities have been given to report the RCM ITC opening balance and amend the opening balance for both the said statements where any transaction related to excess ITC reversal or excess RCM liability/ITC prior to implementation of the said statements could be declared as opening balance to these statements.</p>
+
+<p>8.&nbsp;	This RCM Liability/ITC Statement can be accessed through:<b> Services >> Ledger >> RCM Liability/ITC Statement</b>.</p>
+
+<p>9.&nbsp;	Now, the taxpayers are hereby informed that, shortly, negative values or availment of excess ITC over and above available balance, shall not be allowed in both the ledgers. Both the statements shall have a below mentioned validation for regulation of ITC:  
+<ul>a.&nbsp;	The reclaimed ITC in Table 4(D)(1) shall be lesser than or equal to the combined values of closing balance of <b><i>Electronic Credit Reversal and Re-claimed Statement</i></b> and ITC being reversed in Table 4(B)(2) of current period GSTR-3B. and,</ul>
+<ul>b.&nbsp;	The RCM ITC claimed in Table 4(A)2 & 4(A)3 shall be equal to or less than the combined values of RCM liabilities paid in Table 3.1(d) of the same GSTR-3B and closing balance of RCM Liability/ITC Statement.</ul></p>
+
+<p>10.&nbsp;	In case the taxpayers are already having negative closing balance in <b><i>Electronic Credit Reversal and Re-claimed Statement or RCM Liability/ITC Statement</b></i>, the system will not allow such taxpayers to file their GSTR-3B until:
+
+<ul>a.&nbsp;	Mandatorily reversal of such excess claimed ITC (Negative closing balance) as per <b><i>Electronic Credit Reversal and Re-claimed Statement</b></i> is made in Table 4(B)(2) of current period GSTR-3B. In case there is no ITC available in current period, this reversal declared in table 4(B)2 will be added to the liability of the taxpayer in current period while filing GSTR-3B. </ul>
+
+<ul>b.&nbsp;	For negative balance in <b><i>RCM Liability/ITC Statement</b></i>, taxpayer need to either pay the additional RCM liability equivalent to negative closing balance in Table 3.1(d) or reduce the ITC claimed in Table 4A(2) or 4A(3) to the extent of closing balance in the current return period.</ul>
+
+11.&nbsp;	For more information on <b><i>Electronic Credit Reversal and Re-claimed Statement</b></i> please refer the advisory dated 17th September, 2024 issued by GSTN by clicking below link <a href="https://tutorial.gst.gov.in/downloads/news/itc_pending_ledger.pdf" target="blank"">https://tutorial.gst.gov.in/downloads/news/itc_pending_ledger.pdf</a>. Also, detailed advisory on Introduction of RCM Liability/ITC Statement can be seen by clicking on below link:<a href="https://services.gst.gov.in/services/advisoryandreleases/read/514" target="blank"">https://services.gst.gov.in/services/advisoryandreleases/read/514</a>.
+
+
+
+Regards, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/643</link>
+</item>
+<item>
 <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
 <title>[Returns] Consolidated FAQs on GSTR -9/9C for FY 2024-25</title>
 <description><![CDATA[
@@ -425,25 +465,6 @@ Team GSTN]]></description>
 Regards, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/621</link>
-</item>
-<item>
-<pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-<title>[Returns] Advisory on extension of GSTR-3B due date  in few districts of Maharashtra State</title>
-<description><![CDATA[<ul><p>In view of the natural calamity caused by heavy rains, the due date of GSTR-3B for the July-2025 tax period has been extended from 20th August, 2025 to 27th August, 2025 for the following districts of Maharashtra state:</p></ul>
-
-<ul>
-                <p>&nbsp;&nbsp;&nbsp;&nbsp;1.Mumbai (City),</p>
-                <p>&nbsp;&nbsp;&nbsp;&nbsp;2.Mumbai (sub-urban),</p>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;3.Thane,</p>
-                <p>&nbsp;&nbsp;&nbsp;&nbsp;4.Raigad</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;5.Palghar</p>
-</ul>
-<ul><p>For further details, please refer to <a href="https://taxinformation.cbic.gov.in/view-pdf/1010424/ENG/Notifications" target="blank">Notification No. 12/2025 – Central Tax dated 20th August, 2025 </a>issued by CBIC.</p></ul>
-
- 
-Thanking you , <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/620</link>
 </item>
 </channel>
 </rss>
