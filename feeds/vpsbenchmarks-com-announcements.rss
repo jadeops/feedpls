@@ -5,6 +5,24 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+<title>Hosta Blanca VPS in Spain and Germany</title>
+<description><![CDATA[
+        Hosta Blanca, a young provider from Spain, is reviewed for the first time at VPSBenchmarks. Host Blanca offers VPS, Dedicated servers and domain registration. It has locations in Spain and Germany. VPS monthly prices start at 3.99€ for 2 vCPUs and 2GB RAM.
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/hostablanca-hosta-blanca-vps-in-spain-and-germany-01</link>
+</item>
+<item>
+<pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+<title>Native EUR and USD payments at HostUp</title>
+<description><![CDATA[
+        HostUp, a Swedish VPS and Web Hosting provider introduces native euro and dollar payments in addition to Swedish Krona. You can now buy your servers using the currency of your home country if it's in the Euro zone or in the USA. This will guarantee stable charges over time regardless of currency markets fluctuations.
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/hostup-native-eur-and-usd-payments-at-hostup-01</link>
+</item>
+<item>
 <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
 <title>Performance-Focused VPS Hosting with Transparent Pricing and Human Support</title>
 <description><![CDATA[
@@ -210,24 +228,6 @@ If you're a new customer, you can get 2 months free with promo codes on the VPS 
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/vpsb-hexabyte-first-performance-trial-01</link>
-</item>
-<item>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<title>July 2025 Best VPS rankings are out</title>
-<description><![CDATA[
-        Evolution Host (Professional plan $60/mo) and Hostup (VPS XS $7.50/mo) took the lead last month: Best VPS July 2025.
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/vpsb-july-2025-best-vps-rankings-are-out-01</link>
-</item>
-<item>
-<pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
-<title>UpCloud GPU servers available in Finland</title>
-<description><![CDATA[
-        UpCloud started offering GPU servers running on NVIDIA L40S GPUs in July. Configurations start at 1.111€/h with 1 GPU and 8 AMD EPYC 9575F vCPUs.
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/upcloud-gpu-servers-available-in-finland-01</link>
 </item>
 </channel>
 </rss>
