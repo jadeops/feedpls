@@ -15,7 +15,7 @@
 
 <p>3.&nbsp;	To the taxpayers multiple opportunities have been given to report their opening balance which was earlier reversed ITC but was not reclaimed till that time, for the newly introduced Reclaim Ledger. </p>
 
-<p>4.&nbsp;	This statement can be viewed by the taxpayer by navigating to the <b>Dashboard › Services › Ledger › Electronic Credit Reversal and Re-claimed</b>.<p>
+<p>4.&nbsp;	This statement can be viewed by the taxpayer by navigating to the <b>Dashboard › Services › Ledger › Electronic Credit Reversal and Re-claimed</b>.</p>
 
 <p>5.&nbsp;	To assist taxpayers in correctly reporting Reverse Charge Mechanism (RCM) transactions, another statement called <b>"RCM Liability/ITC Statement" (RCM Ledger)</b> was introduced on the GST Portal from August 2024 onwards for monthly filers and from July-September-2024 period for quarterly filers. The ledger captures and track the RCM liability shown in Table 3.1(d) of GSTR-3B and its corresponding ITC claimed in Table 4A(2) and 4A(3) of GSTR-3B for each return period. 
 </p>
@@ -30,17 +30,63 @@
 <ul>a.&nbsp;	The reclaimed ITC in Table 4(D)(1) shall be lesser than or equal to the combined values of closing balance of <b><i>Electronic Credit Reversal and Re-claimed Statement</i></b> and ITC being reversed in Table 4(B)(2) of current period GSTR-3B. and,</ul>
 <ul>b.&nbsp;	The RCM ITC claimed in Table 4(A)2 & 4(A)3 shall be equal to or less than the combined values of RCM liabilities paid in Table 3.1(d) of the same GSTR-3B and closing balance of RCM Liability/ITC Statement.</ul></p>
 
-<p>10.&nbsp;	In case the taxpayers are already having negative closing balance in <b><i>Electronic Credit Reversal and Re-claimed Statement or RCM Liability/ITC Statement</b></i>, the system will not allow such taxpayers to file their GSTR-3B until:
+<p>10.&nbsp;	In case the taxpayers are already having negative closing balance in <b><i>Electronic Credit Reversal and Re-claimed Statement or RCM Liability/ITC Statement</b></i>, the system will not allow such taxpayers to file their GSTR-3B until:</p>
 
-<ul>a.&nbsp;	Mandatorily reversal of such excess claimed ITC (Negative closing balance) as per <b><i>Electronic Credit Reversal and Re-claimed Statement</b></i> is made in Table 4(B)(2) of current period GSTR-3B. In case there is no ITC available in current period, this reversal declared in table 4(B)2 will be added to the liability of the taxpayer in current period while filing GSTR-3B. </ul>
+<p><ul>a.&nbsp;	Mandatorily reversal of such excess claimed ITC (Negative closing balance) as per <b><i>Electronic Credit Reversal and Re-claimed Statement</b></i> is made in Table 4(B)(2) of current period GSTR-3B. In case there is no ITC available in current period, this reversal declared in table 4(B)2 will be added to the liability of the taxpayer in current period while filing GSTR-3B. </ul></p>
 
-<ul>b.&nbsp;	For negative balance in <b><i>RCM Liability/ITC Statement</b></i>, taxpayer need to either pay the additional RCM liability equivalent to negative closing balance in Table 3.1(d) or reduce the ITC claimed in Table 4A(2) or 4A(3) to the extent of closing balance in the current return period.</ul>
+<p><ul>b.&nbsp;	For negative balance in <b><i>RCM Liability/ITC Statement</b></i>, taxpayer need to either pay the additional RCM liability equivalent to negative closing balance in Table 3.1(d) or reduce the ITC claimed in Table 4A(2) or 4A(3) to the extent of closing balance in the current return period.</ul></p>
 
-11.&nbsp;	For more information on <b><i>Electronic Credit Reversal and Re-claimed Statement</b></i> please refer the advisory dated 17th September, 2024 issued by GSTN by clicking below link <a href="https://tutorial.gst.gov.in/downloads/news/itc_pending_ledger.pdf" target="blank"">https://tutorial.gst.gov.in/downloads/news/itc_pending_ledger.pdf</a>. Also, detailed advisory on Introduction of RCM Liability/ITC Statement can be seen by clicking on below link:<a href="https://services.gst.gov.in/services/advisoryandreleases/read/514" target="blank"">https://services.gst.gov.in/services/advisoryandreleases/read/514</a>.
+<p>11.&nbsp;	For more information on <b><i>Electronic Credit Reversal and Re-claimed Statement</b></i> please refer the advisory dated 17th September, 2024 issued by GSTN by clicking below link <a href="https://tutorial.gst.gov.in/downloads/news/itc_pending_ledger.pdf" target="blank">https://tutorial.gst.gov.in/downloads/news/itc_pending_ledger.pdf</a>. Also, detailed advisory on Introduction of RCM Liability/ITC Statement can be seen by clicking on below link:<a href="https://services.gst.gov.in/services/advisoryandreleases/read/514" target="blank">https://services.gst.gov.in/services/advisoryandreleases/read/514</a> .</p>
 
 
 
-Regards, <br>
+
+ 
+<p><u><b>FAQs related to Electronic Credit Reversal and Re-claimed Statement and RCM Liability/ITC Statement</b></u></p>
+
+<p><b>1.&nbsp;How to view my Electronic Credit Reversal and Re-claimed Statement?</b></p>
+
+
+<p>&nbsp;&nbsp;&nbsp;You can view the statement by navigating to the <b>Dashboard</b> &rsaquo; <b>Services</b> &rsaquo; <b>Ledger</b> &rsaquo; <b>Electronic Credit Reversal and Re-claimed.</b></p>
+
+<p><b>2.&nbsp;How to view my RCM Liability/ITC Statement?</b></p>
+
+<p>&nbsp;&nbsp;&nbsp;You can view the RCM Liability/ITC Statement by navigating to the  <b>Dashboard</b> &rsaquo; <b>Services</b> &rsaquo; <b>Ledger</b> &rsaquo; <b>RCM Liability/ITC Statement.</b> </p>
+
+<p><b>3.&nbsp;What will be changed in the GSTR-3B in respect of <i>Electronic Credit Reversal and Re-claimed Statement?</i></b></p>
+
+
+<p>&nbsp;&nbsp;&nbsp;Shortly, taxpayer will not be able to file their GSTR-3B in case the ITC claimed in Table 4D&#40;1&#41; exceeds the closing balance in the <i><b>Electronic Credit Reversal and Re-claimed Statement &#40;ITC reclaim ledger&#41;</i></b> and the ITC reversed in Table 4B&#40;2&#41; of the current return period putting together.</p>
+
+
+<p><b>4.&nbsp;How to file GSTR-3B if closing balance of Electronic Credit Reversal and Re-claimed Statement &#40;ITC reclaim ledger&#41; is already Negative?</b><p>
+
+<p>&nbsp;&nbsp;&nbsp;If the closing balance of the ITC reclaim ledger is negative, it indicates that excess ITC was reclaimed earlier. Therefore, to file GSTR-3B, you must reverse the excess claimed ITC in Table 4B&#40;2&#41; of the respective return period, up to the amount of the negative closing balance. This will allow you to correct the discrepancy and proceed with filing the return. In case there is no ITC available, this reversal declared in table 4&#40;B&#41;2 will be added to your liability in current period while filing GSTR-3B.</p>
+
+<p><i>&nbsp;&nbsp;&nbsp;Example: The closing balance of the ITC reclaim ledger for the current return period is -&#8377;10,000, which means &#8377;10,000 of excess ITC has been reclaimed in earlier periods. To file your GSTR-3B, you would need to reverse this earlier excess reclaimed ITC of &#8377;10,000 in Table 4B&#40;2&#41; for the current period.</i></p>
+
+<p><b>5.&nbsp;How will the validation mechanism work in GSTR-3B for RCM Liability/ITC Statement?</b>.<p>
+
+<p>&nbsp;&nbsp;&nbsp;The taxpayers will not be able to file GSTR-3B in case the claimed RCM ITC in Table 4A&#40;2&#41; or 4A&#40;3&#41; exceeds the available balance in the RCM Liability/ITC Statement and the RCM liability reported in Table 3.1&#40;d&#41; for the current return period put together. </p>
+
+
+
+<p><b>6.&nbsp;How to file GSTR-3B if closing balance of RCM Liability/ITC Statement is Negative?</b></p>
+
+<p>&nbsp;&nbsp;&nbsp;If the closing balance of the RCM Liability/ITC Statement is negative, it indicates that excess RCM ITC has been claimed earlier. To proceed with filing, you must either pay the outstanding RCM liability in Table 3.1&#40;d&#41; or reduce the ITC being claimed in Table 4A&#40;2&#41; or 4A&#40;3&#41; in the current return period, equivalent the amount of the negative closing balance. Once the discrepancy is corrected, you will be able to file your return.</p>
+
+<p><b>&nbsp;&nbsp;&nbsp;Example:</b></p>
+<p>&nbsp;&nbsp;&nbsp;Let’s assume that the closing balance of the RCM Liability/ITC Statement is -&#8377;5,000. This means that &#8377;5,000 of excess RCM ITC has been claimed earlier. To resolve this and file your GSTR-3B, you can:</p>
+
+<p><b>&nbsp;&nbsp;&nbsp;1.&nbsp;Pay the RCM liability</b>: You can pay additional &#8377;5,000 in Table 3.1&#40;d&#41; for the current return period to cover the excess ITC claimed.</p>
+<b>OR</b>
+<p><b>&nbsp;&nbsp;&nbsp;2.&nbsp;Reduce the ITC claimed</b>: You can reduce &#8377;5,000 from the RCM ITC in Table 4A&#40;2&#41; or Table 4A&#40;3&#41; for the same period, if RCM ITC is available more than &#8377;5,000 in current period.</p>
+
+
+<p>Once either the excess RCM liability is paid or the requisite ITC is reduced from available ITC to match the available negative closing balance, the discrepancy will be resolved, and you can proceed with filing your return.</p>
+ 
+ 
+Thanking You, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/643</link>
 </item>
