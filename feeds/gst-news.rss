@@ -5,6 +5,16 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<title>[Others] Gross and Net GST revenue collections for the month of Dec, 2025</title>
+<description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of Dec, 2025.</p></ul>
+<ul><p><a href="https://tutorial.gst.gov.in/downloads/news/monthly_gst_data_for_publishing_dec_2025_final_01jan2026.pdf" target="blank">https://tutorial.gst.gov.in/downloads/news/monthly_gst_data_for_publishing_dec_2025_final_01jan2026.pdf</a></p></ul>
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/644</link>
+</item>
+<item>
 <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
 <title>[Returns] Advisory &amp; FAQ on Electronic Credit Reversal and Re-claimed Statement &amp; RCM Liability/ITC Statement</title>
 <description><![CDATA[
@@ -487,30 +497,6 @@ Team GSTN]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/622</link>
-</item>
-<item>
-<pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-<title>[Refunds] Advisory –System Enhancement for Order-Based Refunds</title>
-<description><![CDATA[<p>1. As per the available functionality, taxpayers could claim refunds under the category "On account of Assessment/Enforcement/Appeal/Revision/Any Other Order" (ASSORD) only if:</p>
-
-<ul>• &nbsp;&nbsp; The cumulative amount of the Demand ID showed a negative balance (i.e., refund eligible).</ul>
-<ul>• &nbsp;&nbsp; The status of the Demand ID was "Refund Due".</ul>
-
-<p>This restriction prevented taxpayers from claiming refunds when individual components (minor heads) of a demand showed negative balances and the overall cumulative balance was zero or positive.</p>
-
-<p>2. For the above scenario, several references have been made by the tax payers and tax officers stating that the taxpayers are not able to claim the refund. Accordingly the following changes have been implemented in the system:</p>
-
-<ul>• &nbsp;&nbsp; Refunds can now be claimed irrespective of the Demand ID status.</ul>
-<ul>• &nbsp;&nbsp; Refunds are allowed even when the cumulative balance is positive or zero, provided any minor head has a negative balance.</ul>
-<ul>• &nbsp;&nbsp; Only negative balances will be auto-populated in the refund application (Form RFD-01); taxpayers cannot claim any refund for the positive amounts within the demand.</ul>
-<ul>• &nbsp;&nbsp; <b>Order Number Suggestions:</b> The system automatically suggests the most recent demand order associated with a negative balance such as <i>order-in-original, rectification order or appellate order</i> etc.</ul>
-<ul>• &nbsp;&nbsp; <b>Tooltips:</b> Clear guidance is provided near the <b>Order No.</b> and <b>Demand ID</b> fields to help taxpayers enter the correct details.</ul>
-
-<p>3. A comprehensive user manual and FAQs will be shared shortly. In case of any discrepancies or system-related queries, a ticket may be raised with the GST helpdesk.</p>
-
-Regards, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/621</link>
 </item>
 </channel>
 </rss>
