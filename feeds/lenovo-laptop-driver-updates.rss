@@ -5,7 +5,7 @@
 <description><![CDATA[IdeaPad Pro 5 14IMH9 - Updates]]></description>
 <link>https://pcsupport.lenovo.com/in/en/products/laptops-and-netbooks/5-series/ideapad-pro-5-14imh9/83d2/83d2001gin/downloads/driver-list</link>
 <item>
-<pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+<pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
 <title>BIOS Update for Windows 11 (64-bit) - IdeaPad Pro 5 14IMH9</title>
 <description><![CDATA[{
     "OperatingSystemKeys": [
@@ -16,7 +16,7 @@
         "Unix": 1766459160000
     },
     "Updated": {
-        "Unix": 1766459289000
+        "Unix": 1767667369000
     },
     "DocId": "DS566499",
     "Files": [
