@@ -5,6 +5,22 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+<title>RAKsmart APAC Anti-DDoS Adds 200Gbps Protection, Console Gets a Major Upgrade</title>
+<description><![CDATA[
+        RAKsmart’s latest upgrade tackles both high-concurrency attacks and inefficient management. The APAC DDoS lineup—VPS, Bare-Metal Cloud, and Dedicated Servers—now supports up to 200Gbps elastic protection on mainland China–optimized routes, helping you stay online through spikes and attacks.
+The console was redesigned for faster operations:
+
+Message Notifications: Real-time delivery of promotion updates, support ticket notifications, product alerts, and incident/outage messages.
+User Center (Right Sidebar): Access to Account Management and the Security Center.
+Left Sidebar (4 Main Sections):
+1.... (continued)
+
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/raksmart-apac-anti-ddos-adds-200gbps-protection-console-gets-a-major-upgrade-01</link>
+</item>
+<item>
 <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
 <title>Hosta Blanca VPS in Spain and Germany</title>
 <description><![CDATA[
@@ -219,15 +235,6 @@ If you're a new customer, you can get 2 months free with promo codes on the VPS 
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/blastvps-vps-with-rdp-and-dedicated-servers-01</link>
-</item>
-<item>
-<pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
-<title>Hexabyte first performance trial</title>
-<description><![CDATA[
-        Hexabyte is a VPS, web hosting and dedicated servers provider operating out of Sweden and it was just added to VPSBenchmarks last week. Hexabyte first performance trial: 4 EPYC 7713 cores for 6.96€.
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/vpsb-hexabyte-first-performance-trial-01</link>
 </item>
 </channel>
 </rss>
