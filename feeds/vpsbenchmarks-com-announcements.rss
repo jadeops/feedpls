@@ -5,6 +5,23 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+<title>Hexabyte launches S3-compatible Object Storage based in the EU, Sweden</title>
+<description><![CDATA[
+        Hexabyte has launched a new S3-compatible object storage service based in the EU, Sweden. The service is designed to integrate with standard S3-compatible tools and APIs and can be used across a variety of workloads.
+The price is €5 / TB / month with free ingress, egress and API calls.
+Typical use cases include:
+
+Server, database, and file backups
+Application storage requiring an S3-compatible API
+Media and file archives for images, video, and documents
+Cloud storage... (continued)
+
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/hexabyte-launches-s3-compatible-object-storage-based-in-the-eu-sweden-01</link>
+</item>
+<item>
 <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
 <title>RAKsmart APAC Anti-DDoS Adds 200Gbps Protection, Console Gets a Major Upgrade</title>
 <description><![CDATA[
@@ -226,15 +243,6 @@ If you're a new customer, you can get 2 months free with promo codes on the VPS 
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/ovhcloud-new-line-of-ovhcloud-vps-01</link>
-</item>
-<item>
-<pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-<title>BlastVPS: VPS with RDP and dedicated servers</title>
-<description><![CDATA[
-        BlastVPS, a young provider based in Belgium with locations in France, Germany and the US, was added to VPSBenchmarks a few days ago. Its first performance trial is now running on a 4 vCPUs 8GB server. BlastVPS offers Linux VPS and Windows VPS with RDP as well as dedicated servers and web hosting plans.
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/blastvps-vps-with-rdp-and-dedicated-servers-01</link>
 </item>
 </channel>
 </rss>
