@@ -5,6 +5,19 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+<title>[Returns,e-Invoice,E-Way Bill] Advisory on RSP-Based Valuation of Notified Tobacco Goods under GST</title>
+<description><![CDATA[<p>An advisory on reporting of taxable value and tax liability under RSP-based valuation in e-Invoice, e-Way Bill and GSTR-1 / GSTR-1A / IFF has been issued for the information and guidance of taxpayers. The advisory may be accessed through the link provided below.</p>
+ 
+<a href="https://tutorial.gst.gov.in/downloads/news/advisory_on_rsp_based_valuation_gstr-1_final_version.pdf" target="blank">https://tutorial.gst.gov.in/downloads/news/advisory_on_rsp_based_valuation_gstr-1_final_version.pdf</a> <br> <br>
+
+
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/646</link>
+</item>
+<item>
 <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
 <title>[Registration] Advisory on Filing Opt-In Declaration for Specified Premises, 2025</title>
 <description><![CDATA[
@@ -520,48 +533,6 @@ Team GSTN]]></description>
 Regards, <br>
 GSTN Team]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/626</link>
-</item>
-<item>
-<pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-<title>[Returns] Advisory: New Changes in Invoice Management System (IMS)</title>
-<description><![CDATA[
- 
-<p>This is to bring to your notice that several new changes have been introduced in the Invoice Management System (IMS) to simplify the taxation system and reduce the compliance burden on the taxpayers. The following are the key updates </p>
-
-<p><b>Pending action for specified records:</b> Taxpayers can keep specified records pending for a limited time period. For monthly taxpayers, this period is one tax period (months), for quarterly taxpayers also it is one tax period (quarter) only. The specified records which can be kept pending in the system are mentioned below</p>
-
-
-<p>&nbsp;&nbsp;&nbsp;a.	Credit notes, or upward amendment of Credit note </p>
-
-<p>&nbsp;&nbsp;&nbsp;b.	 Downward amendment of CN where original CN rejected</p>
-
-<p>&nbsp;&nbsp;&nbsp;c.	Downward amendment of Invoice / DN only where original Invoice already accepted and 3B has been filed  </p>
-
-<p>&nbsp;&nbsp;&nbsp;d.	ECO-Document downward amendment only where original accepted, and 3B has been filed</p>
-
-<p><b>Declaring ITC reduction amount: </b></p>
-
-<p>It is clarified that, in cases where the recipient has not availed Input Tax Credit (ITC) in respect of the relevant invoice or document, no reversal of ITC shall be warranted. Further, in cases where ITC has been availed only partially, the obligation to reverse ITC shall be limited to the extent of such availment.</p>
-
-
-<p>Therefore, In IMS a facility has been made available to taxpayers to declare the amount of ITC actually availed and, to the extent applicable, required to be reversed in respect of the selected record. The said facility permits reversal of ITC, either in full or in part, by entering the amount availed to be reversed. This facility may also be utilized in cases where the taxpayer has already effected such reversal, either wholly or partially, at an earlier point of time, or where the ITC pertaining to the relevant invoice or document was never availed.  Such facility is provided for the afore-mentioned specified records. </p>
-
-
-<p><b>Option to save remarks:</b> Taxpayers can now save remarks while taking reject or pending action on records. This optional facility allows taxpayers to add remarks (will be rolled out shortly). Such remarks will be visible in GSTR-2B for future reference and to suppliers in the Outward Supplies view dashboard, to take corrective measures.</p>
-
-<p><b>Important Dates:</b></p>
-
-<p>The changes of keeping credit notes pending and declaring the ITC amount, as mentioned above shall be made effective on the portal from October tax period.  </p>
-
-<p>Due date for keeping records pending: The due date for keeping records pending is calculated based on the date/ tax period in which such documents has been communicated by the supplier.</p>
-
-<p><b>Prospective Application:</b></p>
-
-<p>The new changes will be available only for records filed by suppliers after the production rollout of these changes. Taxpayers are advised to carefully review these changes before taking action and filing their returns.</p>
-
-Thanking You, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/624</link>
 </item>
 </channel>
 </rss>
