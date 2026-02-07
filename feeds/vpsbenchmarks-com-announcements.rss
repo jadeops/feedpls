@@ -5,6 +5,16 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+<title>OpenClaw 1-click installer on Contabo VPS</title>
+<description><![CDATA[
+        Contabo has introduced a one-click installation option for the OpenClaw AI assistant on its standard VPS infrastructure. You can run OpenClaw on Contabo’s entry-level Cloud VPS 10, which includes 8GB of RAM at a rate of €4.50 per month.
+OpenClaw is an application where the VPS performance is not essential given how the model API calls are going to be so much slower than everything else (unless you want to run the AI model locally of course). Me, I run... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/contabo-openclaw-1-click-installer-on-contabo-vps-01</link>
+</item>
+<item>
 <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
 <title>Hexabyte launches S3-compatible Object Storage based in the EU, Sweden</title>
 <description><![CDATA[
@@ -234,15 +244,6 @@ If you're a new customer, you can get 2 months free with promo codes on the VPS 
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/cherry_servers-cherry-servers-launches-new-line-of-arm-based-cloud-servers-01</link>
-</item>
-<item>
-<pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-<title>New line of OVHcloud VPS</title>
-<description><![CDATA[
-        OVHcloud  unveils a new line of VPS starting at 4.49€/mo with 4 cores and 8GB RAM. All VPS come with unlimited bandwidth and free standard daily backups. The new VPS line replaces both the old Intel VPS and AMD VLE lines of servers. Prices are listed at https://www.ovhcloud.com/en-ie/vps/.
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/ovhcloud-new-line-of-ovhcloud-vps-01</link>
 </item>
 </channel>
 </rss>
