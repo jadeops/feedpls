@@ -5,6 +5,27 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+<title>New Locations from ServerOptima and TakeHost.Biz</title>
+<description><![CDATA[
+        Two providers have expanded their global footprint this week:
+
+
+ServerOptima is now available in Sydney, Australia (Equinix), featuring AMD EPYC 9684X infrastructure and NVMe storage for the APAC region.
+6C/30G/300GB: $37.80/month.
+Deploy in Sydney
+
+
+TakeHost.Biz has launched in Madrid, Spain, with Ryzen 9 9950X and Tier-1 Cogent connectivity. They are offering a temporary promotion for early orders including permanent RAM or CPU upgrades.
+1C/2G/30GB: 3.50€/month.
+Deploy in Madrid
+
+
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/vpsb-new-locations-from-serveroptima-and-takehostbiz-01</link>
+</item>
+<item>
 <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
 <title>Sphera is the first provider from Saudi Arabia at VPSB</title>
 <description><![CDATA[
@@ -234,16 +255,6 @@ OVHcloud offers a choice of Linux, Windows and FreeBSD distributions and support
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/ovhcloud_us-new-vps-2026-01</link>
-</item>
-<item>
-<pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-<title>Netcup releases new EPYC 9645 based VPS line</title>
-<description><![CDATA[
-        The Root Server G12 run on AMD EPYC™ 9645 with 2GB RAM and 64GB storage per core. The price per core is around 3€.
-If you're a new customer, you can get 2 months free with promo codes on the VPS Coupons page
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/netcup-releases-new-epyc-9645-based-vps-line-01</link>
 </item>
 </channel>
 </rss>
