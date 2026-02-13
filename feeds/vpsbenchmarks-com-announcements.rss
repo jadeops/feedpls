@@ -5,6 +5,15 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+<title>Sphera is the first provider from Saudi Arabia at VPSB</title>
+<description><![CDATA[
+        Sphera is the first cloud provider from Saudi Arabia to be featured on VPSBenchmarks. A first performance trial for the Sphera Tier 1 VPS plan is currently underway. Sphera differentiates its offering by including DDoS protection and daily backups at no additional cost across all VPS plans. This initial testing will provide standardized performance data for the Saudi Arabian region.
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/sphera-is-the-first-provider-from-saudi-arabia-at-vpsb-01</link>
+</item>
+<item>
 <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
 <title>OpenClaw 1-click installer on Contabo VPS</title>
 <description><![CDATA[
@@ -235,15 +244,6 @@ If you're a new customer, you can get 2 months free with promo codes on the VPS 
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/netcup-releases-new-epyc-9645-based-vps-line-01</link>
-</item>
-<item>
-<pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
-<title>Cherry Servers launches new line of ARM based cloud servers</title>
-<description><![CDATA[
-        Cherry Servers released a new line of VDS based on dedicated AmpereONE A192-32X hardware ARM cores. The pricing is around 8€ per core and amount of RAM with each plan is very generous (6GB per core or more). The new VDS are available in Lithuania. Cloud ARM VDS.
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/cherry_servers-cherry-servers-launches-new-line-of-arm-based-cloud-servers-01</link>
 </item>
 </channel>
 </rss>
