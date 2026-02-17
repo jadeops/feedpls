@@ -5,6 +5,17 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+<title>Verpex returns to VPSBenchmarks</title>
+<description><![CDATA[
+        Verpex, a UK-based provider with 9 global locations, is back on the platform. We are currently running a performance trial on a Linux Server D16. This specific plan features 8 dedicated cores and 16GB RAM, priced at $40 during the current promotion ($80/month regular price).
+In addition to hosting services, Verpex now provides setup guidance for OpenClaw, including configuration and runtime support.
+You can find more details on the Verpex provider page and track the ongoing trial results.
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/verpex-returns-to-vpsbenchmarks-02</link>
+</item>
+<item>
 <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
 <title>New Locations from ServerOptima and TakeHost.Biz</title>
 <description><![CDATA[
@@ -244,17 +255,6 @@ These connections reduce latency by an average of 71% compared to routes served 
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/0ping_eu-next-gen-vps-hosting-at-0pingeu-01</link>
-</item>
-<item>
-<pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-<title>New VPS 2026</title>
-<description><![CDATA[
-        OVHcloud US has just released its second‑generation Virtual Private Servers, VPS 2026, and has made it available on its Local Zone edge‑computing network.
-VPS 2026 builds on KVM virtualization to provide isolated compute, RAM and NVMe storage resources with full root access. You can select from six configurations ranging from 4 vCores/8 GB RAM/75 GB disk to 24 vCores/96 GB RAM/400 GB NVMe. All plans include unlimited traffic with guaranteed bandwidth (from 400 Mbps to 3 Gbps) and daily backups.
-OVHcloud offers a choice of Linux, Windows and FreeBSD distributions and supports popular control panels like... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/ovhcloud_us-new-vps-2026-01</link>
 </item>
 </channel>
 </rss>
