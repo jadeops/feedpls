@@ -5,6 +5,17 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+<title>[Returns] Attention : Update on Advisory on Interest Collection and Related Enhancements in GSTR-3B</title>
+<description><![CDATA[<ul><p>In continuation to the advisory posted on the GST Portal on 30th January, 2026 on the above subject, it is hereby informed that the functionality to utilise CGST or SGST ITC for payment of IGST liability, in any order of payment after complete exhaustion of IGST Credit (ref point no 3 of the advisory), shall be available from February-2026 period.</p></ul>
+<ul><p>For detailed advisory posted earlier, kindly refer the below link:</p>
+<p><a href="https://tutorial.gst.gov.in/downloads/news/advisory_on_interest_calculator.pdf" target="blank">https://tutorial.gst.gov.in/downloads/news/advisory_on_interest_calculator.pdf</a></p></ul>
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/649</link>
+</item>
+<item>
 <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
 <title>[Others] Gross and Net GST revenue collections for the month of Jan, 2026</title>
 <description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of Jan, 2026.</p></ul>
@@ -501,35 +512,6 @@ Team GSTN]]></description>
 Thanking You, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/629</link>
-</item>
-<item>
-<pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-<title>[Returns] Attention : Important Advisory on IMS</title>
-<description><![CDATA[
- 
-<p> It has come to notice that some posts are circulating incorrect information regarding changes in GST return filing from October 1, 2025. We would like to clarify the following: </p>
-
-<p>I.    No Change in Auto-Population of ITC:
-Input Tax Credit (ITC) will continue to auto-populate from GSTR-2B to GSTR-3B without any manual intervention. The mechanism of auto-population remains unchanged due to the implementation of the Invoice Management System (IMS).</p>
-
-<p>II.   GSTR-2B Generation
-<ul>
-<li>    GSTR-2B will continue to be generated automatically on the 14th of every month, without any manual intervention by taxpayers or based on the actions taken by the taxpayers.
-<li>    Taxpayers can take actions in IMS even after generation of GSTR-2B till filing of GSTR-3B and can regenerate GSTR-2B accordingly, if required.</li>
-</ul>
-</p>
-
-<p>III.  Credit Note Handling (Effective October 2025 period onward)
-<ul>
-<li>    Recipient taxpayers will have the option to keep a Credit Note or related document pending for a specified period.</li>
-<li>    On acceptance of Credit Note or related document, the recipient will also have the flexibility to reduce ITC only to the extent of its availment by adjusting the reversal amount manually.</li>
-</ul>
-</p>
-
-
-Thanking You, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/628</link>
 </item>
 </channel>
 </rss>
