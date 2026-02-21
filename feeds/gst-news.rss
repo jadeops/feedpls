@@ -5,6 +5,64 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+<title>[Registration] Facility for Withdrawal from Rule 14A</title>
+<description><![CDATA[
+ 
+<p>GSTN has enabled a new online facility for eligible taxpayers to apply for withdrawal from the option availed under Rule 14A of the CGST Rules by filing Form GST REG-32 on the GST Portal.</p>
+ 
+ 
+<p>1. Who can apply<br>
+<ul>• Active Taxpayers who are registered under Rule 14A, may apply for OPT OUT in accordance with the provisions of the law.</ul> 
+</p>
+ 
+<p>2. How to apply on the GST Portal<br>
+<ul>• After login, navigate to:<br>
+Services -> Registration -> Application for Withdrawal from Rule 14A <br>
+The link will be visible only if the taxpayer is registered under Rule 14A and is active.</ul>
+<ul>• The field “Option for registration under Rule 14A” will be selected as “No” by default.</ul> 
+<ul>• Enter “Reason for withdrawal from Rule 14A”.</ul>
+<ul>• Proceed to Aadhaar Authentication tab for Aadhaar Authentication of Primary Authorised Signatory and one Promoter/Partner. </ul>
+</p> 
+ 
+<p>3. Key pre-conditions<br>
+<ul>• The registered person shall not be allowed to file Form GST REG-32 unless he has furnished,</ul>
+(a) returns for a period of minimum three months, if Form GST REG-32 is filed before 1st April, 2026;</br>
+(b) returns for a period of minimum one tax period, if Form GST REG-32 is filed on or after 1st April, 2026; and</br>
+(c) all the returns due for the period from the effective date of registration till the date of filing of Form GST REG-32.
+</p>
+ 
+ 
+<p>4. Aadhaar authentication <br>
+<ul>• Based on data analysis, the taxpayer will have to undergo either OTP based Aadhaar authentication or Biometric based Aadhaar Authentication. </ul> 
+<ul>• Authentication is required for:
+<ul>oPrimary Authorised Signatory (mandatory), and</ul>
+<ul>oAt least one Promoter/Partner (where applicable).</ul>
+</ul>
+<ul>• ARN will be generated only after successful Aadhaar authentication.</ul>
+</p>
+ 
+ 
+<p>5. Important timelines<br>
+<ul>• Draft application must be submitted within 15 days of creation.</ul>
+<ul>• Aadhaar/Biometric authentication must be completed within 15 days from submission.</ul>
+<ul>• If authentication is not completed within the prescribed time, ARN will not be generated.</ul>
+</p>
+ 
+ 
+<p>6. Restrictions during processing<br>
+<ul>• While Form GST REG-32 is pending after submission, Taxpayer cannot file Core amendment, non-core amendment and Self-cancellation application. </ul>
+ 
+<p>7. Post-Sanction of Opt-Out<br>
+<ul>• The taxpayer who has received an order in Form GST REG-33 allowing withdrawal shall be able to furnish the details of output tax liability on supply of goods or services or both made to registered persons, exceeding the output tax liability of Rs.2.5 lakhs, from the first day of succeeding month in which the said order has been issued.</ul>
+</p>
+ 
+ 
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/650</link>
+</item>
+<item>
 <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
 <title>[Returns] Attention : Update on Advisory on Interest Collection and Related Enhancements in GSTR-3B</title>
 <description><![CDATA[<ul><p>In continuation to the advisory posted on the GST Portal on 30th January, 2026 on the above subject, it is hereby informed that the functionality to utilise CGST or SGST ITC for payment of IGST liability, in any order of payment after complete exhaustion of IGST Credit (ref point no 3 of the advisory), shall be available from February-2026 period.</p></ul>
@@ -499,19 +557,6 @@ Team GSTN]]></description>
 Thanking You, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/630</link>
-</item>
-<item>
-<pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-<title>[Returns] Advisory for GSTR 9/9C for FY 2024-25</title>
-<description><![CDATA[
- 
-<p>Dear Taxpayer</p>
-
-<p>GSTR-9/9C for FY 2024-25 has been enabled on the GST portal from 12th October 2025. Please ensure that all returns (GSTR 1 and GSTR 3B) for FY 2024-25 are filed to enable Tile of GSTR-9/9C. Further,  detailed FAQ will be published shortly for assisting the taxpayer in filing GSTR-9/9C.</p>
-
-Thanking You, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/629</link>
 </item>
 </channel>
 </rss>
