@@ -5,6 +5,16 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+<title>VPSLab Introduces KYC-Free VPS Hosting on NVMe Infrastructure in Europe</title>
+<description><![CDATA[
+        VPSLab is a European VPS provider offering Linux VPS and Windows RDP hosting from data centers located in Germany. The company has launched its infrastructure with a focus on privacy, accepting no identity verification for standard orders and supporting payments via PayPal as well as cryptocurrencies including Bitcoin (BTC), Ethereum (ETH), Tether (USDT), Monero (XMR), and more.
+All plans run on virtualization nodes powered by Intel Xeon and AMD EPYC processors with DDR4 RAM and NVMe SSD storage. Each instance... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/vpslabcloud-vpslab-introduces-kyc-free-vps-hosting-on-nvme-infrastructure-in-europe-01</link>
+</item>
+<item>
 <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
 <title>Verpex returns to VPSBenchmarks</title>
 <description><![CDATA[
@@ -245,16 +255,6 @@ These connections reduce latency by an average of 71% compared to routes served 
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/takehost-first-ryzen-9-vps-trial-in-germany-01</link>
-</item>
-<item>
-<pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
-<title>Next-Gen VPS Hosting at 0ping.eu</title>
-<description><![CDATA[
-        0ping.eu is a European VPS provider that focuses on low-latency connectivity and modern infrastructure. The company aims to combine the latest-generation hardware with a strong, well-peered network to provide a balanced platform for a wide range of applications. Based in Frankfurt, one of Europe’s best-connected hubs, 0ping.eu benefits from direct peering with many networks, which helps reduce round-trip times. Regular hardware refresh cycles are part of its operations, ensuring customers always run on up-to-date systems without unexpected service changes.
-0ping.eu... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/0ping_eu-next-gen-vps-hosting-at-0pingeu-01</link>
 </item>
 </channel>
 </rss>
