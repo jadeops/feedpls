@@ -5,6 +5,15 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+<title>New Best VPS 2026 rankings</title>
+<description><![CDATA[
+        The Best VPS 2026 rankings in 6 price ranges were just updated with 12 months of performance data up to March 1st 2026. Check them out!.
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/vpsb-new-best-vps-2026-rankings-01</link>
+</item>
+<item>
 <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
 <title>VPSLab Introduces KYC-Free VPS Hosting on NVMe Infrastructure in Europe</title>
 <description><![CDATA[
@@ -246,15 +255,6 @@ These connections reduce latency by an average of 71% compared to routes served 
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/melbicom-deploys-a-new-pop-in-tokyo-japan-01</link>
-</item>
-<item>
-<pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-<title>TakeHost first Ryzen 9 VPS trial in Germany</title>
-<description><![CDATA[
-        TakeHost.Biz just had its first VPS plan tested at VPSBenchmarks: DE 8GB RAM. All TakeHost.Biz plans run on AMD Ryzen 9 9950X and those plans currently go for 10€ for 4 cores and 8GB RAM (regular price 20€). Backups are included by default. TakeHost.Biz data center is in Germany and it is headquartered in Norway.
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/takehost-first-ryzen-9-vps-trial-in-germany-01</link>
 </item>
 </channel>
 </rss>
