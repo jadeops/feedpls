@@ -5,7 +5,7 @@
 <description><![CDATA[IdeaPad Pro 5 14IMH9 - Updates]]></description>
 <link>https://pcsupport.lenovo.com/in/en/products/laptops-and-netbooks/5-series/ideapad-pro-5-14imh9/83d2/83d2001gin/downloads/driver-list</link>
 <item>
-<pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+<pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
 <title>BIOS Update for Windows 11 (64-bit) - IdeaPad Pro 5 14IMH9</title>
 <description><![CDATA[{
     "OperatingSystemKeys": [
@@ -13,22 +13,22 @@
     ],
     "Title": "BIOS Update for Windows 11 (64-bit) - IdeaPad Pro 5 14IMH9",
     "Date": {
-        "Unix": 1766459160000
+        "Unix": 1773044580000
     },
     "Updated": {
-        "Unix": 1767667369000
+        "Unix": 1773044677000
     },
     "DocId": "DS566499",
     "Files": [
         {
             "Name": "BIOS Update",
             "TypeString": "EXE",
-            "Version": "N8CN37WW",
-            "URL": "https:\/\/download.lenovo.com\/consumer\/mobiles\/n8cn37ww.exe",
-            "Size": "10.83 MB",
-            "SHA1": "42b4561b6c88ac1770edd8a0f5912a5cddf1abab",
-            "SHA256": "ca18bff7af36f6fb4e9f7a0e952a4c3ab462a8e48b344d42bf983ae0d89decc5",
-            "MD5": "80755ca26ef5cd19ea1e7d84471e02c6",
+            "Version": "N8CN38WW",
+            "URL": "https:\/\/download.lenovo.com\/consumer\/mobiles\/n8cn38ww.exe",
+            "Size": "13.3 MB",
+            "SHA1": "1336ad5454c76bf2faf6c1b5c332c85279badc5e",
+            "SHA256": "4699a6ebe2b2ea61195284905003a85cdfad16bd160dad55b82068d69ddff752",
+            "MD5": "a12cc2bdee399dd1b4116ddcd3be9bbe",
             "Priority": "Recommended",
             "PriorityWeight": 2,
             "ReadmeUrl": "",
@@ -38,19 +38,19 @@
             "FileName": "",
             "DataIndicator": "",
             "Date": {
-                "Unix": 1766459220000
+                "Unix": 1773044640000
             },
             "Released": null
         },
         {
             "Name": "BIOS Update README",
             "TypeString": "TXT README",
-            "Version": "N8CN37WW",
-            "URL": "https:\/\/download.lenovo.com\/consumer\/mobiles\/n8cn37ww.txt",
-            "Size": "79.31 KB",
-            "SHA1": "5e6938cc524bc001644d7655ded91ef1782f10aa",
-            "SHA256": "b73e83825e6e46f1a5a7acbe312ab7dcf6f53f5a029450d0202dbd80b2a36f2a",
-            "MD5": "85141de8b1ef5c772668a3aa8886a9df",
+            "Version": "N8CN38WW",
+            "URL": "https:\/\/download.lenovo.com\/consumer\/mobiles\/n8cn38ww.txt",
+            "Size": "81.6 KB",
+            "SHA1": "2beb2ef58882febb7f8d89c846790a5cd75ca7aa",
+            "SHA256": "cdccf7c188c7d53c0b4bc9133ab10557c0954659da3e6a4fb493c2c7071adcbe",
+            "MD5": "a80f02d6ef376222879f5d694a470c0f",
             "Priority": "Recommended",
             "PriorityWeight": 2,
             "ReadmeUrl": "",
@@ -60,7 +60,7 @@
             "FileName": "",
             "DataIndicator": "",
             "Date": {
-                "Unix": 1766459280000
+                "Unix": 1773044640000
             },
             "Released": null
         }
@@ -87,9 +87,9 @@
     "RedirectCode": 0,
     "RedirectTo": "",
     "ID": [
-        "DS566499-BIOS-UPDATE-FOR-WINDOWS-10-64-BIT-IDEAPAD-PRO-5-14IMH9",
         "DS566499",
-        "E8D1B7E0-9FD6-11EE-B9E7-1F9100C106A5"
+        "E8D1B7E0-9FD6-11EE-B9E7-1F9100C106A5",
+        "DS566499-BIOS-UPDATE-FOR-WINDOWS-10-64-BIT-IDEAPAD-PRO-5-14IMH9"
     ],
     "OEMOnly": false,
     "SEOH1Content": "BIOS Update for Windows 11 (64-bit) - IdeaPad Pro 5 14IMH9",
@@ -97,7 +97,7 @@
     "MetaData": "BIOS,BIOS Update,,,IdeaPad Pro 5 14IMH9,DS566499",
     "SummaryInfo": {
         "Priority": "Recommended",
-        "Version": "N8CN37WW"
+        "Version": "N8CN38WW"
     },
     "rolePass": true,
     "Category": {
