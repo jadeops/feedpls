@@ -5,6 +5,28 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+<title>[Returns] Advisory regarding confirmation of “Tax Liability Breakup, As Applicable” in GSTR-3B-reg</title>
+<description><![CDATA[<ul><p><p>1. &nbsp; In terms of the provisions of Section 50 of the Central Goods and Services Tax (CGST) Act, 2017, interest is payable where the tax liability pertaining to a previous tax period is discharged in a subsequent tax period. Accordingly, the tab “Tax Liability Breakup, As Applicable” in Form GSTR-3B is meant to capture the tax liability relating to supplies of previous tax periods which are being reported and discharged in the current tax period.</p>
+
+<p>2. &nbsp; From the February 2026 tax period onwards, the GST Portal auto-populates the “Tax Liability Breakup, As Applicable” in GSTR-3B on the basis of the document dates of supplies reported in GSTR-1 / GSTR-1A / IFF, where such supplies pertain to any previous tax period but the corresponding tax liability is being discharged in the current period’s GSTR-3B.</p>
+
+<p>3. &nbsp; Accordingly, from the February 2026 tax period, after offsetting the liability in GSTR-3B, taxpayers are required to click on the “Tax Liability Breakup, As Applicable” tab available on the payment page and confirm the breakup of tax liability by clicking the “SAVE” button or edit the same, if required.</p>
+
+<p>4. &nbsp; Once the breakup of tax liability is confirmed and saved, the taxpayer will be able to proceed with filing Form GSTR-3B using EVC or DSC.</p>
+
+<p>5. &nbsp; Feedback has been received that this confirmation should be mandatory only in cases where supplies pertaining to previous tax periods have been reported in the current tax period. However, the confirmation is presently being required in all cases, including where the liability relates only to the current tax period. The feedback is acknowledged by GSTN and the same is under resolution.</p>
+
+<p>6. &nbsp; Meanwhile, taxpayers are requested to kindly open the “Tax Liability Breakup, As Applicable” tab on the payment page and click “SAVE” within the tab for filing during the current reform cycle. Thereafter, filing of Form GSTR-3B can be completed normally.</p> </p></ul>
+
+<p>Taxpayers are requested to kindly follow the above interim procedure till the issue is resolved on the portal.</p>
+
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/653</link>
+</item>
+<item>
 <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
 <title>[Appeal] Advisory on the Payment of pre-deposit while filing of appeal before First Appellate authority</title>
 <description><![CDATA[<ul><p>Please click on the link below to view the Advisory on the Payment of pre-deposit while filing of appeal before First Appellate authority.</p></ul>
@@ -492,69 +514,6 @@ Team GSTN]]></description>
 Thanking You, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/634</link>
-</item>
-<item>
-<pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-<title>[Returns] Advisory to file pending returns before expiry of three years</title>
-<description><![CDATA[
-
-<p>As per the Finance Act,2023 (8 of 2023), dt. 31-03-2023, implemented w.e.f 01-10-2023 vide Notification No. 28/2023 – Central Tax dated 31th July, 2023, the taxpayers shall not be allowed file their GST returns after the expiry of a period of three years from the due date of furnishing the said return under Section 37 ( Outward Supply), Section 39 (payment of liability), Section 44 ( Annual Return) and Section 52 (Tax Collected at Source). These Sections cover GSTR-1, GSR-1A, GSTR 3B, GSTR-4, GSTR-5, GSTR-5A, GSTR-6, GSTR 7, GSTR 8 and GSTR 9 or 9C.</p>
-
-<p>Hence, above mentioned returns will be barred for filing after the expiry of three years from the due date. The said restriction will be implemented on the GST portal from November 2025 Tax period which means any return whose due date was three years back or more and hasn’t been filed till November Tax period will be barred from Filling. In this regard an advisory was already issued by GSTN on 
-<a href="https://services.gst.gov.in/services/advisoryandreleases/read/540 " target="blank"> 29th October, 2024.</a></p>
-<p> Illustration : For ease of reference and better clarity, the latest GST returns that will be barred from filing w.e.f 1st December 2025 are detailed in the table below:
-<table border="1">
-        <tr>
-		<td><b>GST Forms</b></td>
-		<td><b> Barred Period (w.e.f. 1st December,2025)</b></td>
-	</tr>
-    <tr>
-		<td>GSTR-1/IFF</td>
-		<td>October-2022</td>
-	</tr>
-	<tr>
-		<td>GSTR-1Q</td>
-		<td>July-Sep 2022</td>
-	</tr>
-	<tr>
-		<td>GSTR-3B/M</td>
-		<td>October-2022</td>
-	</tr>
-	<tr>
-		<td>GSTR-3BQ</td>
-		<td>July-Sep 2022</td>
-	</tr>
-	<tr>
-		<td>GSTR-4</td>
-		<td>FY 2021-22</td>
-	</tr>
-	<tr>
-		<td>GSTR-5</td>
-		<td>October-2022</td>
-	</tr>
-	<tr>
-		<td>GSTR-6</td>
-		<td>October-2022</td>
-	</tr>
-	<tr>
-		<td>GSTR-7</td>
-		<td>October-2022</td>
-	</tr>
-	<tr>
-		<td>GSTR-8</td>
-		<td>October-2022</td>
-	</tr>
-	<tr>
-		<td>GSTR-9/9C</td>
-		<td>FY 2020-21</td>
-	</tr>
-</table>
-</p>
-<p>Hence, the taxpayers are once again advised to reconcile their records and file their GST Returns as soon as possible if not filed till now.</p>
-
-Thanking You, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/633</link>
 </item>
 </channel>
 </rss>
