@@ -5,6 +5,20 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<title>UpCloud will introduce new lines of Cloud Servers in May</title>
+<description><![CDATA[
+        UpCloud will introduce new Cloud Server plans on May 2nd.
+
+Starter plans starting at €3/month are designed for development, testing and self-hosting.
+Premium plans are designed for production and business-critical workloads.
+The new pricing is available on the Pricing 2026 page.
+
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/upcloud-will-introduce-new-lines-of-cloud-servers-in-may-01</link>
+</item>
+<item>
 <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
 <title>New Best VPS 2026 rankings</title>
 <description><![CDATA[
@@ -242,19 +256,6 @@ Available Configurations: 
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/contabo-launches-limited-edition-cloud-vps-sp-plans-01</link>
-</item>
-<item>
-<pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-<title>Melbicom deploys a new PoP in Tokyo, Japan</title>
-<description><![CDATA[
-        Melbicom, an EU-headquartered Infrastructure-as-a-Service provider, has launched a new Virtual Private Server (VPS) location in Tokyo, Japan.
-This location delivers lower latency, higher resilience, and local data residency options for users across the Asia-Pacific region.
-Low-Latency Infrastructure
-The Tokyo facility connects directly to Japan’s primary Internet Exchanges — BBIX, JPIX, and JPNA — enabling short, redundant routes between major Asian carriers and international networks.
-These connections reduce latency by an average of 71% compared to routes served from other APAC... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/melbicom-deploys-a-new-pop-in-tokyo-japan-01</link>
 </item>
 </channel>
 </rss>
