@@ -5,6 +5,46 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<title>[APPEAL] Subject: Difficulty in filing appeals on the GST portal in cases where adjudication orders reflect &quot;NIL&quot; demand due to prior voluntary payment – reg.</title>
+<description><![CDATA[
+
+<p><b>1. Introduction</b></p>
+
+<ul>It has come to the notice of GSTN that certain taxpayers are facing difficulties in filing appeals on the GST portal against demand orders wherein the demand amount is reflected as "NIL," despite the existence of a dispute regarding tax liability.</ul>
+
+<ul>This situation generally arises in cases where the taxpayer has made payment of tax, interest, or penalty (fully or partially) at the stage of issuance of the Show Cause Notice (SCN), without admitting the liability, and the adjudicating authority has subsequently issued a demand order treating such payment as full discharge of the demand without explicitly determining and recording the liability.</ul>
+
+<p><b>2. System Behaviour on GST Portal (Demand and Collection Register – DCR)</b></p>
+
+<ul>When a demand order is issued by the tax officer, the GST portal creates a Demand ID in the Demand and Collection Register (DCR), also known as the liability ledger.</ul>
+
+<ul>In cases where the tax officer issues a demand order with a NIL amount, an entry is created with zero value, indicating that there is no outstanding liability. When the taxpayer attempts to file an appeal application (APL-01) against such a demand order, the portal restricts the filing of the appeal and may display an error such as: "Disputed amount cannot be more than demand amount itself."</ul>
+
+<ul>Since no liability is reported by the tax officer on the GST portal, the system blocks the taxpayer from filing an appeal.</ul>
+
+<p><b>3. Nature of Issue:</b></p>
+
+<p>It is clarified that:</p>
+
+<ul>• Payment made during the SCN stage, without explicit admission of liability, does not amount to acceptance of the demand.</ul>
+
+<ul>• In such cases, the taxpayer retains the right to contest the liability and file an appeal under Section 107 of the Central Goods and Services Tax Act, 2017.</ul>
+
+<p>However, where the adjudication order incorrectly reflects a "NIL" demand, the taxpayer is unable to exercise this statutory right due to the NIL demand reflected in the system.</p>
+
+<p><b>4. Alternate solution:</b></p>
+
+<ul>In cases where a dispute regarding liability exists but is not captured by the department in the demand order, and payment has been made prior to the issuance of the demand order, the taxpayer is advised to approach the adjudicating authority for issuance of a rectification order.</ul>
+
+<ul>The taxpayer may file such rectification requests using the option available on the GST portal. Upon receipt of the rectification order reflecting the correct demand amount, the taxpayer may proceed to file an appeal on the GST portal within the prescribed time limits.</ul>
+
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/655</link>
+</item>
+<item>
 <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
 <title>[Others] Gross and Net GST revenue collections for the month of Mar, 2026</title>
 <description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of Mar, 2026.</p></ul>
@@ -472,45 +512,6 @@ Team GSTN]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/636</link>
-</item>
-<item>
-<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-<title>[Registration] Advisory for Simplified GST Registration Scheme</title>
-<description><![CDATA[
-
-<p><b>Dear Taxpayers,</b></p>
-
-<p>In pursuance of Rule 14A of the Central Goods and Services Tax (CGST) Rules, 2017, a <i>Simplified GST Registration Scheme</i> has been introduced to reduce the compliance burden and enhance the ease of doing business for small taxpayers.</p>
-
-<p>As per Rule 14A (Option for taxpayers having a monthly output tax liability below the prescribed threshold limit), any person who, on his own assessment, feels that his total output tax liability on the supply of goods or services, or both, to registered persons will not exceed Rs.2.5 lakh per month (including CGST, SGST/UTGST, IGST, and Compensation Cess) shall be eligible to register under this scheme. However, a person registered under this rule in a State or Union Territory shall not be eligible to obtain another registration in the same State or Union Territory under this rule against the same PAN.</p>
-
-<p><b>Key Features Implemented on the GST Portal:</b></p>
-
-<p>&nbsp;&nbsp;&nbsp;• While applying for registration in FORM GST REG-01, applicants should select "Yes" under the <i>"Option for Registration under Rule 14A."</i></p>
-
-<p>&nbsp;&nbsp;&nbsp;• Aadhaar authentication is mandatory for the Primary Authorized Signatory and at least one Promoter/Partner.</p>
-
-<p>&nbsp;&nbsp;&nbsp;• Registration shall be granted electronically within three working days from the date of generation of the Application Reference Number (ARN), subject to successful Aadhaar authentication.</p>
-
-<p>Taxpayers opting for registration under Rule 14A are advised to take note of the following conditions, in case they intend to withdraw from the Scheme at a later stage:</p>
-
-<p>&nbsp;&nbsp;&nbsp;• All returns due from the effective date of registration up to the date of filing the withdrawal application must be filed.</p>
-
-<p>&nbsp;&nbsp;&nbsp;• The taxpayer must have filed:</p>
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a) Returns for a period of minimum three months, if applying for withdrawal before 1st April 2026, or</p>
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) Returns for a period of minimum one tax period, if applying for withdrawal on or after 1st April 2026.</p>
-
-<p>&nbsp;&nbsp;&nbsp;• No amendment or cancellation application for registration availed under rule 14A should be pending.</p>
-
-<p>&nbsp;&nbsp;&nbsp;• No proceedings under Section 29 (cancellation of registration) for registration availed under rule 14A should be initiated or pending.</p>
-
-
-
-Thanking You, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/635</link>
 </item>
 </channel>
 </rss>
