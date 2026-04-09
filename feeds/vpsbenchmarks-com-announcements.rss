@@ -5,6 +5,18 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+<title>Rad Web Hosting Doubles New York City Network Capacity to Meet Surging Demand</title>
+<description><![CDATA[
+        Rad Web Hosting today announced a major expansion of its New York City network infrastructure, doubling its capacity to meet rapidly increasing demand for high-performance, low-latency hosting solutions.
+Driven by continued growth in enterprise workloads, SaaS platforms, and latency-sensitive applications, the expansion reinforces Rad Web Hosting’s commitment to delivering scalable, reliable infrastructure in one of the world’s most critical connectivity hubs.
+Strategic Expansion in a Critical Market
+New York City remains one of the most important... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/radwebhosting-rad-web-hosting-doubles-new-york-city-network-capacity-to-meet-surging-demand-01</link>
+</item>
+<item>
 <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
 <title>UpCloud will introduce new lines of Cloud Servers in May</title>
 <description><![CDATA[
@@ -240,22 +252,6 @@ HP-8: 4 vCores | 8 GB DDR5 | 80 GB... (continued)
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/onetsolutions-introduces-new-high-performance-vps-line-with-amd-epyc-9554-02</link>
-</item>
-<item>
-<pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-<title>Contabo Launches Limited Edition Cloud VPS SP Plans</title>
-<description><![CDATA[
-        Contabo has released a limited set of Cloud VPS SP Plans, designed for higher performance and resource efficiency while keeping price accessible. These plans are available for a short period and are not listed on the main VPS page. 
- 
-Built on AMD EPYC processors, each plan provides more RAM and storage than Contabo’s standard VPS range at similar prices. NVMe storage and optimized host allocation, ensure fast disk I/O and low latency operation. 
- 
-Available Configurations: 
-
-**Cloud VPS... (continued)
-
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/contabo-launches-limited-edition-cloud-vps-sp-plans-01</link>
 </item>
 </channel>
 </rss>
