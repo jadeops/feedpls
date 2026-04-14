@@ -5,6 +5,15 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+<title>Two new rankings: Hyperscalers 4 cores and Enterprise 2026</title>
+<description><![CDATA[
+        I’ve just published two new VPSBenchmarks rankings, but they are not meant to be compared head-to-head as if they measured the same market. The new hyperscaler ranking focuses on a narrow, apples-to-apples slice of the market: 4-core hyperscalers cloud servers with 16 GB RAM and roughly 160 GB storage from the biggest cloud platforms. The Enterprise ranking is broader: it covers enterprise-grade providers that offer advanced cloud features such as object and block storage, load balancers, GPUs, DDoS protection or... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/vpsb-two-new-rankings-hyperscalers-4-cores-and-enterprise-2026-01</link>
+</item>
+<item>
 <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
 <title>Rad Web Hosting Doubles New York City Network Capacity to Meet Surging Demand</title>
 <description><![CDATA[
@@ -237,21 +246,6 @@ Available configurations:
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/leaseweb-public-cloud--vps-now-available-in-australia-01</link>
-</item>
-<item>
-<pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-<title>OnetSolutions introduces new High Performance VPS line with AMD EPYC 9554</title>
-<description><![CDATA[
-        OnetSolutions has released a new generation of High Performance VPS based on AMD EPYC 9554 processors, DDR5 ECC memory, and enterprise-grade NVMe storage. The new line replaces the previous High Performance series and provides improved compute efficiency and memory bandwidth.
-The servers use KVM virtualization and are designed for compute-intensive workloads.
-Available Configurations:
-
-HP-4: 2 vCores | 4 GB DDR5 | 40 GB NVMe | €7.99 / month
-HP-8: 4 vCores | 8 GB DDR5 | 80 GB... (continued)
-
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/onetsolutions-introduces-new-high-performance-vps-line-with-amd-epyc-9554-02</link>
 </item>
 </channel>
 </rss>
