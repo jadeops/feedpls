@@ -5,6 +5,18 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+<title>[Returns] Introduction of IMS Offline Tool</title>
+<description><![CDATA[
+<p>The Invoice Management System (IMS) was introduced on the GST portal from the October 2024 tax period enabling the taxpayers to take actions on invoices uploaded by their suppliers through GSTR-1, GSTR-1A, or IFF, including accepting, rejecting, or keeping such records pending in the system.</p>
+<p>To continuously enhance the taxpayer convenience and facilitate ease of compliance, an IMS Offline Tool has now been introduced in the GST system. The said offline tool is based on MS excel making it easy to use by the taxpayers and it enables them to undertake actions on both individual as well as bulk invoices in an efficient manner. </p>
+<p>For detailed advisory on the IMS offline tool kindly click on the <a href="https://tutorial.gst.gov.in/downloads/news/advisory_on_ims_offline_tool_23rd_april_2026.pdf">link</a>.</p>
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/658</link>
+</item>
+<item>
 <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
 <title>[Returns] Advisory on Re-Computation of Interest under Table 5.1 of GSTR-3B</title>
 <description><![CDATA[
@@ -496,24 +508,6 @@ Team GSTN]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/638</link>
-</item>
-<item>
-<pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-<title>[Registration] Advisory for Furnishing of Bank Account Details as per Rule 10A</title>
-<description><![CDATA[
- 
-<p>Dear Taxpayers,</p>
-
-<p>As per Rule 10A, taxpayers (except those registered under TCS, TDS, or suo-moto registrations) must furnish their bank account details within 30 days of grant of registration or before filing details of outward supplies in GSTR-1 or IFF, whichever is earlier.</p>
-
-<p>The changes with respect to Rule 10A will be implemented on the GST Portal soon. Therefore, the taxpayers who have not yet furnished the bank account details till date are advised to update the same at the earliest to avoid suspension of their GST Registration and disruption of business activities.</p>
-
-<p>Bank account details can be added through a non-core amendment by navigating to:<br>
-<b>Services > Registration > Amendment of Registration Non-Core Fields.</b></p><br>
-
-Thanking You, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/637</link>
 </item>
 </channel>
 </rss>
