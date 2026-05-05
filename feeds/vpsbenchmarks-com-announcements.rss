@@ -5,6 +5,22 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+<title>VPSLab Expands Cryptocurrency Payment Options for VPS Hosting Services, Supporting 300+ Digital Assets</title>
+<description><![CDATA[
+        VPSLab has expanded its cryptocurrency payment options for VPS hosting services, increasing the number of supported digital assets to over 300.
+The update applies to all VPS hosting plans and introduces expanded support for cryptocurrency payments, including Bitcoin (BTC), Ethereum (ETH), and Monero (XMR), along with a broader range of additional digital assets.
+Crypto payments are available at checkout for both new VPS orders and service renewals across all products, including:
+
+Windows RDP servers
+Linux VPS servers
+*... (continued)
+
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/vpslabcloud-vpslab-expands-cryptocurrency-payment-options-for-vps-hosting-services-supporting-300-digital-assets-01</link>
+</item>
+<item>
 <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
 <title>Bluehost launches All-Access AI agent plans</title>
 <description><![CDATA[
@@ -233,20 +249,6 @@ The lineup is built on AMD Threadripper Pro CPUs, which offer an excellent balan
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/0pingeu-launches-new-high-ram-vps-line-with-octa-channel-performance-01</link>
-</item>
-<item>
-<pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
-<title>TakeHost.Biz Deploys New VPS Nodes Featuring AMD EPYC 7763</title>
-<description><![CDATA[
-        TakeHost.Biz today announced a significant upgrade to its Virtual Private Server (VPS) infrastructure with the deployment of new high-performance nodes powered by AMD EPYC 7763 processors. This hardware refresh aims to provide customers with substantial improvements in compute efficiency, network throughput, and workload stability.
-The new VPS offering utilizes the AMD EPYC 7763 (Milan) CPU architecture, delivering enhanced performance consistency and superior resource utilization for demanding applications, data processing, and development environments.
-Key specifications and performance details include:
-
-Processor:... (continued)
-
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/takehostbiz-deploys-new-vps-nodes-featuring-amd-epyc-7763-01</link>
 </item>
 </channel>
 </rss>
