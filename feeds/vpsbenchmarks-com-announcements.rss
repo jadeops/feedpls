@@ -5,6 +5,17 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+<title>Announcement: RakSmart Launches App Center for One-Click Deployment</title>
+<description><![CDATA[
+        Flexible cloud solutions provider RakSmart has officially launched its App Center, enabling customers to deploy popular open-source applications with a single click.
+RakSmart has announced the launch of its App Center, a new service designed to eliminate technical barriers for users deploying applications on cloud servers. The App Center allows customers to deploy applications instantly when purchasing a VPS or Bare Metal Cloud server, with no prior Linux or command-line experience required。
+The initial lineup covers a wide range of... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/raksmart-announcement-raksmart-launches-app-center-for-one-click-deployment-01</link>
+</item>
+<item>
 <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
 <title>VPSLab Expands Cryptocurrency Payment Options for VPS Hosting Services, Supporting 300+ Digital Assets</title>
 <description><![CDATA[
@@ -239,16 +250,6 @@ n8n makes it easy to automate... (continued)
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/contabo-free-1-click-apps-for-n8n-nextcloud-gitlab--wireguard-available-on-all-vps-and-vds-plans-01</link>
-</item>
-<item>
-<pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-<title>0ping.eu Launches New High-RAM VPS Line with Octa-Channel Performance</title>
-<description><![CDATA[
-        0ping.eu has announced the launch of its new High RAM VPS lineup, engineered for users who require extremely large memory capacity and uncompromising performance. Plans start at 16 GB RAM and extend up to 128 GB, all powered by octa-channel memory, delivering over 200 GB/s of memory bandwidth.
-The lineup is built on AMD Threadripper Pro CPUs, which offer an excellent balance between high single-core performance and massive RAM capacity/bandwidth, making them ideal for both compute-heavy and memory-intensive workloads. All... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/0pingeu-launches-new-high-ram-vps-line-with-octa-channel-performance-01</link>
 </item>
 </channel>
 </rss>
