@@ -5,6 +5,92 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+<title>[Refund] Filing of Annexure-B for Refund Applications involving Accumulated ITC using the offline utility in GST portal</title>
+<description><![CDATA[
+ 
+<p> 	Until now, while filing refund applications under specific categories involving accumulated Input Tax Credit (ITC), taxpayers were uploading Annexure-B in a PDF format, in terms of extant guidelines. In order to further automate the refund filing process and
+enable system-based verification of invoices and documents, a standardized Annexure-B Offline Utility has now been deployed on the portal. In order to bring uniformity, taxpayers are required to furnish Annexure-B through this prescribed utility going forward.</p>
+ 
+<p>Taxpayers are advised to carefully note the following instructions while filing refund applications under the below mentioned refund categories where refund is claimed on account of accumulated Input Tax Credit (ITC).</p>
+ 
+<p><b>1. Introduction of Annexure-B in Offline Utility for following categories</b>
+<p>Annexure-B is required to be furnished through an <b>offline utility</b> for the following refund categories:</p>
+<ul> •	Exports of Goods/Services <b>without payment of tax</b> (accumulated ITC) (excluding electricity)</ul> 
+<ul> •	Supplies made to <b>SEZ Unit/SEZ Developer without payment of tax</b></ul>
+<ul> •	ITC accumulated due to <b>Inverted Tax Structure </b>[Clause (ii) of first proviso to section 54(3)]</ul>
+<ul> •	Export of Electricity without payment of tax (accumulated ITC)</ul>
+</p>
+ 
+<p><b>2. Annexure-B OAline Utility</b>
+<p>		An offline utility in Excel format has been introduced to enable taxpayers to enter invoice-wise details of inward supplies for which refund is claimed. The details in the offline utility are required to be reported HSN/SAC-wise, by segregating invoices into separate line items based on distinct HSN/SAC codes and categories of input supplies (Inputs, Input Services, Capital Goods), wherever applicable.</p>
+<p> 	Further, all other columns in the utility must be filled specifically with respect to the HSN/SAC code and category of input supply reported in that line item, including the corresponding taxable value, tax amount, and whether such ITC is blocked under section
+17(5) of the CGST Act or otherwise. A maximum of 10,000 entries can be made in one offline utility file. If there are more than 10,000 entries, the user should use multiple oHline utility files to enter the data.</p>
+</p>
+ 
+ 
+<p><b>3. Structure of Annexure-B Offline Utility</b>
+<p>The utility contains the following two tables:</p>
+<ul>•	<b> Table 1 – Reversal Details</b></ul>
+<ul>•	<b>Table 2 – HSN/SAC-wise Inward Invoice Details</b> for which ITC has been claimed in GSTR-3B</ul>
+</p>
+ 
+ 
+<p><b>4. Reporting of Invoices with Multiple Categories / HSN-SAC Codes</b>
+<p>In cases where a single invoice includes: Multiple categories of supplies such as Inputs, Input Services, and Capital Goods, and/or Multiple HSN/SAC codes</p>
+<ul>•	Taxpayers are required to split the invoice into separate line items in the offline utility.</ul>
+<ul>•	Each line item must represent only one category of input supply mapped to one HSN/SAC code.</ul>
+<ul>•   Invoice value and tax amounts must be proportionately distributed across such line items.</ul>
+<p>A specific note has been added in the Read Me section (Point 6) of the utility for taxpayer guidance. Users are requested to read these instructions clearly before entering the data in the utility to avoid validation errors.</p>
+</p>
+ 
+<p><b>5. Duplicate Document Validation</b>
+<p>(Validation is applied separately for each type of inward supply and each document type):</p>
+<ul>•	Supplier GSTIN </ul>
+<ul> •	Invoice Number</ul>
+<ul> •	Invoice Date</ul>
+<ul>•	Category of Input Supply </ul>
+<ul> •	HSN/SAC</ul>
+<p>For the same invoice, where the category of input supply and HSN/SAC are identical, only one line item should be reported.</p>
+<p>Multiple entries under identical parameters will not be accepted.</p>
+</p>
+ 
+ 
+<p><b>6. Reporting of ITC Reversals</b>
+<p>Taxpayers are required to correctly report ITC reversals as applicable:</p>
+<ul>•	Reversals made under Rules 38, 42, 43 of the CGST Rules and section 17(5) shall be reported as per the corresponding month’s GSTR-3B.</ul>
+<ul>•	Other ITC reversals reflected in Table 4(B)(2) of GSTR-3B shall also be reported accordingly.</ul>
+<ul>•	In cases where multiple offline utility files are used, reversal amounts shall be entered only in the final utility file, with all previous utility files reflecting reversal amounts as zero. The system recalculates the consolidated Net ITC after upload of all JSON files. Taxpayers are advised to review the consolidated summary carefully prior to submission.</ul>
+</p>
+ 
+<p><b>7. Uploading Annexure-B JSON File</b>
+<p>Upon generation of the Annexure-B JSON file, the taxpayer shall upload the same on the RFD-01 screen by clicking on the hyperlink “Click to upload the Statement of invoices (Unutilized ITC)” and proceed further for validation.</p>
+</p>
+
+<p><b>8. Post-Upload Validation and Reports</b>
+<ul>•	Uploaded invoices shall be <b>validated with GSTR-2B.</b></ul>
+<ul>•	Where validation against GSTR-2B is performed,<b> results shall be displayed in the Valid documents sheet,</b> indicating whether the invoices are present in GSTR-2B or not.</ul>
+<ul>•	In respect of invoices pertaining to GSTR-2B periods up to October 2024 or earlier, the system will not carry out validation with GSTR-2B data. However, taxpayers will be allowed to enter details of such invoices in the utility and upload on the portal. In such cases, the system will display a generic message indicating that the invoices are not validated, however, these invoices will be part of the validated documents. This is an expected system behavior and shall not be treated as an error. Taxpayers may proceed with filing the refund application in such scenarios.</ul>
+<ul>•	Any mismatches or validation failures in invoices pertaining to November 2024 or later period, shall be reflected in an <b>Invalid documents Report.</b></ul>
+</p>
+
+<p><b>9. Following details may be noted in respect of the Annexure B offline utility, namely :</b>
+<ul>•	Copy-paste functionality has been enabled for dropdown values in the offline utility. While using this feature, users must ensure that the value that user if copying and pasting must match with the exact dropdown value. Any deviation, including leading or trailing spaces, may result in validation errors. Additionally, users should not paste data into any frozen/protected fields, as this may lead to processing or validation issues.</ul>
+<ul>•	Before using the newly downloaded utility, users should ensure that any previous version of the Annexure B Offline Utility is completely closed. Keeping an older version open simultaneously may cause issues with the enhanced copy-paste functionality.</ul>
+<ul>•	Users are advised to avoid using unnecessary spaces while entering or copy-pasting data (for example, extra spaces after supplier name or in other fields), as such inconsistencies may result in errors during JSON generation or upload.</ul>
+<ul>•	Users are requested to ensure that no changes are made directly to the JSON file after it has been generated. In case any modifications are required, the same should be made in the offline utility, followed by revalidation and generation of a fresh JSON file for upload. Further, the name of the JSON file should not be altered after creation, as this may lead to upload issues.</ul>
+</p>
+
+<p><b>10. Line-Item Upload Limit in offline utility uploaded with Refund Applications</b>
+<p>Present system functionality allows taxpayers to enter up to 10,000 line items in one offline utility file and upload up to 25 such files, i. e. a total of 2,50,000 line items can be entered in a single refund application. In cases where the number of line items exceeds this limit, taxpayers <b>should</b> upload up to 2,50,000 line items through the offline utility, and the remaining invoices can be submitted as supporting documents after converting them into PDF format. Approaches to support higher-volume data ingestion are being evaluated and will be implemented in upcoming enhancements.</p>
+<p>Taxpayers are requested to ensure accurate reporting in the offline utility to facilitate<b> smooth and timely processing of refund applications.</b> A detailed user manual along with screenshots explaining the process will be shared shortly. </p>
+</p>
+ 
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/660</link>
+</item>
+<item>
 <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
 <title>[Others] Gross and Net GST revenue collections for the month of Apr, 2026</title>
 <description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of Apr, 2026.</p></ul>
@@ -497,17 +583,6 @@ Moreover, the amendment of such supplies can always be reported in Form GSTR-1/I
 Thanking You, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/640</link>
-</item>
-<item>
-<pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-<title>[Returns] FAQs on GSTR -9/9C for FY 2024-25</title>
-<description><![CDATA[<p>
-Additional list of Frequently Asked Question along with the response has been compiled in response to comment received from various channel. The additional FAQ dt 4-12-2025 is intended to further assist the Taxpayer in better understanding of various Tables of GSTR-9/9C and their key aspects - such as reporting of various values in Tables. FAQ can be accessed by 
-<a href="https://tutorial.gst.gov.in/downloads/news/gstr9_additonal_faq_04122025.pdf" target="blank">clicking here.</a></p>
-
-Thanks, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/639</link>
 </item>
 </channel>
 </rss>
