@@ -5,10 +5,30 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+<title>[E-WAY BILL] Advisory to Taxpayers and Stakeholders – Enhancements in the e-Way Bill (EWB) Portal</title>
+<description><![CDATA[
+ 
+<p> As part of the ongoing efforts towards strengthening data quality, traceability, and operational efficiency in the E-Way Bill (EWB) system, certain functional enhancements are proposed to be introduced in the EWB portal.</p>
+ 
+<p>The advisory covers the following proposed changes:</p>
+<p>&nbsp;&nbsp;a)Mandatory capture of “Ship-To GSTIN” in Bill-To Ship-To transactions for improved traceability and data accuracy; and</p>
+<p>&nbsp;&nbsp;b)Introduction of EWB Closure functionality to enable taxpayers to voluntarily close E-Way Bills in specified scenarios.</p>
+
+<p>The advisory also includes the proposed implementation timelines and necessary action points for stakeholders to undertake requisite system changes and preparedness activities.</p>
+
+<p>The link to the advisory is provided below:<p>
+<p><a href="https://tutorial.gst.gov.in/downloads/news/gstn_advisory_ewb_approved.pdf" target="blank">https://tutorial.gst.gov.in/downloads/news/gstn_advisory_ewb_approved.pdf</a></p><br><br>
+
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/661</link>
+</item>
+<item>
 <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
 <title>[Refund] Filing of Annexure-B for Refund Applications involving Accumulated ITC using the offline utility in GST portal</title>
 <description><![CDATA[
- 
 <p> 	Until now, while filing refund applications under specific categories involving accumulated Input Tax Credit (ITC), taxpayers were uploading Annexure-B in a PDF format, in terms of extant guidelines. In order to further automate the refund filing process and
 enable system-based verification of invoices and documents, a standardized Annexure-B Offline Utility has now been deployed on the portal. In order to bring uniformity, taxpayers are required to furnish Annexure-B through this prescribed utility going forward.</p>
  
@@ -16,18 +36,17 @@ enable system-based verification of invoices and documents, a standardized Annex
  
 <p><b>1. Introduction of Annexure-B in Offline Utility for following categories</b>
 <p>Annexure-B is required to be furnished through an <b>offline utility</b> for the following refund categories:</p>
-<ul> •	Exports of Goods/Services <b>without payment of tax</b> (accumulated ITC) (excluding electricity)</ul> 
+<ul> •	Exports of Goods/Services <b>without payment of tax</b> (accumulated ITC) (<i>excluding electricity</i>)</ul> 
 <ul> •	Supplies made to <b>SEZ Unit/SEZ Developer without payment of tax</b></ul>
 <ul> •	ITC accumulated due to <b>Inverted Tax Structure </b>[Clause (ii) of first proviso to section 54(3)]</ul>
-<ul> •	Export of Electricity without payment of tax (accumulated ITC)</ul>
+<ul> •	<b>Export of Electricity without payment of tax</b> (accumulated ITC)</ul>
 </p>
  
-<p><b>2. Annexure-B OAline Utility</b>
+<p><b>2. Annexure-B Offline Utility</b>
 <p>		An offline utility in Excel format has been introduced to enable taxpayers to enter invoice-wise details of inward supplies for which refund is claimed. The details in the offline utility are required to be reported HSN/SAC-wise, by segregating invoices into separate line items based on distinct HSN/SAC codes and categories of input supplies (Inputs, Input Services, Capital Goods), wherever applicable.</p>
 <p> 	Further, all other columns in the utility must be filled specifically with respect to the HSN/SAC code and category of input supply reported in that line item, including the corresponding taxable value, tax amount, and whether such ITC is blocked under section
-17(5) of the CGST Act or otherwise. A maximum of 10,000 entries can be made in one offline utility file. If there are more than 10,000 entries, the user should use multiple oHline utility files to enter the data.</p>
+17(5) of the CGST Act or otherwise. A maximum of 10,000 entries can be made in one offline utility file. If there are more than 10,000 entries, the user should use multiple offline utility files to enter the data.</p>
 </p>
- 
  
 <p><b>3. Structure of Annexure-B Offline Utility</b>
 <p>The utility contains the following two tables:</p>
@@ -539,50 +558,6 @@ Furnishing bank account details is not mandatory for OIDAR and NRTP taxpayers. H
 Thanking You, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/641</link>
-</item>
-<item>
-<pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-<title>[Returns] Advisory on reporting values in Table 3.2 of GSTR-3B</title>
-<description><![CDATA[
- 
-<ol>
-<li>
-<p>Table 3.2 of Form GSTR-3B captures the inter-state supplies made to unregistered persons, composition taxpayers, and UIN holders out of the total supplies declared in Table 3.1 & 3.1.1 of GSTR-3B and is auto-populated from corresponding supplies declared in GSTR-1, GSTR-1A, and IFF in the requisite tables.</p>
-</li>
-
-<li>
-<p>It is to inform you that from <b>November-2025 tax period onwards</b>, value of supplies auto-populated in Table 3.2 of GSTR-3B from the returns/forms mentioned above, shall be made <b>non-editable</b>. The GSTR-3B shall be filed henceforth with the system generated auto-populated values only in table 3.2.</p>
-</li>
-
-<li>
-<p>Further, in case any modification/amendment is required in the auto-populated values of Table 3.2 of GSTR-3B, then the same can be done through GSTR-1A for the same tax period. The values thus reported in GSTR-1A shall change the auto-populated values of table 3.2 in GSTR-3B instantly and the taxpayers can file their GSTR-3B with the updated values. Moreover, the amendment of such supplies can always be reported in Form GSTR-1/IFF filed for subsequent tax periods.</p>
-</li>
-
-<li>
-<p>To ensure that GSTR-3B is filed accurately with the correct values with no hassle of frequent amendments, it is advised to report the correct values in GSTR-1, GSTR-1A, or IFF. This will ensure the auto-populated values in Table 3.2 of GSTR-3B are accurate and compliant with GST regulations.</p>
-</li>
-
-</ol>
-
-<p><u><b>FAQ’s</b></u></p>
-<ul> 
-<li><p><b>What are the recent changes related to reporting supplies in Table 3.2?</b></p>
-<p>Starting from the November 2025 tax period, the auto-populated values in Table 3.2 of GSTR-3B for inter-state supplies made to unregistered persons, composition taxpayers, and UIN holders will be non-editable, and taxpayers will need to file their GSTR-3B with the system-generated auto-populated values only.</p></li>
-
-<li> <p><b>How can I rectify values in Table 3.2 of GSTR-3B if incorrect values have been auto-populated after November 2025 period onwards due to incorrect reporting of the same through GSTR-1?</b></p>
-<p>If incorrect values are auto-populated in Table 3.2 after November 2025, then the taxpayers need to correct the values by making amendments through Form GSTR-1A for the same tax period. The values thus reported in GSTR-1A shall change the auto-populated values of table 3.2 in GSTR-3B instantly and the taxpayers can file their GSTR-3B with the updated values.</br>
-Moreover, the amendment of such supplies can always be reported in Form GSTR-1/IFF filed for subsequent tax periods.</p></li>
-
-<li><p><b>What should I do to ensure accurate reporting in Table 3.2 of GSTR-3B?</b></p>
-<p>Taxpayers should ensure that their supplies are reported correctly in their GSTR-1, GSTR-1A, or IFF. It is advised to review the draft GSTR-1 or GSTR-1A before filing so that any mistakes in the statement can be corrected therein. This will ensure that the accurate values are auto-populated in Table 3.2 of GSTR-3B.</p></li>
-
-<li><p><b>Till what time/date I can amend values furnished in GSTR-1 through Form GSTR-1A?</b></p>
-<p>As there is no cut-off date for filing Form GSTR-1A before GSTR-3B which means Form GSTR-1A can be filed after filing Form GSTR-1 and till the time of filing Form GSTR-3B. Hence, any amendment required in auto-populated values of table 3.2, same can be carried out through Form GSTR-1A till the moment of filing GSTR-3B. For more details on filing of GSTR-1A please click <a href="https://services.gst.gov.in/services/advisoryandreleases/read/506">https://services.gst.gov.in/services/advisoryandreleases/read/506</a></p></li>
-</ul>
-
-Thanking You, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/640</link>
 </item>
 </channel>
 </rss>
