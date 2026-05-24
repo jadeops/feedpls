@@ -53,24 +53,6 @@ More info in the All-Access product page.
 <link>https://www.vpsbenchmarks.com/announcements/bluehost-launches-all-access-ai-agent-plans-01</link>
 </item>
 <item>
-<pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-<title>LIASAIL Joins VPSBenchmarks as a Global Cloud Infrastructure Provider</title>
-<description><![CDATA[
-        LIASAIL is a global cloud infrastructure provider offering compute, networking, and IP resource services for international workloads. The company focuses on delivering stable environments for developers, businesses, and cross-border applications.
-Service Portfolio
-LIASAIL provides a range of infrastructure services, including:
-
-ECS virtual machines for general-purpose workloads
-Bare metal servers for dedicated performance requirements
-Native IP resources designed for business use cases
-Global network connectivity for cross-region deployments
-
-These services are accessible through a self-service platform... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/liasail-joins-vpsbenchmarks-as-a-global-cloud-infrastructure-provider-01</link>
-</item>
-<item>
 <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
 <title>Two new rankings: Hyperscalers 4 cores and Enterprise 2026</title>
 <description><![CDATA[
@@ -123,17 +105,6 @@ All plans run on virtualization nodes powered by Intel Xeon and AMD EPYC process
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/vpslabcloud-vpslab-introduces-kyc-free-vps-hosting-on-nvme-infrastructure-in-europe-01</link>
-</item>
-<item>
-<pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-<title>Verpex returns to VPSBenchmarks</title>
-<description><![CDATA[
-        Verpex, a UK-based provider with 9 global locations, is back on the platform. We are currently running a performance trial on a Linux Server D16. This specific plan features 8 dedicated cores and 16GB RAM, priced at $40 during the current promotion ($80/month regular price).
-In addition to hosting services, Verpex now provides setup guidance for OpenClaw, including configuration and runtime support.
-You can find more details on the Verpex provider page and track the ongoing trial results.
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/verpex-returns-to-vpsbenchmarks-02</link>
 </item>
 <item>
 <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
@@ -247,6 +218,30 @@ Powered by Intel Xeon processors and backed by enterprise SSD storage in RAID-10
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/vpsb-best-vps-2025-just-updated-01</link>
+</item>
+<item>
+<pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+<title>Contabo free 1-click Apps for n8n, Nextcloud, GitLab &amp; WireGuard available on all VPS and VDS plans</title>
+<description><![CDATA[
+        Contabo expanded its lineup of free 1-click applications, making self-hosting significantly faster and more accessible. Users can now deploy n8n, Nextcloud, WireGuard, and GitLab on any VPS or VDS in just a single click, without manual configuration or additional fees. 
+These additions simplify the setup of development tools, automation systems, private clouds, and secure networks - allowing users to get production-ready environments running within minutes. 
+1-Click Apps Available Now 
+ 
+n8n: Powerful Workflow Automation 
+n8n makes it easy to automate... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/contabo-free-1-click-apps-for-n8n-nextcloud-gitlab--wireguard-available-on-all-vps-and-vds-plans-01</link>
+</item>
+<item>
+<pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+<title>0ping.eu Launches New High-RAM VPS Line with Octa-Channel Performance</title>
+<description><![CDATA[
+        0ping.eu has announced the launch of its new High RAM VPS lineup, engineered for users who require extremely large memory capacity and uncompromising performance. Plans start at 16 GB RAM and extend up to 128 GB, all powered by octa-channel memory, delivering over 200 GB/s of memory bandwidth.
+The lineup is built on AMD Threadripper Pro CPUs, which offer an excellent balance between high single-core performance and massive RAM capacity/bandwidth, making them ideal for both compute-heavy and memory-intensive workloads. All... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/0pingeu-launches-new-high-ram-vps-line-with-octa-channel-performance-01</link>
 </item>
 </channel>
 </rss>
