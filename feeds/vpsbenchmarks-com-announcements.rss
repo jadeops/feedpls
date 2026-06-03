@@ -5,6 +5,20 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+<title>VPSLab Launches Privacy-Focused Storage VPS Hosting in Europe</title>
+<description><![CDATA[
+        VPSLab has launched a Storage VPS product line from its European data center infrastructure in Germany. The service is available as a KYC-free VPS hosting option — no identity verification or registration documents are required.
+Storage VPS instances run on Intel Xeon and AMD EPYC nodes with NVMe SSD storage and dedicated non-shared RAM allocations. Network-level DDoS protection is included on all plans at no additional cost.
+Storage VPS plans are available across five tiers:
+
+Start: 1 vCore /... (continued)
+
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/vpslab-launches-privacy-focused-storage-vps-hosting-in-europe-01</link>
+</item>
+<item>
 <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
 <title>ScalaHosting Launches Skai inside SPanel</title>
 <description><![CDATA[
@@ -232,16 +246,6 @@ n8n makes it easy to automate... (continued)
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/contabo-free-1-click-apps-for-n8n-nextcloud-gitlab--wireguard-available-on-all-vps-and-vds-plans-01</link>
-</item>
-<item>
-<pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-<title>0ping.eu Launches New High-RAM VPS Line with Octa-Channel Performance</title>
-<description><![CDATA[
-        0ping.eu has announced the launch of its new High RAM VPS lineup, engineered for users who require extremely large memory capacity and uncompromising performance. Plans start at 16 GB RAM and extend up to 128 GB, all powered by octa-channel memory, delivering over 200 GB/s of memory bandwidth.
-The lineup is built on AMD Threadripper Pro CPUs, which offer an excellent balance between high single-core performance and massive RAM capacity/bandwidth, making them ideal for both compute-heavy and memory-intensive workloads. All... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/0pingeu-launches-new-high-ram-vps-line-with-octa-channel-performance-01</link>
 </item>
 </channel>
 </rss>
