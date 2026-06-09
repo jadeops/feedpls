@@ -5,6 +5,28 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+<title>[EWay Bill] Extension of timeline for implementation of mandatory &quot;Ship To GSTIN&quot; and Voluntary Closure of E-Way Bill functionalities</title>
+<description><![CDATA[
+
+<p>Reference is invited to the GSTN Advisory dated 20.05.2026, wherein it was informed that the following functionalities would be implemented in the E-Way Bill system with effect from <b>15th June, 2026</b>:</p>
+
+<ul>1. Mandatory capture of <b>"Ship To GSTIN"</b> in Bill-To/Ship-To transactions; and</ul> 
+<ul>2. <b>Voluntary Closure of E-Way Bill</b> functionality.</ul>
+
+<p>Representations have been received from trade and industry seeking extension of the implementation timeline, citing the requirement of system changes, testing, API/ERP readiness and master data updation across the taxpayer ecosystem.</p>
+
+<p>In view of the above, and to facilitate smooth transition and adequate preparedness by taxpayers, GSPs, ERP providers and other stakeholders, it has been decided to extend the implementation timeline for both the above functionalities.</p>
+
+<p>Accordingly, the mandatory capture of <b>"Ship To GSTIN"</b> in Bill-To/Ship-To transactions and the <b>Voluntary Closure of E-Way Bill</b> functionality shall be implemented with effect from <b>1st August, 2026,</b> instead of <b>15th June, 2026.</b></p>
+
+<p>Taxpayers, GSPs, ERP providers and other stakeholders are advised to complete the necessary system changes, testing and operational preparedness before the revised implementation date.</p>
+
+Thank you, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/663</link>
+</item>
+<item>
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <title>[Others] Gross and Net GST revenue collections for the month of May, 2026</title>
 <description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of May, 2026.</p></ul>
@@ -522,18 +544,6 @@ Team GSTN]]></description>
 Thanking You, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/643</link>
-</item>
-<item>
-<pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-<title>[Returns] Consolidated FAQs on GSTR -9/9C for FY 2024-25</title>
-<description><![CDATA[
-
-<p>GSTN has published series of FAQ on 16th Oct, 2025 and  4th Dec, 2025 for assisting the taxpayer in filing of Annual Return i.e., GSTR-9/9C.  For convenience, the taxpayer may access Consolidated FAQs by 
-<a href="https://tutorial.gst.gov.in/downloads/news/combined_faq_on_gstr_9_and_9c_17122025.pdf" target="blank"">clicking here</a>.</p>
- 
-Thanking you , <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/642</link>
 </item>
 </channel>
 </rss>

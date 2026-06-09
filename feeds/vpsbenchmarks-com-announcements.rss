@@ -5,6 +5,15 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+<title>VoyraCloud first performance trial on Residential IP VPS</title>
+<description><![CDATA[
+        VoyraCloud, a new cloud provider based in Singapore with 8 locations around the world gets its very first performance trial at VPSBenchmark on a 2vCPUs 4GB plan. What's unique about VoyraCloud? They offer Residential IP VPS in the US, Europe and East Asia. VoyraCloud also offers regular Cloud VPS starting at $4.5/month.
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/voyracloud-first-performance-trial-on-residential-ip-vps-01</link>
+</item>
+<item>
 <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
 <title>VPSLab Launches Privacy-Focused Storage VPS Hosting in Europe</title>
 <description><![CDATA[
@@ -232,20 +241,6 @@ Powered by Intel Xeon processors and backed by enterprise SSD storage in RAID-10
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/vpsb-best-vps-2025-just-updated-01</link>
-</item>
-<item>
-<pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-<title>Contabo free 1-click Apps for n8n, Nextcloud, GitLab &amp; WireGuard available on all VPS and VDS plans</title>
-<description><![CDATA[
-        Contabo expanded its lineup of free 1-click applications, making self-hosting significantly faster and more accessible. Users can now deploy n8n, Nextcloud, WireGuard, and GitLab on any VPS or VDS in just a single click, without manual configuration or additional fees. 
-These additions simplify the setup of development tools, automation systems, private clouds, and secure networks - allowing users to get production-ready environments running within minutes. 
-1-Click Apps Available Now 
- 
-n8n: Powerful Workflow Automation 
-n8n makes it easy to automate... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/contabo-free-1-click-apps-for-n8n-nextcloud-gitlab--wireguard-available-on-all-vps-and-vds-plans-01</link>
 </item>
 </channel>
 </rss>
