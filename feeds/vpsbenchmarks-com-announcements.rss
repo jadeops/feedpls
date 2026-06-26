@@ -5,6 +5,17 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+<title>Arct Cloud Launches Performance-Focused VPS Hosting</title>
+<description><![CDATA[
+        Arct Cloud has launched as a VPS provider following the 2026 rebrand of ThorNode Cloud, a cloud infrastructure project originally started in January 2024.
+Built by an engineering-led team specialized in low-latency and performance-sensitive infrastructure, Arct Cloud is designed for users who need more than a generic virtual server. The platform focuses on developers, startups, crypto-native teams, forex traders, trading infrastructure operators, self-hosters, and businesses running workloads where CPU consistency, disk speed, network quality, and fast technical response matter.
+Arct... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/arct_cloud-arct-cloud-launches-performance-focused-vps-hosting-01</link>
+</item>
+<item>
 <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
 <title>Introducing torchbyte: Practical VPS Hosting Built for Real-World Performance</title>
 <description><![CDATA[
@@ -229,19 +240,6 @@ Left Sidebar (4 Main Sections):
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/hostup-native-eur-and-usd-payments-at-hostup-01</link>
-</item>
-<item>
-<pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-<title>Performance-Focused VPS Hosting with Transparent Pricing and Human Support</title>
-<description><![CDATA[
-        RackNerd is a US-based infrastructure provider offering VPS, dedicated servers, and web hosting services across multiple global data center locations.
-VPS Platforms: Intel Xeon and AMD Ryzen
-RackNerd operates two distinct KVM VPS product lines, allowing customers to choose the platform that best fits their workload requirements:
-Standard KVM VPS (Intel Xeon)
-Powered by Intel Xeon processors and backed by enterprise SSD storage in RAID-10, this lineup focuses on reliability, balanced performance, and predictable I/O behavior. It is well... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/racknerd-performance-focused-vps-hosting-with-transparent-pricing-and-human-support-01</link>
 </item>
 </channel>
 </rss>
