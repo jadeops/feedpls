@@ -5,6 +5,17 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+<title>Hyperscalers ARM vs AMD Compute Instances </title>
+<description><![CDATA[
+        By mid-2026, every major hyperscaler runs a production ARM line. AWS Graviton5 (Neoverse-V3) powers M9g instances. Azure Cobalt 100 (Neoverse-N2) ships in Dpsv6, with a Cobalt 200 preview (Neoverse-V3) promising up to 50% better CPU. Google Cloud Axion splits across N4A (Neoverse-N3, mainstream) and C4A (Neoverse-V2, heavy). Oracle OCI Ampere A4 (Ampere-1a) targets the low-cost segment. The Arm cloud is no longer an experiment: it is an infrastructure tier.
+CPU Performance: Four ARM Plans, Measured
+I ran four Hyperscaler... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/vpsb-hyperscalers-arm-vs-amd-compute-instances--01</link>
+</item>
+<item>
 <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
 <title>Arct Cloud Launches Performance-Focused VPS Hosting</title>
 <description><![CDATA[
@@ -231,15 +242,6 @@ Left Sidebar (4 Main Sections):
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/hostablanca-hosta-blanca-vps-in-spain-and-germany-01</link>
-</item>
-<item>
-<pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-<title>Native EUR and USD payments at HostUp</title>
-<description><![CDATA[
-        HostUp, a Swedish VPS and Web Hosting provider introduces native euro and dollar payments in addition to Swedish Krona. You can now buy your servers using the currency of your home country if it's in the Euro zone or in the USA. This will guarantee stable charges over time regardless of currency markets fluctuations.
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/hostup-native-eur-and-usd-payments-at-hostup-01</link>
 </item>
 </channel>
 </rss>
