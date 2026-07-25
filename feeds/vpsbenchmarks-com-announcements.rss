@@ -5,6 +5,17 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+<title>VPSLab Introduces 10 Gbps Premium Network Upgrade for Linux VPS, Windows RDP, and Storage VPS</title>
+<description><![CDATA[
+        VPSLab has introduced an optional Premium Network upgrade for customers requiring higher network throughput for bandwidth-intensive VPS hosting workloads.
+The new network option provides a 10 Gbps uplink with 15 TB of monthly data transfer and is available as an add-on for eligible VPS services during the ordering process.
+The Premium Network is intended for applications that benefit from increased network capacity, including large file transfers, media streaming, backup synchronization, content distribution, software repositories, and other workloads with sustained bandwidth... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/vpslab-introduces-10-gbps-premium-network-upgrade-for-linux-vps-windows-rdp-and-storage-vps-01</link>
+</item>
+<item>
 <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
 <title>Hyperscalers ARM vs AMD Compute Instances </title>
 <description><![CDATA[
@@ -232,15 +243,6 @@ Left Sidebar (4 Main Sections):
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/hostablanca-hosta-blanca-vps-in-spain-and-germany-01</link>
-</item>
-<item>
-<pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-<title>Native EUR and USD payments at HostUp</title>
-<description><![CDATA[
-        HostUp, a Swedish VPS and Web Hosting provider introduces native euro and dollar payments in addition to Swedish Krona. You can now buy your servers using the currency of your home country if it's in the Euro zone or in the USA. This will guarantee stable charges over time regardless of currency markets fluctuations.
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/hostup-native-eur-and-usd-payments-at-hostup-01</link>
 </item>
 </channel>
 </rss>
