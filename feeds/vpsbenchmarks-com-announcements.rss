@@ -5,6 +5,17 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+<title>ScalaHosting Partners with MariaDB Foundation and Moves Its Fleet to MariaDB 11.8</title>
+<description><![CDATA[
+        ScalaHosting is upgrading the database layer across its managed cloud VPS fleet from MariaDB 10.11 to MariaDB 11.8, and has joined MariaDB Foundation as a Gold Sponsor. Both are Long Term Support releases; 11.8 has been generally available since June 2025 and is maintained through June 2028. The upgrade is handled as part of the managed service, with no migration or application changes on the customer side.
+Where the performance difference shows up
+The substantive change is the query optimizer.... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/scalahosting-partners-with-mariadb-foundation-and-moves-its-fleet-to-mariadb-118-01</link>
+</item>
+<item>
 <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
 <title>VPSLab Introduces 10 Gbps Premium Network Upgrade for Linux VPS, Windows RDP, and Storage VPS</title>
 <description><![CDATA[
@@ -234,15 +245,6 @@ Left Sidebar (4 Main Sections):
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/raksmart-apac-anti-ddos-adds-200gbps-protection-console-gets-a-major-upgrade-01</link>
-</item>
-<item>
-<pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
-<title>Hosta Blanca VPS in Spain and Germany</title>
-<description><![CDATA[
-        Hosta Blanca, a young provider from Spain, is reviewed for the first time at VPSBenchmarks. Host Blanca offers VPS, Dedicated servers and domain registration. It has locations in Spain and Germany. VPS monthly prices start at 3.99€ for 2 vCPUs and 2GB RAM.
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/hostablanca-hosta-blanca-vps-in-spain-and-germany-01</link>
 </item>
 </channel>
 </rss>
