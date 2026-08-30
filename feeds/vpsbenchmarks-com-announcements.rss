@@ -5,6 +5,18 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+<title>VPSLab Launches VPS Reseller Infrastructure Program With White-Label Hosting and API Provisioning</title>
+<description><![CDATA[
+        VPSLab has launched a new VPS reseller infrastructure program for hosting providers, infrastructure operators, and resellers that want to build their own VPS hosting or dedicated server services using VPSLab infrastructure.
+The program provides two configurations: Full Infrastructure and Upstream Only. Full Infrastructure provides access to dedicated servers, compute, storage, network capacity, API-based provisioning, and white-label management. Upstream Only provides IP transit and DDoS-protected network capacity for providers that already operate their own servers.
+Full Infrastructure
+The Full Infrastructure... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/vpslab-launches-vps-reseller-infrastructure-program-with-white-label-hosting-and-api-provisioning-01</link>
+</item>
+<item>
 <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
 <title>Contabo Launches a New VPS Portfolio: Core, Performance, and Max Performance</title>
 <description><![CDATA[
@@ -223,23 +235,6 @@ OpenClaw is an application where the VPS performance is not essential given how 
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/contabo-openclaw-1-click-installer-on-contabo-vps-01</link>
-</item>
-<item>
-<pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-<title>Hexabyte launches S3-compatible Object Storage based in the EU, Sweden</title>
-<description><![CDATA[
-        Hexabyte has launched a new S3-compatible object storage service based in the EU, Sweden. The service is designed to integrate with standard S3-compatible tools and APIs and can be used across a variety of workloads.
-The price is €5 / TB / month with free ingress, egress and API calls.
-Typical use cases include:
-
-Server, database, and file backups
-Application storage requiring an S3-compatible API
-Media and file archives for images, video, and documents
-Cloud storage... (continued)
-
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/hexabyte-launches-s3-compatible-object-storage-based-in-the-eu-sweden-01</link>
 </item>
 </channel>
 </rss>
