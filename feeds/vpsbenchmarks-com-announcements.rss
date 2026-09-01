@@ -5,6 +5,16 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<title>Cloud Reports: Now Export Your Data to JSON</title>
+<description><![CDATA[
+        Cloud Reports have been a long-standing VPSBenchmarks product, helping cloud providers’ marketing teams promote their VPS and cloud server offerings. By presenting clear, numbers-backed comparisons, they make it easier to highlight a provider’s strengths against competing products and communicate value to prospective customers.
+Creating a report is straightforward. Select a set of plans from your own product lines and from competing providers, then choose the metrics you want to include. You can also add comments to explain the data, provide... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/vpsb-cloud-reports-now-export-your-data-to-json-01</link>
+</item>
+<item>
 <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
 <title>VPSLab Launches VPS Reseller Infrastructure Program With White-Label Hosting and API Provisioning</title>
 <description><![CDATA[
@@ -225,16 +235,6 @@ Deploy in Madrid
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/sphera-is-the-first-provider-from-saudi-arabia-at-vpsb-01</link>
-</item>
-<item>
-<pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-<title>OpenClaw 1-click installer on Contabo VPS</title>
-<description><![CDATA[
-        Contabo has introduced a one-click installation option for the OpenClaw AI assistant on its standard VPS infrastructure. You can run OpenClaw on Contabo’s entry-level Cloud VPS 10, which includes 8GB of RAM at a rate of €4.50 per month.
-OpenClaw is an application where the VPS performance is not essential given how the model API calls are going to be so much slower than everything else (unless you want to run the AI model locally of course). Me, I run... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/contabo-openclaw-1-click-installer-on-contabo-vps-01</link>
 </item>
 </channel>
 </rss>
