@@ -6,6 +6,21 @@
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<title>Togglebox introduces API, MCP server, Object Storage and more</title>
+<description><![CDATA[
+        The US cloud provider Togglebox is introducing multiple new features this Summer:
+
+A REST API with 258 endpoints for managing everything from VMs to support requests.
+An MCP server that wraps the API to manage your infrastructure from an AI agent.
+NVMe backed Object Storage.
+A cleaner, faster Client Area.
+
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/togglebox-introduces-api-mcp-server-object-storage-and-more-01</link>
+</item>
+<item>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <title>Cloud Reports: Now Export Your Data to JSON</title>
 <description><![CDATA[
         Cloud Reports have been a long-standing VPSBenchmarks product, helping cloud providers’ marketing teams promote their VPS and cloud server offerings. By presenting clear, numbers-backed comparisons, they make it easier to highlight a provider’s strengths against competing products and communicate value to prospective customers.
@@ -226,15 +241,6 @@ Deploy in Madrid
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/vpsb-new-locations-from-serveroptima-and-takehostbiz-01</link>
-</item>
-<item>
-<pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-<title>Sphera is the first provider from Saudi Arabia at VPSB</title>
-<description><![CDATA[
-        Sphera is the first cloud provider from Saudi Arabia to be featured on VPSBenchmarks. A first performance trial for the Sphera Tier 1 VPS plan is currently underway. Sphera differentiates its offering by including DDoS protection and daily backups at no additional cost across all VPS plans. This initial testing will provide standardized performance data for the Saudi Arabian region.
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/sphera-is-the-first-provider-from-saudi-arabia-at-vpsb-01</link>
 </item>
 </channel>
 </rss>
