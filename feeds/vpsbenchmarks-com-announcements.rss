@@ -5,6 +5,16 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<title>VPSLab Launches Ryzen 9 9950X VPS Hosting With Zen 5, DDR5 ECC and 10 Gbit/s Networking</title>
+<description><![CDATA[
+        VPSLab has launched a new Ryzen VPS hosting line based on AMD Ryzen 9 9950X processors and Zen 5 architecture. The new VPS plans are designed around dedicated CPU cores, DDR5 ECC memory, NVMe Gen4 storage, and 10 Gbit/s network ports.
+The Ryzen VPS line uses AMD Ryzen 9 9950X processors with up to 5.7 GHz boost clocks, 16 cores and 32 threads. VPSLab states that CPU cores are pinned to individual VPS instances through KVM rather than using an... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/vpslab-launches-ryzen-9-9950x-vps-hosting-with-zen-5-ddr5-ecc-and-10-gbits-networking-01</link>
+</item>
+<item>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <title>Togglebox introduces API, MCP server, Object Storage and more</title>
 <description><![CDATA[
@@ -220,27 +230,6 @@ All plans run on virtualization nodes powered by Intel Xeon and AMD EPYC process
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/vpslabcloud-vpslab-introduces-kyc-free-vps-hosting-on-nvme-infrastructure-in-europe-01</link>
-</item>
-<item>
-<pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-<title>New Locations from ServerOptima and TakeHost.Biz</title>
-<description><![CDATA[
-        Two providers have expanded their global footprint this week:
-
-
-ServerOptima is now available in Sydney, Australia (Equinix), featuring AMD EPYC 9684X infrastructure and NVMe storage for the APAC region.
-6C/30G/300GB: $37.80/month.
-Deploy in Sydney
-
-
-TakeHost.Biz has launched in Madrid, Spain, with Ryzen 9 9950X and Tier-1 Cogent connectivity. They are offering a temporary promotion for early orders including permanent RAM or CPU upgrades.
-1C/2G/30GB: 3.50€/month.
-Deploy in Madrid
-
-
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/vpsb-new-locations-from-serveroptima-and-takehostbiz-01</link>
 </item>
 </channel>
 </rss>
