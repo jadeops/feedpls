@@ -5,6 +5,17 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+<title>dataforest cloud is now listed on VPSBenchmarks</title>
+<description><![CDATA[
+        dataforest cloud is a self-service cloud platform based in Germany that went live in January 2026. It currently runs one region, fra01, in Frankfurt, and further locations will follow customer demand, with a focus on Europe.
+The platform's virtual servers are called Seeds. They run on KVM, are provisioned in seconds and billed by the hour with no minimum term, and their storage sits on a Ceph cluster that keeps three replicas on separate storage servers.
+Seeds come in three... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/dataforest-cloud-is-now-listed-on-vpsbenchmarks-01</link>
+</item>
+<item>
 <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
 <title>VPSLab Launches Ryzen 9 9950X VPS Hosting With Zen 5, DDR5 ECC and 10 Gbit/s Networking</title>
 <description><![CDATA[
@@ -220,16 +231,6 @@ The new pricing is available on the Pricing 2026 page.
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/vpsb-new-best-vps-2026-rankings-01</link>
-</item>
-<item>
-<pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-<title>VPSLab Introduces KYC-Free VPS Hosting on NVMe Infrastructure in Europe</title>
-<description><![CDATA[
-        VPSLab is a European VPS provider offering Linux VPS and Windows RDP hosting from data centers located in Germany. The company has launched its infrastructure with a focus on privacy, accepting no identity verification for standard orders and supporting payments via PayPal as well as cryptocurrencies including Bitcoin (BTC), Ethereum (ETH), Tether (USDT), Monero (XMR), and more.
-All plans run on virtualization nodes powered by Intel Xeon and AMD EPYC processors with DDR4 RAM and NVMe SSD storage. Each instance... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/vpslabcloud-vpslab-introduces-kyc-free-vps-hosting-on-nvme-infrastructure-in-europe-01</link>
 </item>
 </channel>
 </rss>
