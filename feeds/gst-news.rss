@@ -5,6 +5,101 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+<title>[Others] Advisory on use of version 3.3 of emSigner</title>
+<description><![CDATA[
+
+<p>This is an advance information to the all users – Taxpayers and Tax Officers, of GST System who use Digital Certificate Signature on the GST Portal.</p>
+
+<p>A new version of emSigner (v3.3) is being made available for download for the purpose of providing compatibility with tokens (USB dongles) that are issued on or after 21-September-2026.</p>
+
+<p><b>A. Users with valid certificates:</b> There is no change for the users having existing valid digital certificates and their existing token (USB Dongle) are working, as of 21-Sep-2026. If your existing DSC works normally, you may continue using your current emSigner version.</p>
+<p>If you encounter signing failures or if your certificate does not appear for selection despite correctly installed token drivers, upgrade to the emSigner version 3.3 by following steps given under point-B below. The emSigner version 3.3 is backward compatible to support the existing tokens (USB dongles).</p>
+
+<p><b>B. Users with newly issued tokens:</b> The users who have been issued a new token (USB Dongle) on or after 21-Sep-2026, either due to issuance of new certificate and dongle, or renewal of certificate in a new dongle, shall have to upgrade to version 3.3 of emSigner by following below steps:</p>
+
+<p><b>Step-1.</b>Please ensure that your system – desktop / laptop / AIO which on which the DSC is used for the GST System, meets the following minimum system requirements:</p>
+<p><b>1.1 Operating system and hardware</b></p> 
+<table border="1" cellpadding="5" cellspacing="0"> 
+<tr> <th><b>Item</b></th> 
+<th><b>Requirement</b></th> 
+</tr> 
+<tr> 
+<td>Operating system</td> 
+<td>Windows 10 or 11 (64-bit); Linux (Ubuntu 18 and above); macOS (10.6 and above)</td> 
+</tr> 
+<tr> 
+<td>System type</td> 
+<td>64-bit operating system</td> 
+</tr> 
+<tr> 
+<td>Installed RAM</td> 
+<td>8 GB and above</td> 
+</tr> 
+<tr> 
+<td>Storage</td> 
+<td>64 GB and above</td> 
+</tr> 
+</table><br>
+<p><b>1.2 Java</b></p> 
+<table border="1" cellpadding="5" cellspacing="0"> 
+<tr> <th><b>Item</b></th> 
+<th><b>Requirement</b></th> 
+</tr> 
+<tr> <td>Java runtime</td> 
+<td>Java 1.8 - OpenJDK or Oracle</td> 
+</tr> 
+<tr> 
+<td>Availability</td> 
+<td>Java must be pre-installed; it is not bundled with the installer</td> 
+</tr> 
+<tr> <td>Higher versions</td> 
+<td>Java 9 and above are not supported</td> 
+</tr> 
+</table><br>
+<p><b>1.3 Browser</b></p> 
+<table border="1" cellpadding="5" cellspacing="0"> 
+<tr> <th><b>Browser</b></th> 
+<th><b>Supported version</b></th> 
+</tr> 
+<tr> 
+<td>Internet Explorer</td> 
+<td>10.0 and above</td> 
+</tr> 
+<tr> 
+<td>Firefox</td> 
+<td>6.0 and above</td> 
+</tr> 
+<tr> 
+<td>Chrome</td> 
+<td>16.0 and above</td> 
+</tr> 
+<tr> 
+<td>Safari</td> 
+<td>6.0 and above</td> 
+</tr> 
+<tr> 
+<td>Opera</td> 
+<td>12.1 and above</td> 
+</tr> 
+<tr> 
+<td>Microsoft Edge</td> 
+<td>Since first version</td> 
+</tr> 
+</table><br>
+<p><b>Step-2.</b>Download & install the version 3.3 of emSigner from the GST Portal by navigating to <a href="https://www.gst.gov.in/help/docsigner" target="blank">https://www.gst.gov.in/help/docsigner</a>-the older versions of emSigner will not work for such new DSC dongles issued from 21 September 2026 onwards.</p>
+
+<p><b>C. Validity and future renewal:</b> Under CCA’s advisory, DSCs downloaded onto FIPS 140-2 dongles on or before 21 September 2026 can continue to be used until the DSC expires. That date does not automatically invalidate existing DSCs. Subsequent renewal or fresh issuance generally requires a FIPS 140-3 dongle, subject to CCA’s specified exceptions. The CCA migration advisory may be referred for more details on this aspect by navigating to <a href="https://cca.gov.in/sites/files/pdf/news/Advisory_on_Migration_from_FIPS_140-
+2_to_FIPS_140-3.pdf" target="blank">https://cca.gov.in/sites/files/pdf/news/Advisory_on_Migration_from_FIPS_140-
+2_to_FIPS_140-3.pdf</a></p>
+
+<p>Please create a ticket on the GST Helpdesk if you need any assistance while upgrading to the emSigner version 3.3 and our teams shall get in touch for resolution.</p><br>
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/672</link>
+</item>
+<item>
 <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
 <title>[Appeal] Enabling Filing of Appeals in Cases Involving NIL or Zero Demand Amount – reg.</title>
 <description><![CDATA[
@@ -405,19 +500,6 @@ Team GSTN]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/648</link>
-</item>
-<item>
-<pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-<title>[Returns] Advisory on Interest Collection and Related Enhancements in GSTR-3B</title>
-<description><![CDATA[
-
-<p>It is hereby informed that from January-2026 period onwards, few enhancements have been made in filing of GSTR-3B. For detailed advisory, kindly click on the link given below:</p>
-<p><a href="https://tutorial.gst.gov.in/downloads/news/final_advisory_on_interest_calculator.pdf" target="blank">https://https://tutorial.gst.gov.in/downloads/news/final_advisory_on_interest_calculator.pdf</a></p>
-
- 
-Thanking you , <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/647</link>
 </item>
 </channel>
 </rss>
