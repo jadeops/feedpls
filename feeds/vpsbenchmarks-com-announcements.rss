@@ -5,6 +5,17 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+<title>Contabo Launches GPU VPS with Dedicated NVIDIA RTX PRO 6000</title>
+<description><![CDATA[
+        Contabo has introduced GPU VPS, its first product to include a dedicated NVIDIA GPU. Each instance is allocated one dedicated NVIDIA RTX PRO 6000 built on the Blackwell architecture, with 96 GB of GDDR7 VRAM and 24,064 CUDA cores. 
+The fifth-generation Tensor Cores on the card include FP4 precision support, which allows larger models to run without splitting across multiple instances. The 96 GB VRAM capacity is sufficient to hold a 70-billion-parameter model on a single card. 
+Each GPU VPS... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/contabo-launches-gpu-vps-with-dedicated-nvidia-rtx-pro-6000-01</link>
+</item>
+<item>
 <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
 <title>Liga Hosting gets its first performance trial</title>
 <description><![CDATA[
@@ -217,20 +228,6 @@ New York City remains one of the most important... (continued)
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/radwebhosting-rad-web-hosting-doubles-new-york-city-network-capacity-to-meet-surging-demand-01</link>
-</item>
-<item>
-<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-<title>UpCloud will introduce new lines of Cloud Servers in May</title>
-<description><![CDATA[
-        UpCloud will introduce new Cloud Server plans on May 2nd.
-
-Starter plans starting at €3/month are designed for development, testing and self-hosting.
-Premium plans are designed for production and business-critical workloads.
-The new pricing is available on the Pricing 2026 page.
-
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/upcloud-will-introduce-new-lines-of-cloud-servers-in-may-01</link>
 </item>
 </channel>
 </rss>
