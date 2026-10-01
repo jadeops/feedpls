@@ -6,6 +6,20 @@
 <link>https://www.gst.gov.in/</link>
 <item>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<title>[Registration ] Advisory on “Multistate Registration” Facility for GST Registration</title>
+<description><![CDATA[<p>&nbsp;&nbsp; 1.It is informed that an option for “Multistate Registration” has been introduced. The functionality enables taxpayers to apply for registration in multiple States/UTs simultaneously. Taxpayers seeking GST registration in more than one State/UT under the same PAN can use this functionality. Currently, the functionality is available only for Normal Taxpayers.</p>
+<p>&nbsp;&nbsp; 2.A “Multistate Registration” tab has been introduced in the homepage of the Common Portal, where Taxpayers can select multiple States/UTs for registration. Upon selection of the required States/UTs, a Master TRN is generated.</p>
+<p>&nbsp;&nbsp; 3.Using the Master TRN, the applicant can provide the Common Registration Information (CRI), comprising details such as Business Details, Promoter/Partner details, Authorised signatory, Authorised representative, and Goods and Services. The Master TRN is required to be submitted within 15 days.</p>
+<p>&nbsp;&nbsp; 4.Once the CRI is submitted, individual TRNs are generated for each selected State/UT. In the respective individual TRN, the common information already provided through the CRI is auto populated and remains editable. Further, the applicant is required to provide the remaining information such as Principal Place of Business (PPoB), Additional Place of Business (APoB), State-specific Information, and Aadhaar authentication.</p>
+<p>&nbsp;&nbsp; 5.Thus, the applicant is not required to enter the common information separately for each State/UT Registration application. The functionality reduces repetitive data entry and facilitates ease of doing business.</p>
+
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/674</link>
+</item>
+<item>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <title>[Others] Gross and Net GST revenue collections for the month of September, 2026</title>
 <description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of September, 2026.</p></ul>
 <ul><p><a href="https://tutorial.gst.gov.in/downloads/news/final_gst_revenue_report_for_publishing_monthly_sep_2026.pdf" target="blank">https://tutorial.gst.gov.in/downloads/news/final_gst_revenue_report_for_publishing_monthly_sep_2026.pdf</a></p></ul>
@@ -442,64 +456,6 @@ Team GSTN]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/651</link>
-</item>
-<item>
-<pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-<title>[Registration] Facility for Withdrawal from Rule 14A</title>
-<description><![CDATA[
- 
-<p>GSTN has enabled a new online facility for eligible taxpayers to apply for withdrawal from the option availed under Rule 14A of the CGST Rules by filing Form GST REG-32 on the GST Portal.</p>
- 
- 
-<p>1. Who can apply<br>
-<ul>• Active Taxpayers who are registered under Rule 14A, may apply for OPT OUT in accordance with the provisions of the law.</ul> 
-</p>
- 
-<p>2. How to apply on the GST Portal<br>
-<ul>• After login, navigate to:<br>
-Services -> Registration -> Application for Withdrawal from Rule 14A <br>
-The link will be visible only if the taxpayer is registered under Rule 14A and is active.</ul>
-<ul>• The field “Option for registration under Rule 14A” will be selected as “No” by default.</ul> 
-<ul>• Enter “Reason for withdrawal from Rule 14A”.</ul>
-<ul>• Proceed to Aadhaar Authentication tab for Aadhaar Authentication of Primary Authorised Signatory and one Promoter/Partner. </ul>
-</p> 
- 
-<p>3. Key pre-conditions<br>
-<ul>• The registered person shall not be allowed to file Form GST REG-32 unless he has furnished,</ul>
-(a) returns for a period of minimum three months, if Form GST REG-32 is filed before 1st April, 2026;</br>
-(b) returns for a period of minimum one tax period, if Form GST REG-32 is filed on or after 1st April, 2026; and</br>
-(c) all the returns due for the period from the effective date of registration till the date of filing of Form GST REG-32.
-</p>
- 
- 
-<p>4. Aadhaar authentication <br>
-<ul>• Based on data analysis, the taxpayer will have to undergo either OTP based Aadhaar authentication or Biometric based Aadhaar Authentication. </ul> 
-<ul>• Authentication is required for:
-<ul>oPrimary Authorised Signatory (mandatory), and</ul>
-<ul>oAt least one Promoter/Partner (where applicable).</ul>
-</ul>
-<ul>• ARN will be generated only after successful Aadhaar authentication.</ul>
-</p>
- 
- 
-<p>5. Important timelines<br>
-<ul>• Draft application must be submitted within 15 days of creation.</ul>
-<ul>• Aadhaar/Biometric authentication must be completed within 15 days from submission.</ul>
-<ul>• If authentication is not completed within the prescribed time, ARN will not be generated.</ul>
-</p>
- 
- 
-<p>6. Restrictions during processing<br>
-<ul>• While Form GST REG-32 is pending after submission, Taxpayer cannot file Core amendment, non-core amendment and Self-cancellation application. </ul>
- 
-<p>7. Post-Sanction of Opt-Out<br>
-<ul>• The taxpayer who has received an order in Form GST REG-33 allowing withdrawal shall be able to furnish the details of output tax liability on supply of goods or services or both made to registered persons, exceeding the output tax liability of Rs.2.5 lakhs, from the first day of succeeding month in which the said order has been issued.</ul>
-</p>
- 
- 
-Thanks, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/650</link>
 </item>
 </channel>
 </rss>
