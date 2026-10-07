@@ -5,6 +5,17 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<title>dataforest cloud launches Block Storage</title>
+<description><![CDATA[
+        dataforest cloud has launched Block Storage for its cloud servers. The service provides volumes that attach to a server as additional disks, so customers can increase their storage without upgrading to a larger plan.
+The data on a volume stays intact when the server is reinstalled or deleted, and the volume can be moved to another server in the same location.
+All volumes are triple-replicated on NVMe SSDs using Ceph. Each copy is kept on a different storage server, so... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/dataforest-cloud-launches-block-storage-01</link>
+</item>
+<item>
 <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
 <title>Contabo Launches GPU VPS with Dedicated NVIDIA RTX PRO 6000</title>
 <description><![CDATA[
@@ -216,18 +227,6 @@ More info in the All-Access product page.
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/vpsb-two-new-rankings-hyperscalers-4-cores-and-enterprise-2026-01</link>
-</item>
-<item>
-<pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-<title>Rad Web Hosting Doubles New York City Network Capacity to Meet Surging Demand</title>
-<description><![CDATA[
-        Rad Web Hosting today announced a major expansion of its New York City network infrastructure, doubling its capacity to meet rapidly increasing demand for high-performance, low-latency hosting solutions.
-Driven by continued growth in enterprise workloads, SaaS platforms, and latency-sensitive applications, the expansion reinforces Rad Web Hosting’s commitment to delivering scalable, reliable infrastructure in one of the world’s most critical connectivity hubs.
-Strategic Expansion in a Critical Market
-New York City remains one of the most important... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/radwebhosting-rad-web-hosting-doubles-new-york-city-network-capacity-to-meet-surging-demand-01</link>
 </item>
 </channel>
 </rss>
