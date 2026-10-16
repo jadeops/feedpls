@@ -5,6 +5,102 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+<title>[e-Invoice] Introduction of e-Invoicing Facility for Recipient Generated Self Invoices under Reverse Charge Mechanism for Domestic Supplies from Unregistered Persons (RCMDOM) and Import of Services (RCMIMP)</title>
+<description><![CDATA[<p>Dear Taxpayers,</p>
+<p> The GST Council, in its 57th meeting has recommended extending e-invoicing to domestic supplies received from an unregistered person where the tax is payable under reverse charge mechanism, as well as to the import of services, for taxpayers having aggregate annual turnover of Rs. 5 crore and above. Accordingly, the e-Invoicing system is being enhanced to facilitate the reporting of recipient generated self-invoices under the Reverse Charge Mechanism (RCM). Accordingly, two new supply types, namely RCMDOM (Reverse Charge Mechanism on Domestic) and RCMIMP (Reverse Charge Mechanism on Import of Services), are being introduced to enable reporting of self-invoices for specified domestic supplies received from unregistered persons under RCM and import of services from suppliers located outside India.</p>
+
+<p>The new functionality would enable eligible registered taxpayers to generate Invoice Reference Numbers (IRNs) for such self-invoices in accordance with the applicable provisions of GST law.</p>
+
+<p><b>1. Introduction of New Supply Types</b></p>
+
+<p>The following two supply types are being incorporated into the existing e-Invoice framework:</p>
+
+<table border="1" cellpadding="5" cellspacing="0">
+<tr>
+<th>Supply Type</th>
+<th>Description</th>
+</tr>
+<tr>
+<td><b>RCMDOM</b></td>
+<td>
+            Recipient generated self-invoices for specified domestic supplies
+            received from unregistered persons, where the registered recipient
+            is liable to pay tax under RCM.
+</td>
+</tr>
+<tr>
+<td><b>RCMIMP</b></td>
+<td>
+            Recipient generated self-invoices for import of services from
+            suppliers located outside India, where the registered recipient
+            is liable to pay tax under RCM.
+</td>
+</tr>
+</table>
+  
+
+<p><b>2. Applicability</b></p>
+
+<p>The new functionality is intended for registered taxpayers having an Aggregate Annual Turnover (AATO) of &#8377;5 crore and above (i.e. the current eligibility threshold for e-Invoicing), subject to the relevant statutory provisions and notifications to be issued by the government in this regard. The scope, applicability and effective date of the requirement would be governed by the applicable notifications and provisions of GST law.</p>
+
+<p><b>3. Reporting of Recipient Generated Self-Invoices</b></p>
+
+<p>Under the existing B2B e-Invoice framework, invoices are ordinarily reported by registered suppliers. The proposed enhancement would extend the facility to eligible and active registered recipients for reporting self-invoices issued in respect of specified RCM transactions. For such transactions, taxpayers would be required to select the appropriate supply type code, <b>RCMDOM or RCMIMP</b>, while reporting the self-invoice through an authorised IRP. Upon successful submission and validation of the prescribed invoice particulars, an Invoice Reference Number (IRN) would be generated in accordance with the applicable e-Invoice specifications.</p>
+
+<p><b>4. Implementation and Availability in Sandbox</b></p>
+
+<p>The necessary system enhancements for incorporating the two new supply types, RCMDOM and RCMIMP, have been implemented in the sandbox environments of all six authorised Invoice Registration Portals (IRPs). Taxpayers, GST Suvidha Providers (GSPs), Application Service Providers (ASPs), ERPs and other integration partners may access the sandbox environments through the respective IRP portals listed below to undertake testing and prepare their systems for integration.</p>
+
+<table border="1" cellpadding="5" cellspacing="0">
+<tr>
+<th>IRP</th>
+<th>Portal URL</th>
+</tr>
+<tr>
+<td>NIC IRP-1</td>
+<td><a href="https://einvoice1.gst.gov.in">https://einvoice1.gst.gov</a>
+</tr>
+<tr>
+<td>NIC IRP-2</td>
+<td><a href="https://einvoice2.gst.gov.in">https://einvoice2.gst.gov.in</a>
+</tr>
+<tr>
+<td>Cygnet IRP-3</td>
+<td><a href="https://einvoice3.gst.gov.in">https://einvoice3.gst.gov.in</a>
+</tr>
+<tr>
+<td>Clear IRP-4</td>
+<td><a href="https://einvoice4.gst.gov.in">https://einvoice4.gst.gov.in</a>
+</tr>
+<tr>
+<td>EY IRP-5</td>
+<td><a href="https://einvoice5.gst.gov.in">https://einvoice5.gst.gov.in</a>
+</tr>
+<tr>
+<td>IRIS IRP-6</td>
+<td><a href="https://einvoice6.gst.gov.in">https://einvoice6.gst.gov.in</a>
+</tr>
+</table>
+
+<p><b>NIC e-Invoice API Developer Portal</b> :<a href="https://einv-apisandbox.nic.in/ ">https://einv-apisandbox.nic.in/</a></p>
+
+<p>The implementation, applicable business validations and validation codes for these two supply types would be uniform across all six IRPs, in accordance with the technical specifications and release note issued by NIC IRP-1.The functionality is presently available for sandbox testing and integration. The date of production rollout and commencement of the associated reporting requirements would be communicated in due time.</p>
+
+<p><b>5. Further Guidelines, Webinar and Preparatory Activities</b></p>
+
+<p>NIC IRP-1 would issue a detailed release note covering the technical specifications, business validations, validation codes and other operational requirements relating to RCMDOM and RCMIMP. Taxpayers and integration partners are advised to refer to the release note for detailed implementation requirements.</p>
+
+<p>GSTN along with IRPs would also organise a webinar to explain the new functionality and address relevant implementation aspects. The details of the webinar would be communicated separately.</p>
+
+<p>Taxpayers, GSPs, ASPs, ERPs and other stakeholders are requested to sensitise their wider ecosystem partners about these changes and undertake the necessary system development, integration and testing activities to ensure readiness for implementation. Taxpayers are advised to regularly visit the official e-Invoice portal <a href="https://einvoice.gst.gov.in">https://einvoice.gst.gov.in</a> for further updates and announcements.</p> 
+
+Thanking You, <br>
+
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/678</link>
+</item>
+<item>
 <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 <title>[Returns] Annual Returns in the form of GSTR-9/9C for FY 2025-26</title>
 <description><![CDATA[<p>Dear Taxpayer</p>
@@ -441,16 +537,6 @@ Team GSTN]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/655</link>
-</item>
-<item>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<title>[Others] Gross and Net GST revenue collections for the month of Mar, 2026</title>
-<description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of Mar, 2026.</p></ul>
-<ul><p><a href="https://tutorial.gst.gov.in/downloads/news/monthly_gst_data_for_mar_2026_for_publishing_final.pdf" target="blank">https://tutorial.gst.gov.in/downloads/news/monthly_gst_data_for_mar_2026_for_publishing_final.pdf</a></p></ul>
-
-Thanks, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/654</link>
 </item>
 </channel>
 </rss>
