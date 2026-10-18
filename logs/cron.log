@@ -1,4 +1,4 @@
 [INFO] Success itd-news.rss
 [INFO] Success gst-news.rss
-[INFO] Success lenovo-laptop-driver-updates.rss
+[ERROR] Failure lenovo-laptop-driver-updates.rss - no posts found.
 [INFO] Success vpsbenchmarks-com-announcements.rss
