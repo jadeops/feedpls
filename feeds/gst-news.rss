@@ -5,6 +5,24 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<title>[e-Invoice] Advisory – Scheduled Maintenance of e-Invoice Services (31 October – 1 November 2026)</title>
+<description><![CDATA[<p>Dear Taxpayers,</p>
+<p>Due to a scheduled infrastructure upgrade, certain e-Invoice-related services on the GST portal (<a href="https://einvoice.gst.gov.in" target="blank">https://einvoice.gst.gov.in</a>) would remain temporarily unavailable during the following period:</p>
+<p><b>Start:</b> 31 October 2026, 9:00 AM (IST)</p>
+<p><b>End:</b> 1 November 2026, 1:00 PM (IST)</p>
+<p><b>Affected services:</b></p>
+<p> 1. e-Invoice data retrieval and processing from IRPs.</p>
+<p> 2. Auto-population of e-Invoice data in GSTR-1.</p>
+<p> 3. e-Invoice JSON downloads through the portal and APIs.</p>
+<p>Taxpayers and other stakeholders are advised to plan their activities accordingly. The affected services are expected to resume after completion of the maintenance.</p>
+<p>The inconvenience caused is regretted.</p>
+
+Thanks, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/679</link>
+</item>
+<item>
 <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
 <title>[e-Invoice] Introduction of e-Invoicing Facility for Recipient Generated Self Invoices under Reverse Charge Mechanism for Domestic Supplies from Unregistered Persons (RCMDOM) and Import of Services (RCMIMP)</title>
 <description><![CDATA[<p>Dear Taxpayers,</p>
@@ -499,46 +517,6 @@ Team GSTN]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/656</link>
-</item>
-<item>
-<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-<title>[APPEAL] Subject: Difficulty in filing appeals on the GST portal in cases where adjudication orders reflect &quot;NIL&quot; demand due to prior voluntary payment – reg.</title>
-<description><![CDATA[
-
-<p><b>1. Introduction</b></p>
-
-<ul>It has come to the notice of GSTN that certain taxpayers are facing difficulties in filing appeals on the GST portal against demand orders wherein the demand amount is reflected as "NIL," despite the existence of a dispute regarding tax liability.</ul>
-
-<ul>This situation generally arises in cases where the taxpayer has made payment of tax, interest, or penalty (fully or partially) at the stage of issuance of the Show Cause Notice (SCN), without admitting the liability, and the adjudicating authority has subsequently issued a demand order treating such payment as full discharge of the demand without explicitly determining and recording the liability.</ul>
-
-<p><b>2. System Behaviour on GST Portal (Demand and Collection Register – DCR)</b></p>
-
-<ul>When a demand order is issued by the tax officer, the GST portal creates a Demand ID in the Demand and Collection Register (DCR), also known as the liability ledger.</ul>
-
-<ul>In cases where the tax officer issues a demand order with a NIL amount, an entry is created with zero value, indicating that there is no outstanding liability. When the taxpayer attempts to file an appeal application (APL-01) against such a demand order, the portal restricts the filing of the appeal and may display an error such as: "Disputed amount cannot be more than demand amount itself."</ul>
-
-<ul>Since no liability is reported by the tax officer on the GST portal, the system blocks the taxpayer from filing an appeal.</ul>
-
-<p><b>3. Nature of Issue:</b></p>
-
-<p>It is clarified that:</p>
-
-<ul>• Payment made during the SCN stage, without explicit admission of liability, does not amount to acceptance of the demand.</ul>
-
-<ul>• In such cases, the taxpayer retains the right to contest the liability and file an appeal under Section 107 of the Central Goods and Services Tax Act, 2017.</ul>
-
-<p>However, where the adjudication order incorrectly reflects a "NIL" demand, the taxpayer is unable to exercise this statutory right due to the NIL demand reflected in the system.</p>
-
-<p><b>4. Alternate solution:</b></p>
-
-<ul>In cases where a dispute regarding liability exists but is not captured by the department in the demand order, and payment has been made prior to the issuance of the demand order, the taxpayer is advised to approach the adjudicating authority for issuance of a rectification order.</ul>
-
-<ul>The taxpayer may file such rectification requests using the option available on the GST portal. Upon receipt of the rectification order reflecting the correct demand amount, the taxpayer may proceed to file an appeal on the GST portal within the prescribed time limits.</ul>
-
-
-Thanks, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/655</link>
 </item>
 </channel>
 </rss>
