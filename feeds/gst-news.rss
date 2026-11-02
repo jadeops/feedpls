@@ -138,71 +138,76 @@ Team GSTN]]></description>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <title>[Registration] Advisory on Simplified Registration Scheme under Rule 14B of the CGST Rules, 2017</title>
 <description><![CDATA[
- 
 <p>Pursuant to Notification No. 05/2026-Central Tax dated 26.10.2026, GSTN has introduced a facility on the GST Portal to enable eligible suppliers selling goods through e-Commerce Operators (ECOs) that collect tax at source under Section 52 of the CGST Act, 2017, to obtain registration under the Simplified Registration Scheme in terms of Rule 14B of the CGST Rules, 2017.</p>
 
 <p>Under this scheme, eligible taxpayers can obtain GST registration in a State/Union Territory where they do not have a physical place of business by utilising approved warehouse addresses of e-Commerce Operators as their Principal Place of Business (PPoB) and Additional Place(s) of Business (APoB), subject to the prescribed conditions.</p>
  
  
-<p><b>(A)Eligibility conditions:</b></p>
-<p>Taxpayers intending to opt for registration under Rule 14B should ensure that they fulfil the following conditions:</p>
+<p><b>(A) &nbsp;Eligibility conditions:</b></p>
+<p>Taxpayers intending to opt for registration under Rule 14B should ensure that they fulfil the following conditions:
 
-
-<p>1.The application shall be submitted in a State or Union territory where the taxpayer has neither a physical presence nor an active regular registration.</br>
-2.An application shall be applicable only in respect of jurisdictions other than those falling under the Other Territory category.</br>
-3.A single registration under the regular taxpayer category (through FORM GST REG-01 excluding composition taxpayer, ISD, SEZ Developer, SEZ Unit and casual taxpayer) shall be permitted in a State or Union territory against a single PAN under Rule 14B.</br>
-4.The taxpayer must have at least one regular and active GST registration under the same PAN in another State/UT (hereinafter referred to as the Home State GSTIN).</br>
-5.The Home State GSTIN must not be registered under Rule 14A or Rule 9A or belong to State Code 97. However, a taxpayer who has obtained registration under Rule 14A may withdraw from the said scheme and subsequently apply for registration under Rule 14B.</br>
-6.An application shall be permitted only where no proceedings under Section 29 have been initiated or no application for cancellation of registration has been filed in respect of the registration in the Home State or Union territory.</br>
-7.The total output tax liability on supplies made to registered persons should not exceed &#8377;2.5 lakh per month, comprising CGST, SGST/UTGST and IGST, in terms of Rule 14B.</br>
-8.The registration obtained under Rule 14B shall be used exclusively for making supplies through e-Commerce Operators and shall not be used for making non-e-Commerce supplies.</br></p>
+<ol>
+<li> The application shall be submitted in a State or Union territory where the taxpayer has neither a physical presence nor an active regular registration.</li>
+<li> An application shall be applicable only in respect of jurisdictions other than those falling under the Other Territory category.</li>
+<li> A single registration under the regular taxpayer category (through FORM GST REG-01 excluding composition taxpayer, ISD, SEZ Developer, SEZ Unit and casual taxpayer) shall be permitted in a State or Union territory against a single PAN under Rule 14B.</li>
+<li> The taxpayer must have at least one regular and active GST registration under the same PAN in another State/UT (hereinafter referred to as the Home State GSTIN).</li>
+<li> The Home State GSTIN must not be registered under Rule 14A or Rule 9A or belong to State Code 97. However, a taxpayer who has obtained registration under Rule 14A may withdraw from the said scheme and subsequently apply for registration under Rule 14B.</li>
+<li> An application shall be permitted only where no proceedings under Section 29 have been initiated or no application for cancellation of registration has been filed in respect of the registration in the Home State or Union territory.</li>
+<li> The total output tax liability on supplies made to registered persons should not exceed &#8377;2.5 lakh per month, comprising CGST, SGST/UTGST and IGST, in terms of Rule 14B.</li>
+<li>The registration obtained under Rule 14B shall be used exclusively for making supplies through e-Commerce Operators and shall not be used for making non-e-Commerce supplies.</li>
+</ol>
 </p>
 
-<p><b>(B)How to apply for registration under Rule 14B:</b></p>
-<p>Eligible taxpayers may apply for registration under Rule 14B through the GST Portal by following the steps below:</br>
+<p><b>(B)&nbsp;How to apply for registration under Rule 14B:</b></p>
+<p>Eligible taxpayers may apply for registration under Rule 14B through the GST Portal by following the steps below:
 
-<p>1.Navigate to Services &#8594; Registration &#8594; New Registration.</br>
-2.Select the taxpayer category and proceed to Part B of FORM GST REG-01.</br>
-3.Under the ‘Business Details’ tab, select ‘Yes’ against ‘Option for Registration under Rule 14B’.</br>
-4.Accept the mandatory declaration confirming compliance with the conditions and restrictions prescribed under Rule 14B.</br>
-5.Enter the Home State GSTIN in the field ‘Enter GSTIN where you have physical presence in other state’. The GSTIN must be regular, active and registered under the same PAN as that of the applicant.</br>
-6.Under the ‘Reason to Obtain Registration’ field, the option ‘Selling through e-Commerce portal’ will be selected automatically.</br>
-7.Under the PPoB and APoB tab, the taxpayer is required to enter the ‘E-Commerce Operator GSTIN’. The Address Access Request will be triggered to the ECO. Upon approval of the request by the ECO, access will be granted to the applicant to view and select the places of business linked to that ECO. The GSTIN entered for the e-Commerce Operator must be regular and active and must belong to the same State in which the applicant is seeking registration. Moreover, the said GSTIN must have at least one active TCS registration under the same PAN and in the same State/UT in which registration is being sought.</br>
-8.The status of the address access request will be displayed as follows:</br>
+<ol>
+<li> Navigate to Services &#8594; Registration &#8594; New Registration.</li>
+<li> Select the taxpayer category and proceed to Part B of FORM GST REG-01.</li>
+<li> Under the ‘Business Details’ tab, select ‘Yes’ against ‘Option for Registration under Rule 14B’.</li>
+<li> Accept the mandatory declaration confirming compliance with the conditions and restrictions prescribed under Rule 14B.</li>
+<li> Enter the Home State GSTIN in the field ‘Enter GSTIN where you have physical presence in other state’. The GSTIN must be regular, active and registered under the same PAN as that of the applicant.</li>
+<li> Under the ‘Reason to Obtain Registration’ field, the option ‘Selling through e-Commerce portal’ will be selected automatically.</li>
+<li> Under the PPoB and APoB tab, the taxpayer is required to enter the ‘E-Commerce Operator GSTIN’. The Address Access Request will be triggered to the ECO. Upon approval of the request by the ECO, access will be granted to the applicant to view and select the places of business linked to that ECO. The GSTIN entered for the e-Commerce Operator must be regular and active and must belong to the same State in which the applicant is seeking registration. Moreover, the said GSTIN must have at least one active TCS registration under the same PAN and in the same State/UT in which registration is being sought.</li>
+<li>The status of the address access request will be displayed as follows:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)Pending for Approval: “Address Access Approval Pending from Primary Authorised Signatory of [GSTIN].”</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)Upon Approval: “Address Access Request Approved.”</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)Upon Rejection: “Address Access Request Rejected.”</br>
-9.Once access is approved, select the relevant approved warehouse address(es) to be declared as the PPoB and/or APoB.</br>
-10.Under ‘Nature of Possession of Premises’, the option ‘E-Commerce Operator’s Warehouse under Rule 14B’ will be selected automatically.</br>
-11.Complete the remaining details and submit the application</br></p>
-</p>
+</li>
+<li> Once access is approved, select the relevant approved warehouse address(es) to be declared as the PPoB and/or APoB.</li>
+<li> Under ‘Nature of Possession of Premises’, the option ‘E-Commerce Operator’s Warehouse under Rule 14B’ will be selected automatically.</li>
+<li> Complete the remaining details and submit the application</li>
+</ol>
 
-<p><b>(C)Consent from e-Commerce Operators:</b></p>
-<p>1.Upon successful PAN validation and other prescribed system validations, the application will be forwarded to the concerned e-Commerce Operator(s) for their consent in respect of the selected warehouse address(es).</br>
-2.The concerned e-Commerce Operator(s) are required to provide consent within 7 working days of receiving the request.</br>
-3.The application will proceed to the next stage only after the requisite consent has been provided by the concerned e-Commerce Operator(s).</br>
-4.While providing consent, the e-Commerce Operator is also required to furnish the details of its Authorised Representative appointed in the concerned State/UT.</br>
-5.If the requisite consent for the PPoB is not received, the ARN will not be generated. Upon receipt of the requisite consent, the application will proceed to the next stage for Biometric-based Aadhaar Authentication and Document Verification, wherever applicable.</br>
-6.The e-Commerce Operator is advised not to file any application for amendment after providing consent for the PPoB and/or APoB and until the registration is approved. After the registration is granted to the supplier, the e-Commerce Operator may file an application for amendment. However, before filing such an application, the e-Commerce Operator shall withdraw the consent linked to all the concerned addresses.</br>
-</p>
+<p><b>(C) &nbsp;Consent from e-Commerce Operators:</b></p>
+<ol>
+<li> Upon successful PAN validation and other prescribed system validations, the application will be forwarded to the concerned e-Commerce Operator(s) for their consent in respect of the selected warehouse address(es).</li>
+<li> The concerned e-Commerce Operator(s) are required to provide consent within 7 working days of receiving the request.</li>
+<li> The application will proceed to the next stage only after the requisite consent has been provided by the concerned e-Commerce Operator(s).</li>
+<li> While providing consent, the e-Commerce Operator is also required to furnish the details of its Authorised Representative appointed in the concerned State/UT.</li>
+<li> If the requisite consent for the PPoB is not received, the ARN will not be generated. Upon receipt of the requisite consent, the application will proceed to the next stage for Biometric-based Aadhaar Authentication and Document Verification, wherever applicable.</li>
+<li> The e-Commerce Operator is advised not to file any application for amendment after providing consent for the PPoB and/or APoB and until the registration is approved. After the registration is granted to the supplier, the e-Commerce Operator may file an application for amendment. However, before filing such an application, the e-Commerce Operator shall withdraw the consent linked to all the concerned addresses.</li>
+</ol>
 
 
-<p><b>(D)Biometric-based Aadhaar Authentication and Document Verification:</b></p>
-<p>1.Upon receipt of consent from the concerned e-Commerce Operator(s), the system will check whether the prescribed Biometric-based Aadhaar Authentication and Document Verification requirements have already been completed for the Home State GSTIN. If the requisite verification has been completed earlier, the ARN will be generated.</br>
-2.If the prescribed verification has not been completed earlier, the Promoter/Partner (PP) and Primary Authorised Signatory (PAS) of the Home State GSTIN will be required to complete the prescribed Biometric-based Aadhaar Authentication and Document Verification process at the designated GST Seva Kendra (GSK)/facilitation centre, wherever applicable.</br>
-3.The PAS of the Home State GSTIN is required to select the person(s) who will undergo Aadhaar Authentication for the Rule 14B application. This selection can be made by logging into the Home State GSTIN through:</br>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<b>Services &#8594; Registration &#8594; Selection of Persons for Aadhaar Authentication under Rule 14B.</b></p>
-4.The subsequent Biometric-based Aadhaar Authentication and Document Verification process will follow the existing workflow. Taxpayers can book appointments through the GSK Appointment Booking System.</br>
-5.The ARN will be generated upon successful completion of the requisite verifications within 15 days from the date of submission of Part B of FORM GST REG-01. If the prescribed verifications are not completed within the stipulated period, the ARN will not be generated.</br>
-</p>
+<p><b>(D) &nbsp;Biometric-based Aadhaar Authentication and Document Verification:</b></p>
+<ol>
+<li> Upon receipt of consent from the concerned e-Commerce Operator(s), the system will check whether the prescribed Biometric-based Aadhaar Authentication and Document Verification requirements have already been completed for the Home State GSTIN. If the requisite verification has been completed earlier, the ARN will be generated.</li>
+<li> If the prescribed verification has not been completed earlier, the Promoter/Partner (PP) and Primary Authorised Signatory (PAS) of the Home State GSTIN will be required to complete the prescribed Biometric-based Aadhaar Authentication and Document Verification process at the designated GST Seva Kendra (GSK)/facilitation centre, wherever applicable.</li>
+<li> The PAS of the Home State GSTIN is required to select the person(s) who will undergo Aadhaar Authentication for the Rule 14B application. This selection can be made by logging into the Home State GSTIN through:<br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<b>Services &#8594; Registration &#8594; Selection of Persons for Aadhaar Authentication under Rule 14B.</b></li>
+<li>The subsequent Biometric-based Aadhaar Authentication and Document Verification process will follow the existing workflow. Taxpayers can book appointments through the GSK Appointment Booking System.</li>
+<li> The ARN will be generated upon successful completion of the requisite verifications within 15 days from the date of submission of Part B of FORM GST REG-01. If the prescribed verifications are not completed within the stipulated period, the ARN will not be generated.</li>
+</ol>
 
-<p><b>(E)Physical Verification and Processing of the Application:</b></p>
-<p>1.Upon generation of the ARN, the application will be assigned for a Field Visit if a Field Visit has not already been successfully conducted for the Home State GSTIN.</br>
-2.2.Upon successful completion of the Field Visit or expiry of 30 days from the date of ARN generation, whichever is earlier, the application will be deemed approved.</br>
-3.Upon approval, the Registration Certificate will be generated electronically.</br>
-4.In case of rejection, an intimation in FORM GST REG-05A will be issued electronically.</br>
-5.Where applications under Rule 14B are under process in multiple States or Union territories and a Field Visit associated with the GSTIN of the selected Home State, in connection with any such application, results in negative remarks, all such applications pending under Rule 14B shall be auto-rejected in FORM GST REG-05A.</br>
-</p>
+<p><b>(E) &nbsp;Physical Verification and Processing of the Application:</b></p>
+<ol> 
+<li>Upon generation of the ARN, the application will be assigned for a Field Visit if a Field Visit has not already been successfully conducted for the Home State GSTIN.</li>
+<li> Upon successful completion of the Field Visit or expiry of 30 days from the date of ARN generation, whichever is earlier, the application will be deemed approved.</li>
+<li> Upon approval, the Registration Certificate will be generated electronically.</li>
+<li> In case of rejection, an intimation in FORM GST REG-05A will be issued electronically.</li>
+<li> Where applications under Rule 14B are under process in multiple States or Union territories and a Field Visit associated with the GSTIN of the selected Home State, in connection with any such application, results in negative remarks, all such applications pending under Rule 14B shall be auto-rejected in FORM GST REG-05A.</li>
+</ol>
 
 <p>The registration granted under Rule 14B is subject to electronic cancellation in terms of clause (a) of sub-rule (24) of Rule 14B.</p>
  
