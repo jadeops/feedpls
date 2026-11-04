@@ -5,6 +5,45 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<title>[E-Way Bill] Revision in E-Way Bill and Consolidated E-Way Bill Numbering Formats w.e.f. 1 January 2027</title>
+<description><![CDATA[
+<p>It is hereby informed that, in view of the substantial volume of E-Way Bills generated, the existing numbering capacity is expected to be exhausted. Accordingly, the following revisions in the numbering formats are proposed with effect from 1 January 2027</p>
+ 
+<table border="1" cellpadding="5" cellspacing="0">
+<thead>
+<tr>
+<th>Document Type</th>
+<th>Existing Format</th>
+<th>Proposed Format</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>E-Way Bill Number</td>
+<td>12 digits</td>
+<td>14 digits</td>
+</tr>
+<tr>
+<td>Consolidated E-Way Bill Number</td>
+<td>10 digits</td>
+<td>11 digits</td>
+</tr>
+</tbody>
+</table>
+ 
+<p>All stakeholders, including taxpayers, GSPs, ERP/software providers and API integrators, are advised to make necessary modifications to their applications, APIs, database schemas and validation rules to accommodate the revised numbering formats.</p>
+ 
+<p>The changes will be released in the Sandbox environment shortly for testing, and the relevant details will be published on the E-Way Bill Portal.
+<b>Stakeholders are requested to ensure system readiness well before 1 January 2027</b> to facilitate a seamless transition and avoid any disruption to E-Way Bill-related operations.</p>
+ 
+
+
+Thanking you, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/687</link>
+</item>
+<item>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <title>[Registration] Advisory on Key Changes in the GST Registration Amendment Process</title>
 <description><![CDATA[
@@ -609,16 +648,6 @@ Team GSTN]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/666</link>
-</item>
-<item>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<title>[Others] Gross and Net GST revenue collections for the month of June, 2026</title>
-<description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of June, 2026.</p></ul>
-<ul><p><a href="https://tutorial.gst.gov.in/downloads/news/for_publishing_monthly_gst_revenue_june_2026.pdf" target="blank">https://tutorial.gst.gov.in/downloads/news/for_publishing_monthly_gst_revenue_june_2026.pdf</a></p></ul>
-
-Thanks, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/665</link>
 </item>
 </channel>
 </rss>
