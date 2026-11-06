@@ -5,6 +5,16 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+<title>dataforest launches hourly-billed cloud servers with dedicated NVIDIA RTX PRO 6000 Blackwell GPUs</title>
+<description><![CDATA[
+        dataforest cloud has launched GPU Seeds, cloud servers with one, two, four or eight dedicated NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs. They are billed by the hour with no minimum term and no setup fee. GPU Seeds are currently available in Frankfurt, Germany.
+Seeds are the platform's virtual servers. A GPU Seed is a Seed with one or more GPUs attached by PCIe passthrough. Each card belongs to a single Seed and is neither shared nor partitioned. The... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/dataforest_cloud-dataforest-launches-hourly-billed-cloud-servers-with-dedicated-nvidia-rtx-pro-6000-blackwell-gpus-01</link>
+</item>
+<item>
 <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
 <title>Melbicom launches Cloud VPS, dedicated servers and a CDN PoP in Marseille, France</title>
 <description><![CDATA[
@@ -212,22 +222,6 @@ The initial lineup covers a wide range of... (continued)
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/raksmart-launches-app-center-for-one-click-deployment-01</link>
-</item>
-<item>
-<pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-<title>VPSLab Expands Cryptocurrency Payment Options for VPS Hosting Services, Supporting 300+ Digital Assets</title>
-<description><![CDATA[
-        VPSLab has expanded its cryptocurrency payment options for VPS hosting services, increasing the number of supported digital assets to over 300.
-The update applies to all VPS hosting plans and introduces expanded support for cryptocurrency payments, including Bitcoin (BTC), Ethereum (ETH), and Monero (XMR), along with a broader range of additional digital assets.
-Crypto payments are available at checkout for both new VPS orders and service renewals across all products, including:
-
-Windows RDP servers
-Linux VPS servers
-*... (continued)
-
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/vpslabcloud-vpslab-expands-cryptocurrency-payment-options-for-vps-hosting-services-supporting-300-digital-assets-01</link>
 </item>
 </channel>
 </rss>
