@@ -5,6 +5,59 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+<title>[e-Invoice] Subject: Advisory on Implementation of e-Invoicing for RCM Domestic Supplies (RCMDOM) and Import of Services (RCMIMP) with effect from 1st January 2027</title>
+<description><![CDATA[
+<p>Dear Taxpayers,</p>
+ 
+<p>This is in continuation of the <a href="https://services.gst.gov.in/services/advisoryandreleases/read/678" target="blank"> earlier advisory dated 16 October 2026</a> regarding the introduction of e-Invoicing for recipient-generated self-invoices under the Reverse Charge Mechanism (RCM) for domestic supplies received from unregistered persons (RCMDOM) and import of services (RCMIMP).</p>
+
+ 
+ 
+<p>The Government, vide Notification No. 04/2026-Central Tax dated 26 October 2026, has extended the applicability of e-Invoicing to the above two categories of supplies <b>with effect from 1 January 2027.</b> The corresponding amendments to the CGST Rules and e-Invoice schema have also been notified vide Notification No. 05/2026-Central Tax dated 26 October 2026. In this regard, taxpayers and other stakeholders are informed of the following:</p>
+ 
+<p><b>1.  Sandbox Availability</b></p>
+ 
+<p>The functionality for RCMDOM and RCMIMP has already been made available in the sandbox environments of all six authorised Invoice Registration Portals (IRPs), as communicated through the earlier advisory. Taxpayers, GST Suvidha Providers, Application Service Providers, ERP providers and other integration partners are advised to complete the necessary development and testing using the respective IRP sandbox environments.</p>
+ 
+<p><b>2.  Production Rollout and Voluntary Early Adoption</b></p>
+ 
+<p>As a measure of facilitation and for smooth transition, the functionality is proposed to be enabled in the production environments of IRPs from 15 December 2026. During the period from 15 December to 31 December 2026, eligible taxpayers may voluntarily generate IRN for domestic supplies received from unregistered persons (RCMDOM) and import of services (RCMIMP) in the production environment to facilitate early adoption and integration readiness.</p>
+ 
+<p>
+<strong><em>
+        It may be noted that mandatory e-Invoicing for these two supply types would take effect from
+        1 January 2027 only, in accordance with the notified provisions.
+</em></strong>
+    Taxpayers, GSPs, ASPs, ERP providers and other integration partners are advised to use the sandbox
+    environments for testing with sample data. The production environment should be used only for genuine
+    transactions.
+</p>
+ 
+<p><b>3.</b> For the new supply types RCMDOM and RCMIMP, the system will accept documents dated 15 December 2026 or later, for IRN generation in the production environment.</p>
+ 
+<p><b>4. Technical Specifications and Release Notes</b></p>
+ 
+<p>Detailed technical specifications, business validations, validation codes and other implementation requirements for RCMDOM and RCMIMP are available through the NIC e-Invoice API Developer Portal: <a href="https://einv-apisandbox.nic.in/" target="blank">https://einv-apisandbox.nic.in/</a></p></p>
+
+<p>Taxpayers, GSPs, ASPs, ERP providers and other integration partners are advised to refer to the relevant NIC IRP-1 release notes and technical documentation while implementing the changes.</p>
+
+<p><b>5. Readiness for Implementation</b></p>
+
+<p>Taxpayers, GSPs, ASPs, ERP providers and other integration partners are requested to complete the necessary system development, integration and testing activities well before 1 January 2027. Stakeholders are also requested to sensitise their wider ecosystem partners and ensure readiness for the implementation of the new reporting requirements.</p>
+
+<p>For all other matters relating to applicability, scope, exemptions and compliance requirements, taxpayers are advised to refer to Notification No. 04/2026-Central Tax, Notification No. 05/2026-Central Tax and the relevant circulars issued by the Government. For further updates, taxpayers may visit the official e-Invoice portal at <a href="https://einvoice.gst.gov.in/" target="blank">https://einvoice.gst.gov.in.</a></p></p>
+ 
+ 
+ 
+ 
+ 
+
+Thanking you, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/688</link>
+</item>
+<item>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <title>[E-Way Bill] Revision in E-Way Bill and Consolidated E-Way Bill Numbering Formats w.e.f. 1 January 2027</title>
 <description><![CDATA[
@@ -607,47 +660,6 @@ Team GSTN]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/668</link>
-</item>
-<item>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<title>[Returns] Advisory on Revision of Timeline for Amendment of Aggregate Annual Turnover (AATO), 2026</title>
-<description><![CDATA[<ul><p>It is informed that the Aggregate Annual Turnover (AATO) functionality is currently being upgraded to enable automatic updation of AATO as subsequent returns are filed post amendment window. As this enhanced functionality is being deployed from 1st July 2026, the window for amendment of AATO by taxpayers for FY 2025-26 has been revised on the GST Portal.</p>
-
-<p>GSTN had earlier issued an advisory dated 02 May 2022 regarding the functionality for amendment of Aggregate Annual Turnover (AATO) on the GST Portal, which was applicable for AATO till FY 2024-25. Under the said advisory, taxpayers were provided the facility to amend their turnover during the month of May.</p>
-
-<p>In continuation thereof, it is informed that the timelines for submission of amendment applications and verification of amended AATO details by Tax Officers, in respect of FY 2025-26, have been revised.</p>
-
-<p>To ensure greater consistency, accuracy, and uniformity in the reporting of AATO across various modules of the GST Portal, certain system-level enhancements are being implemented. Consequently, the revised timelines for amendment of AATO for FY 2025-26 by the taxpayers and subsequent action by the tax officers are as under:</p>
-
-<table border ="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; margin-top: 10px; margin-bottom: 15px; margin-left: auto; margin-right: auto;">
-<thead>
-  <tr>
-    <th style="text-align: left; background-color: #f2f2f2;">Activity</th>
-	<th style="text-align: left; background-color: #f2f2f2;">Timeline</th>
-	 </tr>
-  </thread>
-   <tbody>
-     <tr>
-	  <td>AATO Amendment Application window for FY 2025-26</td>
-	  <td>01 July to 31 July 2026</td>
-	  </tr>
-	  <tr>
-	   <td>Review by jurisdictional Tax officer</td>
-	   <td>01 Aug to 15 Aug 2026</td>
-	 </tr>
-	</tbody>
-</table>
-    
-<p>Accordingly, the facility for amendment of AATO, which was earlier available during May as per the previous advisory, shall now be made available from 01 July to 31 July 2026 for FY 2025-26. The amended AATO details will be available for review of Tax Officers from 01 Aug to 15 Aug.</p>
-
-<p>All taxpayers are requested to take note of the revised timelines and carefully review the AATO details while submitting the amendment application and ensuring that the amended details are accurate before submission.</p>
-
-<p>In case of any difficulty or concern, taxpayers are advised to raise a grievance through the Self-Service Portal available on the GST Portal, along with all relevant details, to facilitate prompt and effective resolution.</p>
-
-
-Thanks, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/666</link>
 </item>
 </channel>
 </rss>

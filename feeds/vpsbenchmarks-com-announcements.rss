@@ -5,6 +5,15 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+<title>Raff is opening EU Central region</title>
+<description><![CDATA[
+        Raff it's expanding its Cost-Optimized cloud server product line to a brand new EU Central region located in Germany. A 1 vCPU / 2GB RAM / 25GB storage configuration with unmetered transfers is priced at $4.99/mo. Windows servers are also available starting at $22.99/mo including the Windows license.
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/raff-is-opening-eu-central-region-01</link>
+</item>
+<item>
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 <title>dataforest launches hourly-billed cloud servers with dedicated NVIDIA RTX PRO 6000 Blackwell GPUs</title>
 <description><![CDATA[
@@ -211,17 +220,6 @@ Accessible via a persistent chat window inside the SPanel dashboard, Skai levera
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/scalahosting-launches-skai-inside-spanel-01</link>
-</item>
-<item>
-<pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-<title>RakSmart Launches App Center for One-Click Deployment</title>
-<description><![CDATA[
-        Flexible cloud solutions provider RakSmart has officially launched its App Center, enabling customers to deploy popular open-source applications with a single click.
-RakSmart has announced the launch of its App Center, a new service designed to eliminate technical barriers for users deploying applications on cloud servers. The App Center allows customers to deploy applications instantly when purchasing a VPS or Bare Metal Cloud server, with no prior Linux or command-line experience required。
-The initial lineup covers a wide range of... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/raksmart-launches-app-center-for-one-click-deployment-01</link>
 </item>
 </channel>
 </rss>
