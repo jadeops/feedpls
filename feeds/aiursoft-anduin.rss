@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>aiursoft.com News (Anduin OS)</title>
+<description><![CDATA[aiursoft.com News (Anduin OS)]]></description>
+<link>https://news.aiursoft.com/</link>
+<item>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<title>AnduinOS 2.1.0 Arrives with Ubuntu 26.10 and GNOME 51</title>
+<description><![CDATA[AnduinOS 2.1.0 brings Ubuntu 26.10 “Stonking Stingray,” GNOME 51, and Linux 7.3 to AMD64 and ARM64. It is the first release in the AnduinOS 2 series based on a non LTS Ubuntu version. Alongside it, AnduinOS 2.0.6 delivers the same desktop, installation, and recovery improvements ...]]></description>
+<link>https://news.aiursoft.com/post/2026/11/18/anduin-os-2-1-0-arrives-with-ubuntu-26-10-and-gnome-51</link>
+</item>
+<item>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<title>An Update to the AnduinOS Privacy Statement</title>
+<description><![CDATA[We have revised the AnduinOS website’s privacy statement to explain more clearly how website access logs differ from software updates and the operating system itself. Why our website needs access logs As security vulnerabilities continue to be disclosed, public facing servers reg...]]></description>
+<link>https://news.aiursoft.com/post/2026/10/25/update-anduinos-privacy-statement</link>
+</item>
+<item>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<title>AnduinOS 2.0.5: Welcome, Agents! A New Bootloader and Better Secure Boot Support</title>
+<description><![CDATA[AnduinOS 2.0.5 brings optional coding agent setup, a new boot stack for fresh installations, and clearer Secure Boot recovery to the desktop. Welcome, Agents! Welcome Center now offers optional coding agent installation, with progress, logs, and application menu shortcuts. You ca...]]></description>
+<link>https://news.aiursoft.com/post/2026/10/25/anduinos-205-agents-new-bootloader-secure-boot-support</link>
+</item>
+<item>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+<title>Development Update: Disk Encryption &amp; Anduin 2.1.0 Delayed</title>
+<description><![CDATA[Hi everyone, Unfortunately, disk encryption support and the upcoming AnduinOS 2.1.0 release based on Ubuntu 26.10 will be delayed due to some unexpected technical challenges. What's happening? Ubuntu 26.10 has removed Btrfs support from its signed GRUB bootloader. Since AnduinOS ...]]></description>
+<link>https://news.aiursoft.com/post/2026/10/12/development-update-disk-encryption-and-anduin-2-1-0-delayed</link>
+</item>
+<item>
+<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+<title>AnduinOS 2.0.4: Rescue Center, a New GRUB Theme, and a More Complete Installer</title>
+<description><![CDATA[We are pleased to announce AnduinOS 2.0.4 , available now for AMD64 PCs and compatible ARM64 UEFI systems. This release makes installation and recovery more approachable. A new Rescue Center helps you work with an installed system that cannot start, an optional GRUB theme brings ...]]></description>
+<link>https://news.aiursoft.com/post/2026/10/03/anduinos-2-0-4-rescue-center-new-grub-theme-more-complete-installer</link>
+</item>
+<item>
+<pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+<title>AnduinOS 2.0.3: Dracut, Control Panel, Voice Input and a Refactored Installer</title>
+<description><![CDATA[We are pleased to announce AnduinOS 2.0.3 , available now for AMD64 PCs and compatible ARM64 UEFI systems. This release makes AnduinOS easier to set up, manage, and recover. A new Control Panel brings system tools together, private voice typing adds another way to work, and the i...]]></description>
+<link>https://news.aiursoft.com/post/2026/09/20/anduin-os-2-0-3-dracut-control-panel-voice-input-and-refactored-installer</link>
+</item>
+<item>
+<pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+<title>FAQ for AnduinOS</title>
+<description><![CDATA[Why choose GNOME over KDE for your project? For AnduinOS the real question is which platform minimizes the total engineering cost of building and maintaining the distribution I want. AnduinOS is based on Ubuntu, and Ubuntu itself is heavily GNOME oriented, so by staying on GNOME ...]]></description>
+<link>https://news.aiursoft.com/post/2026/09/20/faq-for-anduin</link>
+</item>
+<item>
+<pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+<title>AnduinOS 2.0.2 Is Now Available</title>
+<description><![CDATA[We are excited to announce the official release of AnduinOS 2.0.2 . This is one of the most substantial updates to AnduinOS 2 so far. It introduces a new native installer, Btrfs based recovery, dedicated tools for drivers and Secure Boot, improved hardware and virtual machine sup...]]></description>
+<link>https://news.aiursoft.com/post/2026/08/22/anduinos-202-is-now-available</link>
+</item>
+<item>
+<pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+<title>Beyond Familiarity: The Engineering Direction of AnduinOS</title>
+<description><![CDATA[AnduinOS is sometimes described as another Linux distribution designed to resemble Windows, or as an alternative to projects such as Zorin OS and Linux Mint. That description captures part of the user experience, but it does not fully represent our engineering direction. Differen...]]></description>
+<link>https://news.aiursoft.com/post/2026/07/29/beyond-familiarity-the-engineering-direction-of-anduinos</link>
+</item>
+<item>
+<pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+<title>AnduinOS Introduces Why AI: An On-Device, Privacy-Focused UNIX AI Tool</title>
+<description><![CDATA[As large language models become increasingly integrated into desktop environments, many operating systems rely on persistent background daemons or mandatory cloud API subscriptions. This architecture introduces potential privacy risks and strays from the minimalist efficiency of ...]]></description>
+<link>https://news.aiursoft.com/post/2026/07/25/anduin-os-introduces-why-ai-an-on-device-privacy-focused-unix-ai-tool</link>
+</item>
+</channel>
+</rss>

@@ -8,6 +8,7 @@ Below are automatically updated via Github Actions (every few hours).
 * https://www.gst.gov.in/ Latest news from GST Department, India
 * IdeaPad Pro 5 14IMH9 BIOS updates
 * https://www.vpsbenchmarks.com/announcements
+* https://news.aiursoft.com/ News from AnduinOS team
 
 ## Usage
 

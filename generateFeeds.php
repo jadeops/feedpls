@@ -179,7 +179,32 @@ function updateVpsBenchmarks(): void
     );
 }
 
+function updateAiursoftNews()
+{
+    $transformedPosts = [];
+    $html = file_get_contents('https://news.aiursoft.com/');
+    $doc = new Document($html);
+    $news = $doc->find('.article-post-summary');
+    foreach ($news as $article) {
+        $transformedPosts[] = [
+            'date' => trim($article->find('time')[0]->text()),
+            'title' => trim($article->find('.post-summary-title')[0]->text()),
+            'desc' => trim($article->find('p.post-summary-text')[0]->text()),
+            'link' => 'https://news.aiursoft.com' . $article->find('.post-summary-title a')[0]->attr('href'),
+        ];
+    }
+
+    createRssFeed(
+        title: 'aiursoft.com News (Anduin OS)',
+        desc: 'aiursoft.com News (Anduin OS)',
+        link: 'https://news.aiursoft.com/',
+        posts: $transformedPosts,
+        fileName: 'aiursoft-anduin'
+    );
+}
+
 updateIncomeTaxNews();
 updateGstNews();
 updateSelfLaptopDriverUpdates();
 updateVpsBenchmarks();
+updateAiursoftNews();

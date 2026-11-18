@@ -1,7 +1,7 @@
 {
     "require": {
-        "hkvstore/didom": "^2.0",
-        "mibe/feedwriter": "^1.1",
-        "symfony/http-client": "^7.3"
+        "hkvstore/didom": "^2.0.2",
+        "mibe/feedwriter": "^1.1.2",
+        "symfony/http-client": "^8.1.11"
     }
 }
