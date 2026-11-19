@@ -5,6 +5,12 @@
 <description><![CDATA[aiursoft.com News (Anduin OS)]]></description>
 <link>https://news.aiursoft.com/</link>
 <item>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+<title>AnduinOS Future Blueprint - Pro and Server</title>
+<description><![CDATA[AnduinOS has announced the release of two new editions, Pro and Server, designed to meet the needs of secure, offline, and server environments. AnduinOS Pro focuses on high security and reliability, supporting Secure Boot, disk encryption, and a rollback-capable root partition. It also includes a dedicated recovery environment and official offline update packages, allowing the system and security updates to be installed via external storage in environments without network access. Although the Pro edition is a paid product, it remains under the GPLv3 open-source license, allowing the community to compile it freely. Users who have contributed Issues, Pull Requests, or participated in Discord discussions before November 2026 will be granted a free license. AnduinOS Server is specifically designed for server scenarios, featuring a minimal graphical interface. It uses the ext4 file system by default and disables Zram. Its optimization focuses on throughput rather than latency. The system is free to download, but technical support is paid. The three editions will share a significant amount of code but will remain independent in terms of product evolution and default configurations. New features are expected to be available for preview before 2027.]]></description>
+<link>https://news.aiursoft.com/post/2026/11/19/anduin-os-future-blueprint-pro-and-server-2</link>
+</item>
+<item>
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 <title>AnduinOS 2.1.0 Arrives with Ubuntu 26.10 and GNOME 51</title>
 <description><![CDATA[AnduinOS 2.1.0 brings Ubuntu 26.10 “Stonking Stingray,” GNOME 51, and Linux 7.3 to AMD64 and ARM64. It is the first release in the AnduinOS 2 series based on a non LTS Ubuntu version. Alongside it, AnduinOS 2.0.6 delivers the same desktop, installation, and recovery improvements ...]]></description>
@@ -57,12 +63,6 @@
 <title>Beyond Familiarity: The Engineering Direction of AnduinOS</title>
 <description><![CDATA[AnduinOS is sometimes described as another Linux distribution designed to resemble Windows, or as an alternative to projects such as Zorin OS and Linux Mint. That description captures part of the user experience, but it does not fully represent our engineering direction. Differen...]]></description>
 <link>https://news.aiursoft.com/post/2026/07/29/beyond-familiarity-the-engineering-direction-of-anduinos</link>
-</item>
-<item>
-<pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-<title>AnduinOS Introduces Why AI: An On-Device, Privacy-Focused UNIX AI Tool</title>
-<description><![CDATA[As large language models become increasingly integrated into desktop environments, many operating systems rely on persistent background daemons or mandatory cloud API subscriptions. This architecture introduces potential privacy risks and strays from the minimalist efficiency of ...]]></description>
-<link>https://news.aiursoft.com/post/2026/07/25/anduin-os-introduces-why-ai-an-on-device-privacy-focused-unix-ai-tool</link>
 </item>
 </channel>
 </rss>
