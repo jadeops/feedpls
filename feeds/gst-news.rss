@@ -5,6 +5,53 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<title>[E-Way Bill] Advisory: Introduction of Metro Rail as an Additional Mode of Transport in the E-Way Bill System</title>
+<description><![CDATA[
+
+ 
+<p>In accordance with Notification No. 05/2026–Central Tax dated 26.10.2026, effective from 01.11.2026, Metro Rail has been included under Rule 138(2A) of the CGST Rules, 2017, for the transportation of goods.</p>
+
+ 
+ 
+<p>Accordingly, Metro Rail has been introduced as an additional mode of transport in the E-Way Bill system. Taxpayers and transporters can now select Metro Rail as the mode of transportation while generating E-Way Bills or updating Part-B details.</p>
+ 
+<p><b>1. Availability of the Facility</b></p>
+ 
+<p>The new transport mode has been enabled for the following functionalities through Web, Excel and API interfaces:</p>
+ 
+<p>1. E-Way Bill Generation</p>
+<p>2. Part-B Update</p>
+<p>3. Vehicle Update</p>
+<p>4. Consolidated E-Way Bill Generation</p>
+<p>5. Consolidated E-Way Bill Re-generation</p>
+
+<p>Current Deployment Status:</p>
+
+<p><b>•Web Users:</b> The facility is currently available in the Production environment.</p>
+<p><b>•API Users:</b> The functionality has been released in the Sandbox environment to facilitate integration and testing. API users are advised to undertake the necessary changes and complete testing before its rollout in Production.</p>
+
+<p><b>2. Important Instructions</b></p>
+
+<p>a) Taxpayers and transporters transporting goods through Metro Rail are required to select Metro Rail as the mode of transportation.</p>
+<p>b) Entry of the Transport Document Number is mandatory when Metro Rail is selected.</p>
+<p>c) The correct Transport Document Number and other relevant transportation details must be furnished before submission.</p>
+
+<p><b>3. Action Required</b></p>
+
+<p>Taxpayers and transporters are advised to select Metro Rail as the appropriate mode of transport while generating E-Way Bills or updating Part-B details for goods transported through Metro Rail.</p>
+
+<p>API users are advised to make the necessary changes in their systems and validate the functionality in the Sandbox environment. The availability of the facility in the API Production environment will be communicated separately.</p>
+
+<p>All stakeholders are requested to take note of the above changes.</p>
+ 
+ 
+
+Thanking you, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/689</link>
+</item>
+<item>
 <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 <title>[e-Invoice] Subject: Advisory on Implementation of e-Invoicing for RCM Domestic Supplies (RCMDOM) and Import of Services (RCMIMP) with effect from 1st January 2027</title>
 <description><![CDATA[
@@ -645,21 +692,6 @@ Team GSTN]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/669</link>
-</item>
-<item>
-<pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-<title>[E-Way Bill] Advisory on Keeping on Hold the Proposed e-Way Bill Enhancements</title>
-<description><![CDATA[<p>GSTN had earlier issued advisories dated 9th June 2026 and 17th June 2026 regarding certain proposed enhancements to the e-Way Bill system, with the scheduled date of implementation as 1st August 2026. Detailed FAQs relating to these enhancements were also issued on 2nd July 2026.</p>
-
-<p>It is hereby informed that the implementation of the above-mentioned enhancements has been kept on hold until further notice</p>
-
-<p>Accordingly, all stakeholders are advised that no changes are required to be implemented in the production environment pursuant to the aforesaid advisories until further communication.</p>
-
-<p>All related advisories, along with the  FAQs issued, shall also be withdrawn from the GST Portal.</p>
-
-Thanks, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/668</link>
 </item>
 </channel>
 </rss>

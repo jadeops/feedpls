@@ -5,6 +5,16 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<title>PomeloHost brings KVM VPS and game servers to South Florida</title>
+<description><![CDATA[
+        PomeloHost is a new US hosting provider from Florida, operated by FINLEADGEN LLC. It opened for orders in November 2026 and runs on its own servers in a data center in Boca Raton.
+The company's VPS line is built around a simple unit: one vCPU core, 4 GB of RAM and 50 GB of NVMe storage. KVM 1 is one such "slice", and KVM 2, KVM 4 and KVM 8 scale it linearly, up to 8 vCPUs, 32 GB of... (continued)
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/pomelohost-brings-kvm-vps-and-game-servers-to-south-florida-01</link>
+</item>
+<item>
 <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 <title>Raff is opening EU Central region</title>
 <description><![CDATA[
@@ -209,17 +219,6 @@ Start: 1 vCore /... (continued)
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/vpslab-launches-privacy-focused-storage-vps-hosting-in-europe-01</link>
-</item>
-<item>
-<pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-<title>ScalaHosting Launches Skai inside SPanel</title>
-<description><![CDATA[
-        Integrating your AI development work with your hosting environment has never been easier. ScalaHosting has launched Skai, a proprietary AI development assistant built natively into its custom control panel, SPanel. Rather than relying on external tools and manual configurations, ScalaHosting developed Skai to connect natural language AI generation directly with server infrastructure management.
-How Skai Works
-Accessible via a persistent chat window inside the SPanel dashboard, Skai leverages leading AI models like Grok and Claude to turn text descriptions... (continued)
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/scalahosting-launches-skai-inside-spanel-01</link>
 </item>
 </channel>
 </rss>
