@@ -5,6 +5,17 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+<title>Contabo introduces VPS Plus 2 as the entry-level plan of its Performance VPS line</title>
+<description><![CDATA[
+        Contabo has added VPS Plus 2 as the entry-level plan of its Performance VPS line. The plan includes 2 AMD EPYC vCPUs, 4 GB RAM, 75 GB NVMe storage, 300 Mbit/s network port speed, 5 snapshots and unlimited traffic subject to a fair usage policy. Monthly pricing is €9.00, $10.80 or £8.80.
+VPS Plus 2 can be ordered from Monday 23 November to Monday 30 November 2026 only.
+Performance VPS 2
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/contabo-introduces-vps-plus-2-as-the-entry-level-plan-of-its-performance-vps-line-01</link>
+</item>
+<item>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <title>PomeloHost brings KVM VPS and game servers to South Florida</title>
 <description><![CDATA[
@@ -205,20 +216,6 @@ Arct... (continued)
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/voyracloud-first-performance-trial-on-residential-ip-vps-01</link>
-</item>
-<item>
-<pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-<title>VPSLab Launches Privacy-Focused Storage VPS Hosting in Europe</title>
-<description><![CDATA[
-        VPSLab has launched a Storage VPS product line from its European data center infrastructure in Germany. The service is available as a KYC-free VPS hosting option — no identity verification or registration documents are required.
-Storage VPS instances run on Intel Xeon and AMD EPYC nodes with NVMe SSD storage and dedicated non-shared RAM allocations. Network-level DDoS protection is included on all plans at no additional cost.
-Storage VPS plans are available across five tiers:
-
-Start: 1 vCore /... (continued)
-
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/vpslab-launches-privacy-focused-storage-vps-hosting-in-europe-01</link>
 </item>
 </channel>
 </rss>
