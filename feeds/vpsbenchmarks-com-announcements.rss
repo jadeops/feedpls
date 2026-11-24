@@ -5,6 +5,15 @@
 <description><![CDATA[vpsbenchmarks.com Announcements]]></description>
 <link>https://www.vpsbenchmarks.com/announcements</link>
 <item>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+<title>tenma.cloud: new Swiss provider with 6 locations and DDoS protection</title>
+<description><![CDATA[
+        tenma.cloud is now featured on VPSBenchmarks. Its VPS are available in 6 countries on 3 continents and start at 3€/month. All VPS, Linux or Windows include 2Tbps L3/L4 DDoS protection in the Netherlands, free backup and schedulable snapshots. See tenma.cloud VPS plans
+
+      ]]></description>
+<link>https://www.vpsbenchmarks.com/announcements/tenmacloud-new-swiss-provider-with-6-locations-and-ddos-protection-01</link>
+</item>
+<item>
 <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
 <title>Contabo introduces VPS Plus 2 as the entry-level plan of its Performance VPS line</title>
 <description><![CDATA[
@@ -207,15 +216,6 @@ Arct... (continued)
 
       ]]></description>
 <link>https://www.vpsbenchmarks.com/announcements/arct_cloud-arct-cloud-launches-performance-focused-vps-hosting-01</link>
-</item>
-<item>
-<pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-<title>VoyraCloud first performance trial on Residential IP VPS</title>
-<description><![CDATA[
-        VoyraCloud, a new cloud provider based in Singapore with 8 locations around the world gets its very first performance trial at VPSBenchmark on a 2vCPUs 4GB plan. What's unique about VoyraCloud? They offer Residential IP VPS in the US, Europe and East Asia. VoyraCloud also offers regular Cloud VPS starting at $4.5/month.
-
-      ]]></description>
-<link>https://www.vpsbenchmarks.com/announcements/voyracloud-first-performance-trial-on-residential-ip-vps-01</link>
 </item>
 </channel>
 </rss>
