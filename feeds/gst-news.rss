@@ -5,6 +5,90 @@
 <description><![CDATA[News and updates from the GST Portal]]></description>
 <link>https://www.gst.gov.in/</link>
 <item>
+<pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+<title>[Refund] Enhancements in Refund Application (FORM GST RFD-01)</title>
+<description><![CDATA[
+<p><b>Subject</b>: Implementation of Enhancements in FORM GST RFD-01 pursuant to <b>Notification No. 05/2026-Central Tax dated 26 October 2026</b></p>
+
+<p>In accordance with the amendments introduced vide Notification No. 05/2026-Central Tax dated 26 October 2026, various enhancements are being introduced in the refund application functionality (FORM GST RFD-01) on the GST Portal.</p>
+
+<p>These changes are intended to align the refund application process with the amended provisions of the CGST Rules, 2017 and facilitate improved reporting, validation and processing of refund claims.</p>
+
+<ol>
+<li><b>Key Enhancements in Refund Application</b></li>
+<p>Some of the major enhancements being introduced in the applicable refund categories, including refunds on account of Inverted Duty Structure (IDS) and Zero-Rated Supplies are as follows:</p>
+<ol type="a">
+<li><b>Statement-related Changes</b></li>
+<ul>
+<li>Existing statements are renamed, wherever applicable, in accordance with the revised requirements</li>
+<li>Additional columns relating to HSN/SAC and applicable tax rates are being introduced in the relevant statements as per the notified format.</li>
+<li>Applicability of the respective statements shall be aligned with the relevant refund categories.</li>
+<li>Detailed Read Me instructions have been incorporated in the respective statements wherever new columns have been introduced. Taxpayers are advised to refer to these instructions for details regarding the information to be furnished and the manner in which such information is to be reported.</li>
+</ul>
+
+<li><b>Declarations and Undertakings</b></li>
+<p>The applicable declarations and undertakings in FORM GST RFD-01 are being revised and updated in line with the amended provisions.</p>
+<li><b>Business Profile</b></li>
+<p>An optional field is being introduced in FORM GST RFD-01 to enable taxpayers to provide a brief description of the nature of their business.</p>
+<li><b>Statement Validation</b></li>
+<p>For certain refund categories, including Inverted Duty Structure (IDS) and Export of Goods without Payment of Tax (excluding electricity), validation of statements shall now be carried out individually at the time of uploading each JSON file, instead of carrying out consolidated validation of all statements.</p>
+</ol>
+
+<li><b>Introduction of New Refund Categories</b></li>
+<p>Two new refund categories are being introduced on the GST Portal:</p>
+<ol type="a">
+<li><b>Refund on Account of Supplies Made to Merchant Exporters &quot;ITC accumulated due to inverted tax structure in cases where supply of goods has been made under notification No. 40/2017-CT(R) dated 23.10.2017 and notification No. 41/2017-IT(R) dated 23.10.2017(clause (ii) of first proviso to section 54(3))&quot;</b></li>
+<p>A separate refund category is being introduced for refund claims pertaining to supplies made to merchant exporters.
+<ul>
+<li>This refund category shall be applicable for the period commencing from November 2024 or the date of registration of the taxpayer, whichever is later.</li>
+<li>Refund claims pertaining to the period from the above applicable date onwards shall be filed under this newly introduced refund category.</li>
+<li>Refund claims pertaining to any period prior to the above applicable date shall continue to be filed under the existing applicable refund category and process.</li>
+</ul>
+<li><b>Refund on Account of Upward Revision in Prices &quot;Refund of Additional Integrated tax paid on Upward Revision in price of goods subsequent to export&quot;</b></li>
+
+<p>A new refund category is being introduced on the GST Portal for refund claims arising on account of upward revision in prices.</p>
+<ul>
+<li>This new refund category shall be enabled on the GST Portal with effect from 1 December 2026.</li>
+<li>Accordingly, from 1 December 2026 onwards, any refund application pertaining to upward revision in prices shall be filed under this newly introduced refund category.</li>
+</ul>
+<p>Taxpayers are advised to select the new refund category, wherever applicable, while filing such refund claims.</p>
+</ol>
+<li><b>Effective Date and Action Required for Existing Applications</b></li>
+<p>The enhanced refund application functionality shall be made available on the GST Portal with effect from 1 December 2026.</p>
+<p>Accordingly, all refund applications filed on or after this date shall be required to be furnished using the revised formats, statements, declarations and undertakings, as applicable to the respective refund category.</p>
+<p>Taxpayers are advised to take note of the following transition provisions:</p>
+<ol>
+<li><b>Applications already filed and ARN generated:</b> Refund applications that have already been finally filed and for which an Application Reference Number (ARN) has been generated shall remain unaffected. No fresh application is required in respect of such applications.</li>
+<li><b>Applications in Draft/Saved Draft/Submitted Status:</b> Applications already available in Draft, Saved Draft or Submitted status as on 1st December 2026 shall not be used for filing under the enhanced functionality. Taxpayers shall be required to initiate a fresh refund application using the revised format and furnish the requisite details afresh.</li>
+</ol>
+<li><b>Advisory to Taxpayers</b></li>
+<p>Taxpayers intending to file refund applications are advised to:</p>
+<ul>
+<li>review the revised refund categories and select the appropriate category;</li>
+<li>use the updated statements and formats available on the GST Portal;</li>
+<li>carefully refer to the Read Me instructions provided in the respective statements before furnishing the required details;</li>
+<li>ensure successful validation of the applicable statements/JSON files before proceeding with filing; and</li>
+<li>review the status of any existing refund application and take necessary action in accordance with the transition provisions mentioned above.</li>
+</ul>
+</ol>
+
+<br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/691</link>
+</item>
+<item>
+<pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+<title>[E-Invoice] Advisory – Scheduled Maintenance of e-Invoice Services.</title>
+<description><![CDATA[<p>Dear Taxpayers,</p>
+<p>A scheduled maintenance exercise is planned from 28-Nov-2026 0900 to 29-Nov-2026 1300 for the e-invoice system.
+The e-Invoice JSON download functionality (through the portal and APIs) would remain temporarily unavailable during this period.
+Taxpayers are advised to plan any of their related activities accordingly.</p>
+<p>The generation of e-invoice IRN would continue to be available uninterrupted during this period.</p>
+Thanking you, <br>
+Team GSTN]]></description>
+<link>https://services.gst.gov.in/services/advisoryandreleases/read/690</link>
+</item>
+<item>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <title>[E-Way Bill] Advisory: Introduction of Metro Rail as an Additional Mode of Transport in the E-Way Bill System</title>
 <description><![CDATA[
@@ -672,26 +756,6 @@ Team GSTN]]></description>
 Thanks, <br>
 Team GSTN]]></description>
 <link>https://services.gst.gov.in/services/advisoryandreleases/read/671</link>
-</item>
-<item>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<title>[Others] Gross and Net GST revenue collections for the month of August, 2026</title>
-<description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of August, 2026.</p></ul>
-<ul><p><a href="https://tutorial.gst.gov.in/downloads/news/aug_2026_gst_revenue_report_final_for_publishing_monthly.pdf" target="blank">https://tutorial.gst.gov.in/downloads/news/aug_2026_gst_revenue_report_final_for_publishing_monthly.pdf</a></p></ul>
-
-Thanks, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/670</link>
-</item>
-<item>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<title>[Others] Gross and Net GST revenue collections for the month of July, 2026</title>
-<description><![CDATA[<ul><p>Please click on the link below to view the gross and net GST revenue collections for the month of July, 2026.</p></ul>
-<ul><p><a href="https://tutorial.gst.gov.in/downloads/news/final_for_publishing_july_2026_monthly_gst_revenue_report.pdf" target="blank">https://tutorial.gst.gov.in/downloads/news/final_for_publishing_july_2026_monthly_gst_revenue_report.pdf</a></p></ul>
-
-Thanks, <br>
-Team GSTN]]></description>
-<link>https://services.gst.gov.in/services/advisoryandreleases/read/669</link>
 </item>
 </channel>
 </rss>
